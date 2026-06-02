@@ -7,4 +7,4 @@ jupyter
 seaborn==0.13.2
 mkl-devel
 scikit-fda
-tensorflow==2.20.0
+# tensorflow==2.20.0
