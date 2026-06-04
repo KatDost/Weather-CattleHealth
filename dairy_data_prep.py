@@ -38,9 +38,9 @@ df_w = df_w.reset_index(drop=True)
 # Calculate heat stress indices
 # -----------------------------
 temp = df_w['Max Air Temp (oC)']
-rh = df_w['Mean RH (%)']
-ws = df_w['Mean Wind Speed (m/s)']
-rad = df_w['Total Solar Radiation (MJ/m2/day)']
+rh = df_w['Mean RH (%)'] * 0.01  # convert to fraction
+ws = df_w['Mean Wind Speed (m/s)'] * 3.6  # convert to km/h
+rad = df_w['Total Solar Radiation (MJ/m2/day)'] / 24 # convert to MJ/m2/hour
 
 # THI = Temperature-Humidity Index
 df_w['THI'] = 0.8 * temp + rh * (temp - 14.4) + 46.4

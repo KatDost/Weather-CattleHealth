@@ -138,12 +138,13 @@ def build_palmy_dataframe(df_raw: pd.DataFrame) -> pd.DataFrame:
 if __name__ == "__main__":
     df_raw = fetch_open_meteo_csv(
         lat=-40.35, lon=175.61,
-        start_date="2023-08-05", end_date="2024-12-09",
+        # start_date="2023-08-05", end_date="2024-12-09",
+        start_date="2019-11-01", end_date="2020-02-20",
         timezone="Pacific/Auckland",
     )
     df_out = build_palmy_dataframe(df_raw)
 
-    out_csv = "data/palmerston_north_openmeteo_20230805_20241209_hourly_pseudo10min_rad.csv"
+    out_csv = "data/palmerston_north_openmeteo_20191101_20200220_hourly_pseudo10min_rad.csv"
     df_out.to_csv(out_csv, index=False)
     print(f"Saved: {out_csv}")
     print(df_out.head(10).to_string(index=False))
