@@ -1,0 +1,61 @@
+animal_type,target,fold,horizon,metric,score,n_train,n_test,n_features,best_params,convergence_warnings_main_process,n_test_dates,n_dates,n_train_dates
+steer,live weight,1,60,MAE,32.95885725496755,341,126,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,live weight,1,90,MAE,33.237369559912736,341,126,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,live weight,1,120,MAE,33.06628098819444,341,126,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,live weight,2,60,MAE,21.33642127677825,382,85,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,2,90,MAE,22.35226540800538,382,85,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,2,120,MAE,24.26129117588593,382,85,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,3,60,MAE,37.3569355445467,409,58,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,3,90,MAE,37.294429435741066,409,58,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,3,120,MAE,39.266997218587846,409,58,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,live weight,4,60,MAE,41.13619149539638,384,83,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,4,90,MAE,41.48442866084327,384,83,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,live weight,4,120,MAE,40.16625165186211,384,83,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,live weight,5,60,MAE,32.972073117131835,352,115,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,live weight,5,90,MAE,33.551878287823165,352,115,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,live weight,5,120,MAE,33.76197579301221,352,115,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,carcass weight,1,60,MAE,17.39511139262568,341,126,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,5,21,16
+steer,carcass weight,1,90,MAE,16.82833739559444,341,126,379,"{'elasticnet__alpha': 0.1, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,carcass weight,1,120,MAE,16.930436294555435,341,126,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,5,21,16
+steer,carcass weight,2,60,MAE,13.606633970818926,382,85,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,carcass weight,2,90,MAE,12.691721840662243,382,85,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,carcass weight,2,120,MAE,12.541555915518332,382,85,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,carcass weight,3,60,MAE,17.891555987632152,409,58,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,carcass weight,3,90,MAE,18.62549532079926,409,58,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,carcass weight,3,120,MAE,18.62549532079926,409,58,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,carcass weight,4,60,MAE,16.80793486445783,384,83,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,carcass weight,4,90,MAE,17.792868320121638,384,83,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,carcass weight,4,120,MAE,16.80793486445783,384,83,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,carcass weight,5,60,MAE,21.32437834320868,352,115,314,"{'elasticnet__alpha': 0.1, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,carcass weight,5,90,MAE,21.868270375995515,352,115,379,"{'elasticnet__alpha': 1, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,carcass weight,5,120,MAE,21.15259307288565,352,115,444,"{'elasticnet__alpha': 0.1, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,price,1,60,MAE,99.78588919155578,333,124,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,price,1,90,MAE,98.49720826304733,333,124,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,price,1,120,MAE,95.1868398071567,333,124,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,5,21,16
+steer,price,2,60,MAE,77.78003342824505,372,85,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,2,90,MAE,72.04365339741702,372,85,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,2,120,MAE,71.6681319832722,372,85,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,3,60,MAE,101.59764144679048,404,53,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,3,90,MAE,99.3522638635044,404,53,379,"{'elasticnet__alpha': 0.1, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,3,120,MAE,90.23479699947218,404,53,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,price,4,60,MAE,106.364929413293,374,83,314,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,4,90,MAE,101.94270251334775,374,83,379,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,price,4,120,MAE,102.3620083814993,374,83,444,"{'elasticnet__alpha': 10, 'elasticnet__l1_ratio': 0.1}",0,4,21,17
+steer,price,5,60,MAE,122.87079704786268,345,112,314,"{'elasticnet__alpha': 0.1, 'elasticnet__l1_ratio': 0.5}",0,4,21,17
+steer,price,5,90,MAE,125.70318686142424,345,112,379,"{'elasticnet__alpha': 1, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,price,5,120,MAE,123.4375840432641,345,112,444,"{'elasticnet__alpha': 1, 'elasticnet__l1_ratio': 0.9}",0,4,21,17
+steer,Total number of defects,1,60,Balanced accuracy,0.8035714285714286,341,126,314,"{'logisticregression__C': 0.1, 'logisticregression__l1_ratio': 0.5}",0,5,21,16
+steer,Total number of defects,1,90,Balanced accuracy,0.8035714285714286,341,126,379,"{'logisticregression__C': 0.1, 'logisticregression__l1_ratio': 0.5}",0,5,21,16
+steer,Total number of defects,1,120,Balanced accuracy,0.7202380952380952,341,126,444,"{'logisticregression__C': 0.1, 'logisticregression__l1_ratio': 0.5}",0,5,21,16
+steer,Total number of defects,2,60,Balanced accuracy,0.3586822660098522,382,85,314,"{'logisticregression__C': 1, 'logisticregression__l1_ratio': 0.9}",0,4,21,17
+steer,Total number of defects,2,90,Balanced accuracy,0.3177339901477832,382,85,379,"{'logisticregression__C': 1, 'logisticregression__l1_ratio': 0.9}",0,4,21,17
+steer,Total number of defects,2,120,Balanced accuracy,0.5166256157635468,382,85,444,"{'logisticregression__C': 1, 'logisticregression__l1_ratio': 0.9}",0,4,21,17
+steer,Total number of defects,3,60,Balanced accuracy,0.7392857142857143,409,58,314,"{'logisticregression__C': 0.1, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,3,90,Balanced accuracy,0.7392857142857143,409,58,379,"{'logisticregression__C': 0.1, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,3,120,Balanced accuracy,0.7392857142857143,409,58,444,"{'logisticregression__C': 10, 'logisticregression__l1_ratio': 0.9}",0,4,21,17
+steer,Total number of defects,4,60,Balanced accuracy,0.4544044665012406,384,83,314,"{'logisticregression__C': 0.1, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,4,90,Balanced accuracy,0.4252481389578163,384,83,379,"{'logisticregression__C': 0.01, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,4,120,Balanced accuracy,0.4252481389578163,384,83,444,"{'logisticregression__C': 0.01, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,5,60,Balanced accuracy,0.5866336633663367,352,115,314,"{'logisticregression__C': 10, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,5,90,Balanced accuracy,0.5866336633663367,352,115,379,"{'logisticregression__C': 1, 'logisticregression__l1_ratio': 0.1}",0,4,21,17
+steer,Total number of defects,5,120,Balanced accuracy,0.5866336633663367,352,115,444,"{'logisticregression__C': 10, 'logisticregression__l1_ratio': 0.9}",0,4,21,17
