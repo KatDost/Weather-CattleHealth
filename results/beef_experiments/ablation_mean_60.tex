@@ -1,0 +1,36 @@
+\begin{table}
+\caption{Relative changes (percent) after adding weather predictors through 60 days, using pooled mean absolute error for continuous outcomes and pooled balanced accuracy for defects. Negative error changes and positive balanced-accuracy changes indicate improvement. Balanced-accuracy changes are relative percentages, not percentage points.}
+\label{tab:beef:ablation_mean}
+\begin{tabular}{llrr}
+\toprule
+ &  & Heifer & Steer \\
+Model & Outcome &  &  \\
+\midrule
+\multirow[t]{4}{*}{ElasticNet (R/LR)} & live weight & +3.0\% & +3.4\% \\
+ & carcass weight & +3.9\% & +6.3\% \\
+ & indicative price & +2.3\% & -4.2\% \\
+ & has defects & +35.4\% & -8.1\% \\
+\cline{1-4}
+\multirow[t]{4}{*}{SVR/SVC} & live weight & +11.3\% & +1.8\% \\
+ & carcass weight & -0.6\% & -6.8\% \\
+ & indicative price & -0.4\% & -5.7\% \\
+ & has defects & +21.9\% & -22.8\% \\
+\cline{1-4}
+\multirow[t]{4}{*}{Random Forest} & live weight & +23.1\% & +1.0\% \\
+ & carcass weight & +10.7\% & +3.4\% \\
+ & indicative price & +10.4\% & +4.3\% \\
+ & has defects & +29.4\% & -10.6\% \\
+\cline{1-4}
+\multirow[t]{4}{*}{LightGBM} & live weight & +29.5\% & -7.9\% \\
+ & carcass weight & +9.2\% & +1.5\% \\
+ & indicative price & +11.4\% & +4.9\% \\
+ & has defects & +42.7\% & -23.2\% \\
+\cline{1-4}
+\multirow[t]{4}{*}{Hist Gradient Boosting} & live weight & +16.7\% & -6.8\% \\
+ & carcass weight & -4.7\% & +0.5\% \\
+ & indicative price & +2.1\% & +1.4\% \\
+ & has defects & +23.5\% & -20.0\% \\
+\cline{1-4}
+\bottomrule
+\end{tabular}
+\end{table}

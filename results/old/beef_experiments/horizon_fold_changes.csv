@@ -1,0 +1,161 @@
+animal_type,target,setting,model,fold,metric,score,n_train,n_test,n_features,n_train_dates,n_test_dates,best_params,convergence_policy,rejected_candidates,horizon,baseline,gain
+steer,live weight,Non-weather + weather 90,ElasticNet,1,MAE,24.18851428662497,533,61,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,24.18851428662497,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,1,MAE,24.17681647257275,533,61,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,24.18851428662497,0.011697814052219258
+steer,live weight,Non-weather + weather 90,ElasticNet,2,MAE,36.2077652933833,534,60,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,36.2077652933833,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,2,MAE,36.2077652933833,534,60,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,36.2077652933833,0.0
+steer,live weight,Non-weather + weather 90,ElasticNet,3,MAE,33.52963272297282,534,60,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,33.52963272297282,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,3,MAE,33.38575475483285,534,60,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,33.52963272297282,0.143877968139968
+steer,live weight,Non-weather + weather 90,ElasticNet,4,MAE,35.82604227243692,534,60,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,35.783031490765794,-0.043010781671128484
+steer,live weight,Non-weather + weather 120,ElasticNet,4,MAE,35.80488807280896,534,60,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,35.783031490765794,-0.02185658204316354
+steer,live weight,Non-weather + weather 90,ElasticNet,5,MAE,50.63849813860933,538,56,379,31,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,50.63849813860933,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,5,MAE,51.36760593832461,538,56,444,31,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,50.63849813860933,-0.7291077997152797
+steer,live weight,Non-weather + weather 90,ElasticNet,6,MAE,27.852357864543222,535,59,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,27.852357864543222,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,6,MAE,27.86062694420205,535,59,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,27.852357864543222,-0.008269079658827394
+steer,live weight,Non-weather + weather 90,ElasticNet,7,MAE,28.735615396800128,535,59,379,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,28.735615396800128,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,7,MAE,28.492955325767056,535,59,444,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,28.735615396800128,0.24266007103307174
+steer,live weight,Non-weather + weather 90,ElasticNet,8,MAE,32.87490258197368,535,59,379,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,32.87490258197368,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,8,MAE,32.87490258197368,535,59,444,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,32.87490258197368,0.0
+steer,live weight,Non-weather + weather 90,ElasticNet,9,MAE,48.30395131086142,534,60,379,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,48.30395131086142,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,9,MAE,48.24198177943845,534,60,444,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,48.30395131086142,0.061969531422974455
+steer,live weight,Non-weather + weather 90,ElasticNet,10,MAE,17.296947565543057,534,60,379,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,17.296947565543057,0.0
+steer,live weight,Non-weather + weather 120,ElasticNet,10,MAE,17.296947565543057,534,60,444,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,17.296947565543057,0.0
+steer,carcass weight,Non-weather + weather 90,ElasticNet,1,MAE,16.204733491218903,533,61,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,16.204733491218903,0.0
+steer,carcass weight,Non-weather + weather 120,ElasticNet,1,MAE,15.608221582613336,533,61,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,1.0,120,16.204733491218903,0.5965119086055672
+steer,carcass weight,Non-weather + weather 90,ElasticNet,2,MAE,19.374438202247195,534,60,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,0.0,90,19.374438202247195,0.0
+steer,carcass weight,Non-weather + weather 120,ElasticNet,2,MAE,19.145084966293727,534,60,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,19.374438202247195,0.22935323595346802
+steer,carcass weight,Non-weather + weather 90,ElasticNet,3,MAE,17.212146621596684,534,60,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,16.479936145969845,-0.7322104756268395
+steer,carcass weight,Non-weather + weather 120,ElasticNet,3,MAE,17.225802675236455,534,60,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,16.479936145969845,-0.7458665292666105
+steer,carcass weight,Non-weather + weather 90,ElasticNet,4,MAE,17.447923881436925,534,60,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,15.544592666901751,-1.9033312145351733
+steer,carcass weight,Non-weather + weather 120,ElasticNet,4,MAE,17.166400891124237,534,60,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,15.544592666901751,-1.6218082242224856
+steer,carcass weight,Non-weather + weather 90,ElasticNet,5,MAE,21.334467632671355,538,56,379,31,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,1.0,90,21.42587259163656,0.09140495896520306
+steer,carcass weight,Non-weather + weather 120,ElasticNet,5,MAE,21.10536488676949,538,56,444,31,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,1.0,120,21.42587259163656,0.3205077048670688
+steer,carcass weight,Non-weather + weather 90,ElasticNet,6,MAE,17.556627291388658,535,59,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,17.747988716528663,0.19136142514000554
+steer,carcass weight,Non-weather + weather 120,ElasticNet,6,MAE,17.511027750184333,535,59,444,30,3,"{""model__alpha"": 1, ""model__l1_ratio"": 0.9}",reject,1.0,120,17.747988716528663,0.23696096634433061
+steer,carcass weight,Non-weather + weather 90,ElasticNet,7,MAE,10.101678865191827,535,59,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,10.202299453071824,0.10062058787999639
+steer,carcass weight,Non-weather + weather 120,ElasticNet,7,MAE,10.11119370096596,535,59,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,10.202299453071824,0.09110575210586447
+steer,carcass weight,Non-weather + weather 90,ElasticNet,8,MAE,22.511041525503817,535,59,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,23.074225151405063,0.5631836259012459
+steer,carcass weight,Non-weather + weather 120,ElasticNet,8,MAE,22.01773465525561,535,59,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,23.074225151405063,1.0564904961494541
+steer,carcass weight,Non-weather + weather 90,ElasticNet,9,MAE,17.64748982099239,534,60,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,26.21360453123871,8.566114710246318
+steer,carcass weight,Non-weather + weather 120,ElasticNet,9,MAE,17.09511856153534,534,60,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,26.21360453123871,9.118485969703368
+steer,carcass weight,Non-weather + weather 90,ElasticNet,10,MAE,12.24625468164794,534,60,379,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,12.24625468164794,0.0
+steer,carcass weight,Non-weather + weather 120,ElasticNet,10,MAE,11.672846619253676,534,60,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,1.0,120,12.24625468164794,0.5734080623942646
+steer,price,Non-weather + weather 90,ElasticNet,1,MAE,94.4797517807162,523,61,379,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,78.5587234920587,-15.921028288657496
+steer,price,Non-weather + weather 120,ElasticNet,1,MAE,93.34195564899848,523,61,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,78.5587234920587,-14.783232156939775
+steer,price,Non-weather + weather 90,ElasticNet,2,MAE,115.7161290828982,529,55,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,90,108.70031207120032,-7.015817011697891
+steer,price,Non-weather + weather 120,ElasticNet,2,MAE,114.59326923831637,529,55,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,120,108.70031207120032,-5.892957167116052
+steer,price,Non-weather + weather 90,ElasticNet,3,MAE,92.119218543518,524,60,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,90,90.15524674557336,-1.9639717979446374
+steer,price,Non-weather + weather 120,ElasticNet,3,MAE,97.46654394258164,524,60,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,2.0,120,90.15524674557336,-7.3112971970082725
+steer,price,Non-weather + weather 90,ElasticNet,4,MAE,103.62158822609004,524,60,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,3.0,90,91.54474959528676,-12.07683863080328
+steer,price,Non-weather + weather 120,ElasticNet,4,MAE,100.4399386235405,524,60,444,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,91.54474959528676,-8.89518902825374
+steer,price,Non-weather + weather 90,ElasticNet,5,MAE,117.50053940129804,530,54,379,31,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,118.77699862404964,1.2764592227515976
+steer,price,Non-weather + weather 120,ElasticNet,5,MAE,116.8940414119663,530,54,444,31,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,118.77699862404964,1.8829572120833404
+steer,price,Non-weather + weather 90,ElasticNet,6,MAE,105.75085869437017,525,59,379,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,3.0,90,106.9891365788828,1.238277884512641
+steer,price,Non-weather + weather 120,ElasticNet,6,MAE,102.13615699837928,525,59,444,30,3,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,3.0,120,106.9891365788828,4.852979580503529
+steer,price,Non-weather + weather 90,ElasticNet,7,MAE,59.05197230807005,525,59,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,2.0,90,59.39599729057118,0.3440249825011321
+steer,price,Non-weather + weather 120,ElasticNet,7,MAE,58.76696354840394,525,59,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,2.0,120,59.39599729057118,0.6290337421672376
+steer,price,Non-weather + weather 90,ElasticNet,8,MAE,122.85131171608477,528,56,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,2.0,90,126.49019725393867,3.638885537853909
+steer,price,Non-weather + weather 120,ElasticNet,8,MAE,119.81069863225063,528,56,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,2.0,120,126.49019725393867,6.67949862168804
+steer,price,Non-weather + weather 90,ElasticNet,9,MAE,104.42588254005594,524,60,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,90,114.61186123710054,10.185978697044604
+steer,price,Non-weather + weather 120,ElasticNet,9,MAE,102.94787942524565,524,60,444,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,120,114.61186123710054,11.663981811854896
+steer,price,Non-weather + weather 90,ElasticNet,10,MAE,57.19664392026728,524,60,379,29,4,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,90,60.81871903151655,3.6220751112492735
+steer,price,Non-weather + weather 120,ElasticNet,10,MAE,66.73283149722063,524,60,444,29,4,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,60.81871903151655,-5.914112465704079
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,1,Balanced accuracy,0.3141025641025641,533,61,379,30,3,"{""model__C"": 1, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.3141025641025641,-0.0
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,1,Balanced accuracy,0.3141025641025641,533,61,444,30,3,"{""model__C"": 1, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.3141025641025641,-0.0
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,2,Balanced accuracy,0.5,534,60,379,30,3,"{""model__C"": 0.01, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.5,-0.0
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,2,Balanced accuracy,0.5,534,60,444,30,3,"{""model__C"": 0.01, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.5,-0.0
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,3,Balanced accuracy,0.4257884972170686,534,60,379,30,3,"{""model__C"": 0.1, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.6410018552875696,-21.5213358070501
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,3,Balanced accuracy,0.4257884972170686,534,60,444,30,3,"{""model__C"": 0.1, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.6410018552875696,-21.5213358070501
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,4,Balanced accuracy,0.5,534,60,379,30,3,"{""model__C"": 1, ""model__l1_ratio"": 0.9}",reject,0.0,90,0.5,-0.0
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,4,Balanced accuracy,0.5,534,60,444,30,3,"{""model__C"": 1, ""model__l1_ratio"": 0.9}",reject,0.0,120,0.5,-0.0
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,5,Balanced accuracy,0.59375,538,56,379,31,2,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.3229166666666666,27.083333333333343
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,5,Balanced accuracy,0.5,538,56,444,31,2,"{""model__C"": 10, ""model__l1_ratio"": 0.9}",reject,0.0,120,0.3229166666666666,17.708333333333343
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,6,Balanced accuracy,0.7143734643734644,535,59,379,30,3,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.7143734643734644,-0.0
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,6,Balanced accuracy,0.7143734643734644,535,59,444,30,3,"{""model__C"": 0.01, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.7143734643734644,-0.0
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,7,Balanced accuracy,0.5994252873563218,535,59,379,29,4,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.5,9.942528735632184
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,7,Balanced accuracy,0.5,535,59,444,29,4,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.5,-0.0
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,8,Balanced accuracy,0.7569444444444444,535,59,379,29,4,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.7100694444444444,4.6875
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,8,Balanced accuracy,0.7100694444444444,535,59,444,29,4,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.7100694444444444,-0.0
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,9,Balanced accuracy,0.7074030552291422,534,60,379,29,4,"{""model__C"": 1, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.6938895417156287,1.3513513513513487
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,9,Balanced accuracy,0.7074030552291422,534,60,444,29,4,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.6938895417156287,1.3513513513513487
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,10,Balanced accuracy,0.4166666666666667,534,60,379,29,4,"{""model__C"": 0.1, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.5833333333333334,-16.666666666666668
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,10,Balanced accuracy,0.4166666666666667,534,60,444,29,4,"{""model__C"": 1, ""model__l1_ratio"": 0.9}",reject,0.0,120,0.5833333333333334,-16.666666666666668
+heifer,live weight,Non-weather + weather 90,ElasticNet,1,MAE,47.40138906201305,201,32,379,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,47.40138906201305,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,1,MAE,47.40138906201305,201,32,444,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,120,47.40138906201305,0.0
+heifer,live weight,Non-weather + weather 90,ElasticNet,2,MAE,20.0004886131889,204,29,379,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,20.0004886131889,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,2,MAE,19.210898924532447,204,29,444,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,120,20.0004886131889,0.7895896886564522
+heifer,live weight,Non-weather + weather 90,ElasticNet,3,MAE,16.952830940988868,209,24,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,16.952830940988868,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,3,MAE,16.76072129988294,209,24,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,16.952830940988868,0.19210964110592954
+heifer,live weight,Non-weather + weather 90,ElasticNet,4,MAE,35.69295583440122,212,21,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,35.69295583440122,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,4,MAE,37.709188926911374,212,21,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,35.69295583440122,-2.0162330925101557
+heifer,live weight,Non-weather + weather 90,ElasticNet,5,MAE,17.686600603188285,211,22,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,17.686600603188285,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,5,MAE,17.54446293516028,211,22,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,17.686600603188285,0.1421376680280062
+heifer,live weight,Non-weather + weather 90,ElasticNet,6,MAE,46.53735399820306,212,21,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,46.53735399820306,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,6,MAE,46.53735399820306,212,21,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,46.53735399820306,0.0
+heifer,live weight,Non-weather + weather 90,ElasticNet,7,MAE,34.923265303100095,213,20,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,34.899939987119254,-0.02332531598084131
+heifer,live weight,Non-weather + weather 120,ElasticNet,7,MAE,35.06968795347127,213,20,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,34.899939987119254,-0.16974796635201983
+heifer,live weight,Non-weather + weather 90,ElasticNet,8,MAE,23.998223689486014,210,23,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,24.000562445850143,0.0023387563641286135
+heifer,live weight,Non-weather + weather 120,ElasticNet,8,MAE,24.03047037387689,210,23,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,24.000562445850143,-0.029907928026748465
+heifer,live weight,Non-weather + weather 90,ElasticNet,9,MAE,20.3945908967511,212,21,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,19.90388189836345,-0.4907089983876496
+heifer,live weight,Non-weather + weather 120,ElasticNet,9,MAE,20.033097048805764,212,21,444,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,120,19.90388189836345,-0.12921515044231313
+heifer,live weight,Non-weather + weather 90,ElasticNet,10,MAE,30.05161829098728,213,20,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,30.05161829098728,0.0
+heifer,live weight,Non-weather + weather 120,ElasticNet,10,MAE,30.111551571814022,213,20,444,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,120,30.05161829098728,-0.05993328082674054
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,1,MAE,17.88908073089066,201,32,379,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,1.0,90,17.88908073089066,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,1,MAE,17.607841473686957,201,32,444,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.5}",reject,1.0,120,17.88908073089066,0.2812392572037048
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,2,MAE,18.32175456389453,204,29,379,17,1,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,90,18.32175456389453,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,2,MAE,18.32175456389453,204,29,444,17,1,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,18.32175456389453,0.0
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,3,MAE,9.629286283891547,209,24,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,9.629286283891547,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,3,MAE,9.629286283891547,209,24,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,9.629286283891547,0.0
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,4,MAE,20.69418238993711,212,21,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,90,20.69418238993711,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,4,MAE,20.69418238993711,212,21,444,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.9}",reject,1.0,120,20.69418238993711,0.0
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,5,MAE,11.24946143903489,211,22,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,11.24946143903489,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,5,MAE,11.24946143903489,211,22,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,11.24946143903489,0.0
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,6,MAE,13.33771338724169,212,21,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,13.33771338724169,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,6,MAE,13.33771338724169,212,21,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,13.33771338724169,0.0
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,7,MAE,16.663990852383165,213,20,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,17.074201817735105,0.4102109653519399
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,7,MAE,16.31725352112676,213,20,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,1.0,120,17.074201817735105,0.7569482966083463
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,8,MAE,15.885403726708075,210,23,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,15.885403726708075,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,8,MAE,15.885403726708075,210,23,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,120,15.885403726708075,0.0
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,9,MAE,11.139600179694517,212,21,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,1.0,90,11.139600179694517,0.0
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,9,MAE,11.649492179086185,212,21,444,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,11.139600179694517,-0.5098919993916677
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,10,MAE,16.002376897143993,213,20,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,90,15.86670609050868,-0.1356708066353125
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,10,MAE,16.135998073641332,213,20,444,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,1.0,120,15.86670609050868,-0.2692919831326517
+heifer,price,Non-weather + weather 90,ElasticNet,1,MAE,88.37411380597042,201,32,379,17,1,"{""model__alpha"": 100, ""model__l1_ratio"": 0.9}",reject,2.0,90,88.37411380597042,0.0
+heifer,price,Non-weather + weather 120,ElasticNet,1,MAE,100.41094631125436,201,32,444,17,1,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,120,88.37411380597042,-12.03683250528394
+heifer,price,Non-weather + weather 90,ElasticNet,2,MAE,101.94074414721564,204,29,379,17,1,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,102.4514968866247,0.5107527394090567
+heifer,price,Non-weather + weather 120,ElasticNet,2,MAE,94.76087401127624,204,29,444,17,1,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,3.0,120,102.4514968866247,7.690622875348453
+heifer,price,Non-weather + weather 90,ElasticNet,3,MAE,55.88744248172546,209,24,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,55.81922787038564,-0.06821461133981899
+heifer,price,Non-weather + weather 120,ElasticNet,3,MAE,57.17689214754387,209,24,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,3.0,120,55.81922787038564,-1.3576642771582286
+heifer,price,Non-weather + weather 90,ElasticNet,4,MAE,116.17548292902092,212,21,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,2.0,90,116.17548292902092,0.0
+heifer,price,Non-weather + weather 120,ElasticNet,4,MAE,116.17548292902092,212,21,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,2.0,120,116.17548292902092,0.0
+heifer,price,Non-weather + weather 90,ElasticNet,5,MAE,62.142745424709645,211,22,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,62.1649348419544,0.02218941724475343
+heifer,price,Non-weather + weather 120,ElasticNet,5,MAE,62.56373138940496,211,22,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,62.1649348419544,-0.3987965474505586
+heifer,price,Non-weather + weather 90,ElasticNet,6,MAE,72.86160705207533,212,21,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,72.59597385593663,-0.26563319613869396
+heifer,price,Non-weather + weather 120,ElasticNet,6,MAE,71.46050009887108,212,21,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,72.59597385593663,1.1354737570655544
+heifer,price,Non-weather + weather 90,ElasticNet,7,MAE,92.89622435296776,213,20,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,94.73250609751764,1.8362817445498791
+heifer,price,Non-weather + weather 120,ElasticNet,7,MAE,91.2376760563381,213,20,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}",reject,2.0,120,94.73250609751764,3.49483004117954
+heifer,price,Non-weather + weather 90,ElasticNet,8,MAE,86.1623788289301,210,23,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,86.47349207691572,0.3111132479856167
+heifer,price,Non-weather + weather 120,ElasticNet,8,MAE,86.15486902914769,210,23,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,86.47349207691572,0.3186230477680283
+heifer,price,Non-weather + weather 90,ElasticNet,9,MAE,62.53289820904796,212,21,379,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,90,62.21182989332134,-0.3210683157266203
+heifer,price,Non-weather + weather 120,ElasticNet,9,MAE,62.278930146926335,212,21,444,16,2,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}",reject,2.0,120,62.21182989332134,-0.06710025360499827
+heifer,price,Non-weather + weather 90,ElasticNet,10,MAE,90.96604489709917,213,20,379,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,90,90.02670765025884,-0.9393372468403243
+heifer,price,Non-weather + weather 120,ElasticNet,10,MAE,91.52770729532924,213,20,444,16,2,"{""model__alpha"": 10, ""model__l1_ratio"": 0.1}",reject,2.0,120,90.02670765025884,-1.5009996450703937
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,1,Balanced accuracy,0.5,201,32,379,17,1,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.4583333333333333,4.166666666666669
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,1,Balanced accuracy,0.5,201,32,444,17,1,"{""model__C"": 10, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.4583333333333333,4.166666666666669
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,2,Balanced accuracy,0.5,204,29,379,17,1,"{""model__C"": 1, ""model__l1_ratio"": 0.9}",reject,0.0,90,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,2,Balanced accuracy,0.5,204,29,444,17,1,"{""model__C"": 0.1, ""model__l1_ratio"": 0.9}",reject,0.0,120,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,3,Balanced accuracy,0.5444444444444445,209,24,379,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.5444444444444445,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,3,Balanced accuracy,0.5444444444444445,209,24,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.5444444444444445,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,4,Balanced accuracy,0.4583333333333333,212,21,379,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.5,-4.166666666666669
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,4,Balanced accuracy,0.5,212,21,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,5,Balanced accuracy,0.5,211,22,379,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,5,Balanced accuracy,0.5,211,22,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,6,Balanced accuracy,0.7692307692307692,212,21,379,16,2,"{""model__C"": 1, ""model__l1_ratio"": 0.5}",reject,0.0,90,0.7692307692307692,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,6,Balanced accuracy,0.7692307692307692,212,21,444,16,2,"{""model__C"": 1, ""model__l1_ratio"": 0.5}",reject,0.0,120,0.7692307692307692,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,7,Balanced accuracy,0.375,213,20,379,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.375,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,7,Balanced accuracy,0.375,213,20,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.375,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,8,Balanced accuracy,0.5,210,23,379,16,2,"{""model__C"": 0.1, ""model__l1_ratio"": 0.9}",reject,0.0,90,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,8,Balanced accuracy,0.5,210,23,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,9,Balanced accuracy,0.5,212,21,379,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,9,Balanced accuracy,0.5,212,21,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.5,-0.0
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,10,Balanced accuracy,0.7261904761904762,213,20,379,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,90,0.7261904761904762,-0.0
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,10,Balanced accuracy,0.7261904761904762,213,20,444,16,2,"{""model__C"": 0.01, ""model__l1_ratio"": 0.1}",reject,0.0,120,0.7261904761904762,-0.0

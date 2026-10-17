@@ -1,0 +1,5 @@
+animal_type,target,setting,model,fold,metric,score,n_train,n_test,n_features,n_train_dates,n_test_dates,best_params
+steer,live weight,Dummy,Dummy,1,MAE,24.223710515793673,533,61,4,30,3,{}
+steer,live weight,Non-weather only,ElasticNet,1,MAE,24.223710515793673,533,61,4,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.5}"
+steer,live weight,Weather only 60,ElasticNet,1,MAE,24.18817192917001,533,61,310,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}"
+steer,live weight,Non-weather + weather 60,ElasticNet,1,MAE,24.18851428662497,533,61,314,30,3,"{""model__alpha"": 100, ""model__l1_ratio"": 0.1}"

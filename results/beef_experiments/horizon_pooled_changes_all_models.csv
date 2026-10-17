@@ -1,0 +1,81 @@
+animal_type,target,model,horizon,gain
+heifer,Total number of defects,HistGradientBoosting,90,0.3597122302158251
+heifer,Total number of defects,HistGradientBoosting,120,0.3597122302158251
+heifer,Total number of defects,LightGBM,90,2.8930047451400487
+heifer,Total number of defects,LightGBM,120,2.8930047451400487
+heifer,Total number of defects,LogisticRegression,90,-11.418949946425839
+heifer,Total number of defects,LogisticRegression,120,-3.6583499158120314
+heifer,Total number of defects,RandomForest,90,-0.5625287004439095
+heifer,Total number of defects,RandomForest,120,0.14158885657431508
+heifer,Total number of defects,SVC,90,8.3996632481249
+heifer,Total number of defects,SVC,120,6.773304760446952
+heifer,carcass weight,ElasticNet,90,0.15444618008649283
+heifer,carcass weight,ElasticNet,120,0.22629245319051183
+heifer,carcass weight,HistGradientBoosting,90,-0.9690934887883718
+heifer,carcass weight,HistGradientBoosting,120,-0.8694609190332825
+heifer,carcass weight,LightGBM,90,-0.6285159621183747
+heifer,carcass weight,LightGBM,120,-0.6678084961046463
+heifer,carcass weight,RandomForest,90,4.732642679572044
+heifer,carcass weight,RandomForest,120,6.003872035903576
+heifer,carcass weight,SVR,90,-14.347877919429758
+heifer,carcass weight,SVR,120,4.5322126498002255
+heifer,live weight,ElasticNet,90,-0.15558252462762368
+heifer,live weight,ElasticNet,120,-0.28597814928553406
+heifer,live weight,HistGradientBoosting,90,0.017937889312005746
+heifer,live weight,HistGradientBoosting,120,1.7398453577666113
+heifer,live weight,LightGBM,90,0.9369707748224423
+heifer,live weight,LightGBM,120,1.8693664841580944
+heifer,live weight,RandomForest,90,5.024975224078496
+heifer,live weight,RandomForest,120,2.6734487483952862
+heifer,live weight,SVR,90,6.194987714634738
+heifer,live weight,SVR,120,9.18552391006518
+heifer,price,ElasticNet,90,0.13584349185606534
+heifer,price,ElasticNet,120,-0.687871746220204
+heifer,price,HistGradientBoosting,90,-2.877253791124583
+heifer,price,HistGradientBoosting,120,-3.35073149680605
+heifer,price,LightGBM,90,0.9782403777418012
+heifer,price,LightGBM,120,0.4012379504581708
+heifer,price,RandomForest,90,-1.1231682876159796
+heifer,price,RandomForest,120,3.5553731313972055
+heifer,price,SVR,90,0.7227849846636691
+heifer,price,SVR,120,8.36837166829634
+steer,Total number of defects,HistGradientBoosting,90,4.952319587628873
+steer,Total number of defects,HistGradientBoosting,120,1.780927835051549
+steer,Total number of defects,LightGBM,90,-1.6868556701030935
+steer,Total number of defects,LightGBM,120,3.476804123711341
+steer,Total number of defects,LogisticRegression,90,3.0682989690721696
+steer,Total number of defects,LogisticRegression,120,1.3659793814433052
+steer,Total number of defects,RandomForest,90,-2.210051546391756
+steer,Total number of defects,RandomForest,120,-6.007731958762886
+steer,Total number of defects,SVC,90,0.7422680412371152
+steer,Total number of defects,SVC,120,-6.404639175257731
+steer,carcass weight,ElasticNet,90,3.8847559409608636
+steer,carcass weight,ElasticNet,120,5.563941862805828
+steer,carcass weight,HistGradientBoosting,90,0.5120747481156588
+steer,carcass weight,HistGradientBoosting,120,1.6390805579284093
+steer,carcass weight,LightGBM,90,-1.438005373792977
+steer,carcass weight,LightGBM,120,-1.8934526652933787
+steer,carcass weight,RandomForest,90,-1.1960823002098648
+steer,carcass weight,RandomForest,120,1.2639174961675934
+steer,carcass weight,SVR,90,-0.4117477360156675
+steer,carcass weight,SVR,120,-2.4323805464525976
+steer,live weight,ElasticNet,90,-0.012996258702739679
+steer,live weight,ElasticNet,120,-0.07678937342359379
+steer,live weight,HistGradientBoosting,90,-2.054277005756969
+steer,live weight,HistGradientBoosting,120,0.08837091342043206
+steer,live weight,LightGBM,90,-3.607912909849176
+steer,live weight,LightGBM,120,-0.6423580176420394
+steer,live weight,RandomForest,90,-0.9282314014345332
+steer,live weight,RandomForest,120,0.05224669646681715
+steer,live weight,SVR,90,-0.49320972774911703
+steer,live weight,SVR,120,-0.10460853155217799
+steer,price,ElasticNet,90,-1.8103212981615675
+steer,price,ElasticNet,120,-1.8988789397584385
+steer,price,HistGradientBoosting,90,-1.686879330584932
+steer,price,HistGradientBoosting,120,5.437677545800168
+steer,price,LightGBM,90,0.41965301631935703
+steer,price,LightGBM,120,9.289367708779038
+steer,price,RandomForest,90,1.4562732834535796
+steer,price,RandomForest,120,6.316457764746623
+steer,price,SVR,90,0.46728710857778305
+steer,price,SVR,120,-1.3273812333398622

@@ -1,0 +1,17 @@
+animal_type,target,setting,model,n,metric,score,horizon,baseline,gain,unit,mae_reduction_pct
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,233,Balanced accuracy,0.5640593907852441,120,0.6006428899433645,-3.6583499158120314,percentage points,
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,233,Balanced accuracy,0.4864533904791061,90,0.6006428899433645,-11.418949946425839,percentage points,
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,233,MAE,15.223653633795283,120,15.258181747584157,0.03452811378887333,kg,0.22629245319050023
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,233,MAE,15.23461606872436,90,15.258181747584157,0.023565678859796435,kg,0.15444618008648123
+heifer,live weight,Non-weather + weather 120,ElasticNet,233,MAE,29.64975992756985,120,29.56520988750119,-0.08455004006865963,kg,-0.28597814928553406
+heifer,live weight,Non-weather + weather 90,ElasticNet,233,MAE,29.61120818745562,90,29.56520988750119,-0.045998299954430166,kg,-0.15558252462762368
+heifer,price,Non-weather + weather 120,ElasticNet,233,MAE,84.0984805226182,120,83.52394291795652,-0.5745376046616855,$,-0.6878717462201699
+heifer,price,Non-weather + weather 90,ElasticNet,233,MAE,83.4104810773609,90,83.52394291795652,0.11346184059561892,$,0.13584349185606534
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,594,Balanced accuracy,0.5113917525773196,120,0.4977319587628865,1.3659793814433108,percentage points,
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,594,Balanced accuracy,0.5284149484536083,90,0.4977319587628865,3.068298969072175,percentage points,
+steer,carcass weight,Non-weather + weather 120,ElasticNet,594,MAE,16.83682589778293,120,17.828810551709857,0.9919846539269273,kg,5.563941862805827
+steer,carcass weight,Non-weather + weather 90,ElasticNet,594,MAE,17.136204774599648,90,17.828810551709857,0.6926057771102094,kg,3.8847559409608827
+steer,live weight,Non-weather + weather 120,ElasticNet,594,MAE,33.4547013326568,120,33.429031388911675,-0.025669943745128876,kg,-0.07678937342361505
+steer,live weight,Non-weather + weather 90,ElasticNet,594,MAE,33.4333759123128,90,33.429031388911675,-0.004344523401123013,kg,-0.012996258702739679
+steer,price,Non-weather + weather 120,ElasticNet,584,MAE,96.8607571642535,120,95.05576329403642,-1.804993870217075,$,-1.898878939758423
+steer,price,Non-weather + weather 90,ElasticNet,584,MAE,96.77657802207838,90,95.05576329403642,-1.7208147280419581,$,-1.810321298161537

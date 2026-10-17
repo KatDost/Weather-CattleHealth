@@ -1,0 +1,801 @@
+animal_type,target,model,fold,horizon,gain
+heifer,Total number of defects,HistGradientBoosting,1,90,0.0
+heifer,Total number of defects,HistGradientBoosting,1,120,0.0
+heifer,Total number of defects,HistGradientBoosting,2,90,0.0
+heifer,Total number of defects,HistGradientBoosting,2,120,0.0
+heifer,Total number of defects,HistGradientBoosting,3,90,0.0
+heifer,Total number of defects,HistGradientBoosting,3,120,0.0
+heifer,Total number of defects,HistGradientBoosting,4,90,0.0
+heifer,Total number of defects,HistGradientBoosting,4,120,0.0
+heifer,Total number of defects,HistGradientBoosting,5,90,0.0
+heifer,Total number of defects,HistGradientBoosting,5,120,0.0
+heifer,Total number of defects,HistGradientBoosting,6,90,0.0
+heifer,Total number of defects,HistGradientBoosting,6,120,0.0
+heifer,Total number of defects,HistGradientBoosting,7,90,0.0
+heifer,Total number of defects,HistGradientBoosting,7,120,0.0
+heifer,Total number of defects,HistGradientBoosting,8,90,0.0
+heifer,Total number of defects,HistGradientBoosting,8,120,0.0
+heifer,Total number of defects,HistGradientBoosting,9,90,3.3333333333333326
+heifer,Total number of defects,HistGradientBoosting,9,120,3.3333333333333326
+heifer,Total number of defects,HistGradientBoosting,10,90,0.0
+heifer,Total number of defects,HistGradientBoosting,10,120,0.0
+heifer,Total number of defects,LightGBM,1,90,0.0
+heifer,Total number of defects,LightGBM,1,120,0.0
+heifer,Total number of defects,LightGBM,2,90,0.0
+heifer,Total number of defects,LightGBM,2,120,0.0
+heifer,Total number of defects,LightGBM,3,90,0.0
+heifer,Total number of defects,LightGBM,3,120,0.0
+heifer,Total number of defects,LightGBM,4,90,0.0
+heifer,Total number of defects,LightGBM,4,120,0.0
+heifer,Total number of defects,LightGBM,5,90,0.0
+heifer,Total number of defects,LightGBM,5,120,0.0
+heifer,Total number of defects,LightGBM,6,90,0.0
+heifer,Total number of defects,LightGBM,6,120,0.0
+heifer,Total number of defects,LightGBM,7,90,9.375
+heifer,Total number of defects,LightGBM,7,120,9.375
+heifer,Total number of defects,LightGBM,8,90,0.0
+heifer,Total number of defects,LightGBM,8,120,0.0
+heifer,Total number of defects,LightGBM,9,90,0.0
+heifer,Total number of defects,LightGBM,9,120,0.0
+heifer,Total number of defects,LightGBM,10,90,0.0
+heifer,Total number of defects,LightGBM,10,120,0.0
+heifer,Total number of defects,LogisticRegression,1,90,4.166666666666669
+heifer,Total number of defects,LogisticRegression,1,120,4.166666666666669
+heifer,Total number of defects,LogisticRegression,2,90,0.0
+heifer,Total number of defects,LogisticRegression,2,120,0.0
+heifer,Total number of defects,LogisticRegression,3,90,0.0
+heifer,Total number of defects,LogisticRegression,3,120,0.0
+heifer,Total number of defects,LogisticRegression,4,90,-4.166666666666669
+heifer,Total number of defects,LogisticRegression,4,120,0.0
+heifer,Total number of defects,LogisticRegression,5,90,0.0
+heifer,Total number of defects,LogisticRegression,5,120,0.0
+heifer,Total number of defects,LogisticRegression,6,90,0.0
+heifer,Total number of defects,LogisticRegression,6,120,0.0
+heifer,Total number of defects,LogisticRegression,7,90,0.0
+heifer,Total number of defects,LogisticRegression,7,120,0.0
+heifer,Total number of defects,LogisticRegression,8,90,0.0
+heifer,Total number of defects,LogisticRegression,8,120,0.0
+heifer,Total number of defects,LogisticRegression,9,90,0.0
+heifer,Total number of defects,LogisticRegression,9,120,0.0
+heifer,Total number of defects,LogisticRegression,10,90,0.0
+heifer,Total number of defects,LogisticRegression,10,120,0.0
+heifer,Total number of defects,RandomForest,1,90,0.0
+heifer,Total number of defects,RandomForest,1,120,0.0
+heifer,Total number of defects,RandomForest,2,90,0.0
+heifer,Total number of defects,RandomForest,2,120,0.0
+heifer,Total number of defects,RandomForest,3,90,0.0
+heifer,Total number of defects,RandomForest,3,120,0.0
+heifer,Total number of defects,RandomForest,4,90,0.0
+heifer,Total number of defects,RandomForest,4,120,-4.166666666666669
+heifer,Total number of defects,RandomForest,5,90,9.374999999999995
+heifer,Total number of defects,RandomForest,5,120,0.0
+heifer,Total number of defects,RandomForest,6,90,0.0
+heifer,Total number of defects,RandomForest,6,120,0.0
+heifer,Total number of defects,RandomForest,7,90,-3.125
+heifer,Total number of defects,RandomForest,7,120,-3.125
+heifer,Total number of defects,RandomForest,8,90,0.0
+heifer,Total number of defects,RandomForest,8,120,36.111111111111114
+heifer,Total number of defects,RandomForest,9,90,0.0
+heifer,Total number of defects,RandomForest,9,120,0.0
+heifer,Total number of defects,RandomForest,10,90,0.0
+heifer,Total number of defects,RandomForest,10,120,0.0
+heifer,Total number of defects,SVC,1,90,0.0
+heifer,Total number of defects,SVC,1,120,0.0
+heifer,Total number of defects,SVC,2,90,0.0
+heifer,Total number of defects,SVC,2,120,0.0
+heifer,Total number of defects,SVC,3,90,4.444444444444451
+heifer,Total number of defects,SVC,3,120,4.444444444444451
+heifer,Total number of defects,SVC,4,90,0.0
+heifer,Total number of defects,SVC,4,120,-4.166666666666669
+heifer,Total number of defects,SVC,5,90,0.0
+heifer,Total number of defects,SVC,5,120,-7.291666666666674
+heifer,Total number of defects,SVC,6,90,-26.923076923076916
+heifer,Total number of defects,SVC,6,120,-26.923076923076916
+heifer,Total number of defects,SVC,7,90,0.0
+heifer,Total number of defects,SVC,7,120,0.0
+heifer,Total number of defects,SVC,8,90,0.0
+heifer,Total number of defects,SVC,8,120,0.0
+heifer,Total number of defects,SVC,9,90,0.0
+heifer,Total number of defects,SVC,9,120,0.0
+heifer,Total number of defects,SVC,10,90,0.0
+heifer,Total number of defects,SVC,10,120,0.0
+heifer,carcass weight,ElasticNet,1,90,0.0
+heifer,carcass weight,ElasticNet,1,120,1.5721280564074154
+heifer,carcass weight,ElasticNet,2,90,0.0
+heifer,carcass weight,ElasticNet,2,120,0.0
+heifer,carcass weight,ElasticNet,3,90,0.0
+heifer,carcass weight,ElasticNet,3,120,0.0
+heifer,carcass weight,ElasticNet,4,90,0.0
+heifer,carcass weight,ElasticNet,4,120,0.0
+heifer,carcass weight,ElasticNet,5,90,0.0
+heifer,carcass weight,ElasticNet,5,120,0.0
+heifer,carcass weight,ElasticNet,6,90,0.0
+heifer,carcass weight,ElasticNet,6,120,0.0
+heifer,carcass weight,ElasticNet,7,90,2.402519132261093
+heifer,carcass weight,ElasticNet,7,120,4.433286572858212
+heifer,carcass weight,ElasticNet,8,90,0.0
+heifer,carcass weight,ElasticNet,8,120,0.0
+heifer,carcass weight,ElasticNet,9,90,0.0
+heifer,carcass weight,ElasticNet,9,120,-4.577291744465919
+heifer,carcass weight,ElasticNet,10,90,-0.8550659844671198
+heifer,carcass weight,ElasticNet,10,120,-1.6972141640269784
+heifer,carcass weight,HistGradientBoosting,1,90,-8.174138680810193
+heifer,carcass weight,HistGradientBoosting,1,120,-4.997035853295388
+heifer,carcass weight,HistGradientBoosting,2,90,0.912503874875323
+heifer,carcass weight,HistGradientBoosting,2,120,-3.479618452236307
+heifer,carcass weight,HistGradientBoosting,3,90,2.6181220274039694
+heifer,carcass weight,HistGradientBoosting,3,120,0.9867158678728304
+heifer,carcass weight,HistGradientBoosting,4,90,1.969989394931011
+heifer,carcass weight,HistGradientBoosting,4,120,0.6929711404204326
+heifer,carcass weight,HistGradientBoosting,5,90,0.9106798913783187
+heifer,carcass weight,HistGradientBoosting,5,120,-0.8050776064350239
+heifer,carcass weight,HistGradientBoosting,6,90,15.89950617911261
+heifer,carcass weight,HistGradientBoosting,6,120,14.955261218767918
+heifer,carcass weight,HistGradientBoosting,7,90,-2.6779585086261766
+heifer,carcass weight,HistGradientBoosting,7,120,-2.6779585086261766
+heifer,carcass weight,HistGradientBoosting,8,90,-9.753925832806859
+heifer,carcass weight,HistGradientBoosting,8,120,-9.917004356497559
+heifer,carcass weight,HistGradientBoosting,9,90,0.19960891664560676
+heifer,carcass weight,HistGradientBoosting,9,120,-1.0348106332058558
+heifer,carcass weight,HistGradientBoosting,10,90,3.0433205313158154
+heifer,carcass weight,HistGradientBoosting,10,120,5.268514183965474
+heifer,carcass weight,LightGBM,1,90,1.365153779114691
+heifer,carcass weight,LightGBM,1,120,2.0803712395827434
+heifer,carcass weight,LightGBM,2,90,0.3890097501623844
+heifer,carcass weight,LightGBM,2,120,2.870412041072229
+heifer,carcass weight,LightGBM,3,90,-10.607720076713962
+heifer,carcass weight,LightGBM,3,120,-9.37953490698468
+heifer,carcass weight,LightGBM,4,90,-2.0999743212431676
+heifer,carcass weight,LightGBM,4,120,-2.0999743212431676
+heifer,carcass weight,LightGBM,5,90,10.47151719571328
+heifer,carcass weight,LightGBM,5,120,7.414915468594789
+heifer,carcass weight,LightGBM,6,90,-4.1228169997466395
+heifer,carcass weight,LightGBM,6,120,-4.094937314969902
+heifer,carcass weight,LightGBM,7,90,-17.124871441080895
+heifer,carcass weight,LightGBM,7,120,-17.294594733562757
+heifer,carcass weight,LightGBM,8,90,6.376834275744566
+heifer,carcass weight,LightGBM,8,120,5.898657748178074
+heifer,carcass weight,LightGBM,9,90,3.1290807916806385
+heifer,carcass weight,LightGBM,9,120,2.493567321694518
+heifer,carcass weight,LightGBM,10,90,3.0622982621288433
+heifer,carcass weight,LightGBM,10,120,0.9157680590434756
+heifer,carcass weight,RandomForest,1,90,17.244215174808758
+heifer,carcass weight,RandomForest,1,120,19.704717228192756
+heifer,carcass weight,RandomForest,2,90,4.255827185853197
+heifer,carcass weight,RandomForest,2,120,5.456611237769922
+heifer,carcass weight,RandomForest,3,90,2.776236425786223
+heifer,carcass weight,RandomForest,3,120,-0.9547656807475116
+heifer,carcass weight,RandomForest,4,90,-1.7426584528274476
+heifer,carcass weight,RandomForest,4,120,-0.5886690286736167
+heifer,carcass weight,RandomForest,5,90,-2.94667813901868
+heifer,carcass weight,RandomForest,5,120,-0.45357642719979385
+heifer,carcass weight,RandomForest,6,90,-4.112648617102411
+heifer,carcass weight,RandomForest,6,120,2.5815738890215942
+heifer,carcass weight,RandomForest,7,90,1.5307047104565086
+heifer,carcass weight,RandomForest,7,120,-0.14687669140776638
+heifer,carcass weight,RandomForest,8,90,-0.7992034490612572
+heifer,carcass weight,RandomForest,8,120,1.6480843862636263
+heifer,carcass weight,RandomForest,9,90,0.2887216700344024
+heifer,carcass weight,RandomForest,9,120,2.179867599754681
+heifer,carcass weight,RandomForest,10,90,0.34675152534823445
+heifer,carcass weight,RandomForest,10,120,-1.9163396433436355
+heifer,carcass weight,SVR,1,90,-93.6552937897654
+heifer,carcass weight,SVR,1,120,6.194012457852243
+heifer,carcass weight,SVR,2,90,1.2225839800073095
+heifer,carcass weight,SVR,2,120,20.366845855031883
+heifer,carcass weight,SVR,3,90,-1.5992059920716444
+heifer,carcass weight,SVR,3,120,0.2380481022501017
+heifer,carcass weight,SVR,4,90,-0.034342483302335615
+heifer,carcass weight,SVR,4,120,0.10000696233483476
+heifer,carcass weight,SVR,5,90,-1.030936266713074
+heifer,carcass weight,SVR,5,120,0.04788771704171796
+heifer,carcass weight,SVR,6,90,-0.2956270143203435
+heifer,carcass weight,SVR,6,120,1.9194802758671718
+heifer,carcass weight,SVR,7,90,0.33717094437553674
+heifer,carcass weight,SVR,7,120,1.2668048247117016
+heifer,carcass weight,SVR,8,90,0.09983580330415534
+heifer,carcass weight,SVR,8,120,1.5620951433729666
+heifer,carcass weight,SVR,9,90,0.6073942591760189
+heifer,carcass weight,SVR,9,120,3.3866495119690345
+heifer,carcass weight,SVR,10,90,-0.5631892406233218
+heifer,carcass weight,SVR,10,120,-1.2672674351033912
+heifer,live weight,ElasticNet,1,90,0.0
+heifer,live weight,ElasticNet,1,120,0.0
+heifer,live weight,ElasticNet,2,90,0.0
+heifer,live weight,ElasticNet,2,120,3.94785199465464
+heifer,live weight,ElasticNet,3,90,0.0
+heifer,live weight,ElasticNet,3,120,1.1332009490018078
+heifer,live weight,ElasticNet,4,90,0.0
+heifer,live weight,ElasticNet,4,120,-5.648826345076444
+heifer,live weight,ElasticNet,5,90,0.0
+heifer,live weight,ElasticNet,5,120,0.8036460550954244
+heifer,live weight,ElasticNet,6,90,0.0
+heifer,live weight,ElasticNet,6,120,0.0
+heifer,live weight,ElasticNet,7,90,-0.06683483120443798
+heifer,live weight,ElasticNet,7,120,-0.4863846941131412
+heifer,live weight,ElasticNet,8,90,0.009744589816987151
+heifer,live weight,ElasticNet,8,120,-0.12461344643175942
+heifer,live weight,ElasticNet,9,90,-2.4653934387944543
+heifer,live weight,ElasticNet,9,120,-0.6491957252466827
+heifer,live weight,ElasticNet,10,90,0.0
+heifer,live weight,ElasticNet,10,120,-0.19943445390001552
+heifer,live weight,HistGradientBoosting,1,90,6.233830474191406
+heifer,live weight,HistGradientBoosting,1,120,9.820135504677973
+heifer,live weight,HistGradientBoosting,2,90,-4.469317822848153
+heifer,live weight,HistGradientBoosting,2,120,-6.5715595329640415
+heifer,live weight,HistGradientBoosting,3,90,-4.613918159090232
+heifer,live weight,HistGradientBoosting,3,120,-0.13619767661625037
+heifer,live weight,HistGradientBoosting,4,90,1.613380959195597
+heifer,live weight,HistGradientBoosting,4,120,1.9233337277060434
+heifer,live weight,HistGradientBoosting,5,90,0.506311826732896
+heifer,live weight,HistGradientBoosting,5,120,5.5870664617466685
+heifer,live weight,HistGradientBoosting,6,90,0.5555500714478039
+heifer,live weight,HistGradientBoosting,6,120,-1.1140761068438247
+heifer,live weight,HistGradientBoosting,7,90,-1.5666314187360297
+heifer,live weight,HistGradientBoosting,7,120,-1.388821917582992
+heifer,live weight,HistGradientBoosting,8,90,0.10633548159379234
+heifer,live weight,HistGradientBoosting,8,120,4.748651578197145
+heifer,live weight,HistGradientBoosting,9,90,-13.0156715961583
+heifer,live weight,HistGradientBoosting,9,120,-11.192096456009994
+heifer,live weight,HistGradientBoosting,10,90,-5.03688383477632
+heifer,live weight,HistGradientBoosting,10,120,-3.33322064514687
+heifer,live weight,LightGBM,1,90,-1.6332667698477255
+heifer,live weight,LightGBM,1,120,4.045011570168509
+heifer,live weight,LightGBM,2,90,1.0761823676582218
+heifer,live weight,LightGBM,2,120,2.1375800391145496
+heifer,live weight,LightGBM,3,90,-1.209143604691969
+heifer,live weight,LightGBM,3,120,-11.709015577462859
+heifer,live weight,LightGBM,4,90,-1.436764578108355
+heifer,live weight,LightGBM,4,120,1.1936463796477779
+heifer,live weight,LightGBM,5,90,4.065432358547392
+heifer,live weight,LightGBM,5,120,4.09586407258811
+heifer,live weight,LightGBM,6,90,1.603710458805603
+heifer,live weight,LightGBM,6,120,3.8868159775870965
+heifer,live weight,LightGBM,7,90,-0.0698810317286721
+heifer,live weight,LightGBM,7,120,-2.1173007302759275
+heifer,live weight,LightGBM,8,90,1.9740099482966609
+heifer,live weight,LightGBM,8,120,0.6500168334190661
+heifer,live weight,LightGBM,9,90,12.727019790626962
+heifer,live weight,LightGBM,9,120,12.034426087643983
+heifer,live weight,LightGBM,10,90,4.599294116595881
+heifer,live weight,LightGBM,10,120,1.2380697558897849
+heifer,live weight,RandomForest,1,90,-0.47814145330153013
+heifer,live weight,RandomForest,1,120,2.0515246281453345
+heifer,live weight,RandomForest,2,90,-2.643059432731807
+heifer,live weight,RandomForest,2,120,-0.18404728287680633
+heifer,live weight,RandomForest,3,90,1.9403722512600454
+heifer,live weight,RandomForest,3,120,2.759190184509967
+heifer,live weight,RandomForest,4,90,1.3597041089785216
+heifer,live weight,RandomForest,4,120,0.6036740746739574
+heifer,live weight,RandomForest,5,90,2.556713349567228
+heifer,live weight,RandomForest,5,120,4.50418649102055
+heifer,live weight,RandomForest,6,90,-7.334083560523966
+heifer,live weight,RandomForest,6,120,-5.2826609879654445
+heifer,live weight,RandomForest,7,90,1.3505324503317004
+heifer,live weight,RandomForest,7,120,-1.5945431184710577
+heifer,live weight,RandomForest,8,90,39.934104311956425
+heifer,live weight,RandomForest,8,120,24.82532295232934
+heifer,live weight,RandomForest,9,90,-8.47629773496312
+heifer,live weight,RandomForest,9,120,-19.133101710645377
+heifer,live weight,RandomForest,10,90,6.577866097118203
+heifer,live weight,RandomForest,10,120,1.1473212289418915
+heifer,live weight,SVR,1,90,28.094839642831527
+heifer,live weight,SVR,1,120,27.9859402700919
+heifer,live weight,SVR,2,90,0.6581860158202844
+heifer,live weight,SVR,2,120,24.627479635146926
+heifer,live weight,SVR,3,90,-2.599371327894707
+heifer,live weight,SVR,3,120,-3.6542944256728744
+heifer,live weight,SVR,4,90,-0.32416759850785365
+heifer,live weight,SVR,4,120,-0.16208441874147037
+heifer,live weight,SVR,5,90,0.05979631540785367
+heifer,live weight,SVR,5,120,0.39316871059632996
+heifer,live weight,SVR,6,90,-0.04424762132570732
+heifer,live weight,SVR,6,120,1.0012076373760104
+heifer,live weight,SVR,7,90,6.038286165488712
+heifer,live weight,SVR,7,120,7.2826760383584395
+heifer,live weight,SVR,8,90,0.3534561505744336
+heifer,live weight,SVR,8,120,0.3031098596174504
+heifer,live weight,SVR,9,90,-2.7030680713663497
+heifer,live weight,SVR,9,120,6.284445551025675
+heifer,live weight,SVR,10,90,-1.3543548639343939
+heifer,live weight,SVR,10,120,-3.2698840950282677
+heifer,price,ElasticNet,1,90,0.0
+heifer,price,ElasticNet,1,120,-13.620314803621753
+heifer,price,ElasticNet,2,90,0.49853126106520657
+heifer,price,ElasticNet,2,120,7.506598838530472
+heifer,price,ElasticNet,3,90,-0.12220629690228671
+heifer,price,ElasticNet,3,120,-2.432251983690648
+heifer,price,ElasticNet,4,90,0.0
+heifer,price,ElasticNet,4,120,0.0
+heifer,price,ElasticNet,5,90,0.035694426932634575
+heifer,price,ElasticNet,5,120,-0.641513657923692
+heifer,price,ElasticNet,6,90,-0.36590623698475455
+heifer,price,ElasticNet,6,120,1.564100179052422
+heifer,price,ElasticNet,7,90,1.9383861149620711
+heifer,price,ElasticNet,7,120,3.689156114567435
+heifer,price,ElasticNet,8,90,0.3597787489707138
+heifer,price,ElasticNet,8,120,0.36846325979829997
+heifer,price,ElasticNet,9,90,-0.5160888472131857
+heifer,price,ElasticNet,9,120,-0.10785770764189649
+heifer,price,ElasticNet,10,90,-1.0433984218211467
+heifer,price,ElasticNet,10,120,-1.6672826145120927
+heifer,price,HistGradientBoosting,1,90,-4.711331403532296
+heifer,price,HistGradientBoosting,1,120,-4.931612190434667
+heifer,price,HistGradientBoosting,2,90,0.5614168224210837
+heifer,price,HistGradientBoosting,2,120,-0.5101872453022129
+heifer,price,HistGradientBoosting,3,90,-4.031878823117922
+heifer,price,HistGradientBoosting,3,120,-4.260782821048545
+heifer,price,HistGradientBoosting,4,90,-0.001323673446717235
+heifer,price,HistGradientBoosting,4,120,-0.001323673446717235
+heifer,price,HistGradientBoosting,5,90,-7.32593884610335
+heifer,price,HistGradientBoosting,5,120,-9.912429978198158
+heifer,price,HistGradientBoosting,6,90,2.538836564723671
+heifer,price,HistGradientBoosting,6,120,3.0688343252097483
+heifer,price,HistGradientBoosting,7,90,-6.773500671089705
+heifer,price,HistGradientBoosting,7,120,-6.773500671089705
+heifer,price,HistGradientBoosting,8,90,-7.470850462127827
+heifer,price,HistGradientBoosting,8,120,-7.880640426153283
+heifer,price,HistGradientBoosting,9,90,-0.9542697525766564
+heifer,price,HistGradientBoosting,9,120,-3.0239690609146552
+heifer,price,HistGradientBoosting,10,90,1.0411203471541548
+heifer,price,HistGradientBoosting,10,120,1.3916992821654965
+heifer,price,LightGBM,1,90,-1.6912776470469366
+heifer,price,LightGBM,1,120,-3.744390440424345
+heifer,price,LightGBM,2,90,5.429994252885956
+heifer,price,LightGBM,2,120,7.545581983508331
+heifer,price,LightGBM,3,90,3.4332273594794156
+heifer,price,LightGBM,3,120,3.6945941077509503
+heifer,price,LightGBM,4,90,-17.26931415148278
+heifer,price,LightGBM,4,120,-17.26931415148278
+heifer,price,LightGBM,5,90,7.402359382265847
+heifer,price,LightGBM,5,120,6.849094922564111
+heifer,price,LightGBM,6,90,3.7424479057290903
+heifer,price,LightGBM,6,120,3.7424479057290903
+heifer,price,LightGBM,7,90,1.5137321571265057
+heifer,price,LightGBM,7,120,3.207852552009117
+heifer,price,LightGBM,8,90,11.95409343401117
+heifer,price,LightGBM,8,120,11.139205644964267
+heifer,price,LightGBM,9,90,4.866223225873034
+heifer,price,LightGBM,9,120,4.888450727899609
+heifer,price,LightGBM,10,90,0.45272978451335866
+heifer,price,LightGBM,10,120,-2.068122801109017
+heifer,price,RandomForest,1,90,1.9167559316739136
+heifer,price,RandomForest,1,120,20.833525290256784
+heifer,price,RandomForest,2,90,-12.21901429474396
+heifer,price,RandomForest,2,120,-22.22882269200284
+heifer,price,RandomForest,3,90,2.1048584041155527
+heifer,price,RandomForest,3,120,-0.4062256815283047
+heifer,price,RandomForest,4,90,-2.5568799120008925
+heifer,price,RandomForest,4,120,-1.4934101923521348
+heifer,price,RandomForest,5,90,-1.220948950863659
+heifer,price,RandomForest,5,120,0.04971810144499134
+heifer,price,RandomForest,6,90,-5.30770932031509
+heifer,price,RandomForest,6,120,-1.798877232182099
+heifer,price,RandomForest,7,90,-0.9558162280413648
+heifer,price,RandomForest,7,120,-3.443540900052147
+heifer,price,RandomForest,8,90,0.08120510791285113
+heifer,price,RandomForest,8,120,1.9357783745822268
+heifer,price,RandomForest,9,90,0.729242010614417
+heifer,price,RandomForest,9,120,0.9074342788157292
+heifer,price,RandomForest,10,90,-1.0891384623687248
+heifer,price,RandomForest,10,120,-1.6917280043612537
+heifer,price,SVR,1,90,2.522643877755935
+heifer,price,SVR,1,120,8.54107631693833
+heifer,price,SVR,2,90,3.2991072253320852
+heifer,price,SVR,2,120,28.57826785586418
+heifer,price,SVR,3,90,0.19784487791480215
+heifer,price,SVR,3,120,-0.4385748220321165
+heifer,price,SVR,4,90,-0.01347787750159471
+heifer,price,SVR,4,120,17.46609209997814
+heifer,price,SVR,5,90,-1.2785948720995972
+heifer,price,SVR,5,120,-0.8047035976376105
+heifer,price,SVR,6,90,-1.2592165650687166
+heifer,price,SVR,6,120,3.731178549870546
+heifer,price,SVR,7,90,-0.29574692125251756
+heifer,price,SVR,7,120,0.8483503220021477
+heifer,price,SVR,8,90,3.1804424539821943
+heifer,price,SVR,8,120,4.777018779285461
+heifer,price,SVR,9,90,0.3874263488952674
+heifer,price,SVR,9,120,3.1520545918864684
+heifer,price,SVR,10,90,-3.333415549803765
+heifer,price,SVR,10,120,-3.5534029151138324
+steer,Total number of defects,HistGradientBoosting,1,90,0.0
+steer,Total number of defects,HistGradientBoosting,1,120,0.0
+steer,Total number of defects,HistGradientBoosting,2,90,-18.518518518518512
+steer,Total number of defects,HistGradientBoosting,2,120,0.0
+steer,Total number of defects,HistGradientBoosting,3,90,0.0
+steer,Total number of defects,HistGradientBoosting,3,120,-16.141001855287573
+steer,Total number of defects,HistGradientBoosting,4,90,-12.222222222222223
+steer,Total number of defects,HistGradientBoosting,4,120,1.1111111111111072
+steer,Total number of defects,HistGradientBoosting,5,90,17.708333333333336
+steer,Total number of defects,HistGradientBoosting,5,120,0.0
+steer,Total number of defects,HistGradientBoosting,6,90,0.0
+steer,Total number of defects,HistGradientBoosting,6,120,0.0
+steer,Total number of defects,HistGradientBoosting,7,90,11.494252873563216
+steer,Total number of defects,HistGradientBoosting,7,120,-0.17241379310344862
+steer,Total number of defects,HistGradientBoosting,8,90,-4.513888888888895
+steer,Total number of defects,HistGradientBoosting,8,120,-11.921296296296301
+steer,Total number of defects,HistGradientBoosting,9,90,-0.528789659224449
+steer,Total number of defects,HistGradientBoosting,9,120,27.849588719153928
+steer,Total number of defects,HistGradientBoosting,10,90,1.6666666666666663
+steer,Total number of defects,HistGradientBoosting,10,120,1.6666666666666663
+steer,Total number of defects,LightGBM,1,90,0.9906759906759932
+steer,Total number of defects,LightGBM,1,120,0.9906759906759932
+steer,Total number of defects,LightGBM,2,90,13.888888888888884
+steer,Total number of defects,LightGBM,2,120,13.888888888888884
+steer,Total number of defects,LightGBM,3,90,-2.0408163265306145
+steer,Total number of defects,LightGBM,3,120,-2.0408163265306145
+steer,Total number of defects,LightGBM,4,90,0.0
+steer,Total number of defects,LightGBM,4,120,4.444444444444429
+steer,Total number of defects,LightGBM,5,90,9.375
+steer,Total number of defects,LightGBM,5,120,27.083333333333325
+steer,Total number of defects,LightGBM,6,90,0.0
+steer,Total number of defects,LightGBM,6,120,0.0
+steer,Total number of defects,LightGBM,7,90,-0.17241379310344862
+steer,Total number of defects,LightGBM,7,120,-0.17241379310344862
+steer,Total number of defects,LightGBM,8,90,-7.4074074074074066
+steer,Total number of defects,LightGBM,8,120,-7.4074074074074066
+steer,Total number of defects,LightGBM,9,90,-9.518213866039948
+steer,Total number of defects,LightGBM,9,120,-9.518213866039948
+steer,Total number of defects,LightGBM,10,90,-6.666666666666665
+steer,Total number of defects,LightGBM,10,120,0.0
+steer,Total number of defects,LogisticRegression,1,90,0.0
+steer,Total number of defects,LogisticRegression,1,120,0.0
+steer,Total number of defects,LogisticRegression,2,90,0.0
+steer,Total number of defects,LogisticRegression,2,120,0.0
+steer,Total number of defects,LogisticRegression,3,90,-21.521335807050097
+steer,Total number of defects,LogisticRegression,3,120,-21.521335807050097
+steer,Total number of defects,LogisticRegression,4,90,0.0
+steer,Total number of defects,LogisticRegression,4,120,0.0
+steer,Total number of defects,LogisticRegression,5,90,27.083333333333336
+steer,Total number of defects,LogisticRegression,5,120,17.708333333333336
+steer,Total number of defects,LogisticRegression,6,90,0.0
+steer,Total number of defects,LogisticRegression,6,120,0.0
+steer,Total number of defects,LogisticRegression,7,90,9.942528735632184
+steer,Total number of defects,LogisticRegression,7,120,0.0
+steer,Total number of defects,LogisticRegression,8,90,4.6875
+steer,Total number of defects,LogisticRegression,8,120,0.0
+steer,Total number of defects,LogisticRegression,9,90,1.3513513513513487
+steer,Total number of defects,LogisticRegression,9,120,1.3513513513513487
+steer,Total number of defects,LogisticRegression,10,90,-16.666666666666668
+steer,Total number of defects,LogisticRegression,10,120,-16.666666666666668
+steer,Total number of defects,RandomForest,1,90,0.0
+steer,Total number of defects,RandomForest,1,120,0.0
+steer,Total number of defects,RandomForest,2,90,0.0
+steer,Total number of defects,RandomForest,2,120,0.0
+steer,Total number of defects,RandomForest,3,90,2.0408163265306145
+steer,Total number of defects,RandomForest,3,120,-5.380333951762529
+steer,Total number of defects,RandomForest,4,90,0.0
+steer,Total number of defects,RandomForest,4,120,0.0
+steer,Total number of defects,RandomForest,5,90,17.708333333333325
+steer,Total number of defects,RandomForest,5,120,17.708333333333325
+steer,Total number of defects,RandomForest,6,90,0.0
+steer,Total number of defects,RandomForest,6,120,0.0
+steer,Total number of defects,RandomForest,7,90,-7.758620689655171
+steer,Total number of defects,RandomForest,7,120,-7.758620689655171
+steer,Total number of defects,RandomForest,8,90,0.0
+steer,Total number of defects,RandomForest,8,120,0.0
+steer,Total number of defects,RandomForest,9,90,0.0
+steer,Total number of defects,RandomForest,9,120,0.0
+steer,Total number of defects,RandomForest,10,90,0.0
+steer,Total number of defects,RandomForest,10,120,-21.666666666666668
+steer,Total number of defects,SVC,1,90,0.0
+steer,Total number of defects,SVC,1,120,0.0
+steer,Total number of defects,SVC,2,90,0.0
+steer,Total number of defects,SVC,2,120,0.0
+steer,Total number of defects,SVC,3,90,0.0
+steer,Total number of defects,SVC,3,120,0.0
+steer,Total number of defects,SVC,4,90,0.0
+steer,Total number of defects,SVC,4,120,0.0
+steer,Total number of defects,SVC,5,90,0.0
+steer,Total number of defects,SVC,5,120,0.0
+steer,Total number of defects,SVC,6,90,0.0
+steer,Total number of defects,SVC,6,120,0.0
+steer,Total number of defects,SVC,7,90,0.0
+steer,Total number of defects,SVC,7,120,0.0
+steer,Total number of defects,SVC,8,90,8.796296296296301
+steer,Total number of defects,SVC,8,120,-21.006944444444443
+steer,Total number of defects,SVC,9,90,2.1739130434782594
+steer,Total number of defects,SVC,9,120,-23.678025851938887
+steer,Total number of defects,SVC,10,90,0.0
+steer,Total number of defects,SVC,10,120,-11.66666666666667
+steer,carcass weight,ElasticNet,1,90,0.0
+steer,carcass weight,ElasticNet,1,120,3.6810966926967814
+steer,carcass weight,ElasticNet,2,90,0.0
+steer,carcass weight,ElasticNet,2,120,1.1837929624553754
+steer,carcass weight,ElasticNet,3,90,-4.443041945923554
+steer,carcass weight,ElasticNet,3,120,-4.52590667014825
+steer,carcass weight,ElasticNet,4,90,-12.244329943671204
+steer,carcass weight,ElasticNet,4,120,-10.433262929273871
+steer,carcass weight,ElasticNet,5,90,0.4266102049019273
+steer,carcass weight,ElasticNet,5,120,1.4958910237904628
+steer,carcass weight,ElasticNet,6,90,1.0782147103902036
+steer,carcass weight,ElasticNet,6,120,1.3351426470293468
+steer,carcass weight,ElasticNet,7,90,0.9862540140370234
+steer,carcass weight,ElasticNet,7,120,0.8929923349626177
+steer,carcass weight,ElasticNet,8,90,2.440747726980359
+steer,carcass weight,ElasticNet,8,120,4.578660775029843
+steer,carcass weight,ElasticNet,9,90,32.67812597095558
+steer,carcass weight,ElasticNet,9,120,34.7853190462108
+steer,carcass weight,ElasticNet,10,90,0.0
+steer,carcass weight,ElasticNet,10,120,4.682313713870146
+steer,carcass weight,HistGradientBoosting,1,90,4.655006454679718
+steer,carcass weight,HistGradientBoosting,1,120,13.532891488919244
+steer,carcass weight,HistGradientBoosting,2,90,-3.1854378773745444
+steer,carcass weight,HistGradientBoosting,2,120,0.2132785656872997
+steer,carcass weight,HistGradientBoosting,3,90,-36.61392285146225
+steer,carcass weight,HistGradientBoosting,3,120,-32.712154909573385
+steer,carcass weight,HistGradientBoosting,4,90,4.0044559334646985
+steer,carcass weight,HistGradientBoosting,4,120,1.909605686345246
+steer,carcass weight,HistGradientBoosting,5,90,8.759944715501549
+steer,carcass weight,HistGradientBoosting,5,120,4.530225781736699
+steer,carcass weight,HistGradientBoosting,6,90,-0.6800663766696796
+steer,carcass weight,HistGradientBoosting,6,120,5.7480585478659405
+steer,carcass weight,HistGradientBoosting,7,90,-1.3952048226675688
+steer,carcass weight,HistGradientBoosting,7,120,-4.479672274383554
+steer,carcass weight,HistGradientBoosting,8,90,-1.7895676060532002
+steer,carcass weight,HistGradientBoosting,8,120,-1.6268617002742976
+steer,carcass weight,HistGradientBoosting,9,90,-0.3130607427704925
+steer,carcass weight,HistGradientBoosting,9,120,2.530351786635123
+steer,carcass weight,HistGradientBoosting,10,90,19.797891647050747
+steer,carcass weight,HistGradientBoosting,10,120,13.585044435259721
+steer,carcass weight,LightGBM,1,90,5.522674912709043
+steer,carcass weight,LightGBM,1,120,-0.7967564742187383
+steer,carcass weight,LightGBM,2,90,-20.473829645791287
+steer,carcass weight,LightGBM,2,120,-15.906638562024503
+steer,carcass weight,LightGBM,3,90,-24.05894249667413
+steer,carcass weight,LightGBM,3,120,-24.46696203478065
+steer,carcass weight,LightGBM,4,90,1.7755633484218096
+steer,carcass weight,LightGBM,4,120,9.661277951434139
+steer,carcass weight,LightGBM,5,90,7.588755734987427
+steer,carcass weight,LightGBM,5,120,9.671611159498212
+steer,carcass weight,LightGBM,6,90,0.6626052442546789
+steer,carcass weight,LightGBM,6,120,-8.646311609182986
+steer,carcass weight,LightGBM,7,90,-3.794301822213115
+steer,carcass weight,LightGBM,7,120,-3.5625086904653136
+steer,carcass weight,LightGBM,8,90,4.373603174461751
+steer,carcass weight,LightGBM,8,120,3.178495379552427
+steer,carcass weight,LightGBM,9,90,-4.717047290261664
+steer,carcass weight,LightGBM,9,120,-3.906011552705462
+steer,carcass weight,LightGBM,10,90,11.99045315669031
+steer,carcass weight,LightGBM,10,120,8.56929138890486
+steer,carcass weight,RandomForest,1,90,-5.675192227773451
+steer,carcass weight,RandomForest,1,120,5.38228551979891
+steer,carcass weight,RandomForest,2,90,-1.5471822852615655
+steer,carcass weight,RandomForest,2,120,2.4202216886733026
+steer,carcass weight,RandomForest,3,90,-14.816131404809266
+steer,carcass weight,RandomForest,3,120,-24.67222488670649
+steer,carcass weight,RandomForest,4,90,-2.3235524435240005
+steer,carcass weight,RandomForest,4,120,-0.7501237032275543
+steer,carcass weight,RandomForest,5,90,0.02264918412749625
+steer,carcass weight,RandomForest,5,120,2.0781180718751906
+steer,carcass weight,RandomForest,6,90,-0.8633065272264512
+steer,carcass weight,RandomForest,6,120,-3.453098815888432
+steer,carcass weight,RandomForest,7,90,0.8316458720758773
+steer,carcass weight,RandomForest,7,120,4.076828140757219
+steer,carcass weight,RandomForest,8,90,-0.6732261419844626
+steer,carcass weight,RandomForest,8,120,0.5600253521294426
+steer,carcass weight,RandomForest,9,90,1.3290528460027116
+steer,carcass weight,RandomForest,9,120,3.0498393037136453
+steer,carcass weight,RandomForest,10,90,13.010083159960606
+steer,carcass weight,RandomForest,10,120,25.562331452031795
+steer,carcass weight,SVR,1,90,0.7388521118434368
+steer,carcass weight,SVR,1,120,1.6390020107507988
+steer,carcass weight,SVR,2,90,-0.46508976679930913
+steer,carcass weight,SVR,2,120,-1.4106557668380615
+steer,carcass weight,SVR,3,90,0.11415274089082365
+steer,carcass weight,SVR,3,120,-2.9565394733027146
+steer,carcass weight,SVR,4,90,-4.363209707058119
+steer,carcass weight,SVR,4,120,-3.990644056884175
+steer,carcass weight,SVR,5,90,0.16097099658852296
+steer,carcass weight,SVR,5,120,0.15100653909002798
+steer,carcass weight,SVR,6,90,0.14690899852350803
+steer,carcass weight,SVR,6,120,0.37050040050038296
+steer,carcass weight,SVR,7,90,-0.6635728924739124
+steer,carcass weight,SVR,7,120,-2.2376726325351473
+steer,carcass weight,SVR,8,90,-0.7160336233789933
+steer,carcass weight,SVR,8,120,-5.229879999723109
+steer,carcass weight,SVR,9,90,-0.19357575011342193
+steer,carcass weight,SVR,9,120,-8.489492308528467
+steer,carcass weight,SVR,10,90,1.8239867150747306
+steer,carcass weight,SVR,10,120,-1.3600720231396501
+steer,live weight,ElasticNet,1,90,0.0
+steer,live weight,ElasticNet,1,120,0.048361027525727615
+steer,live weight,ElasticNet,2,90,0.0
+steer,live weight,ElasticNet,2,120,0.0
+steer,live weight,ElasticNet,3,90,0.0
+steer,live weight,ElasticNet,3,120,0.4291069017328963
+steer,live weight,ElasticNet,4,90,-0.12019882016488148
+steer,live weight,ElasticNet,4,120,-0.06108085629582243
+steer,live weight,ElasticNet,5,90,0.0
+steer,live weight,ElasticNet,5,120,-1.4398290362394681
+steer,live weight,ElasticNet,6,90,0.0
+steer,live weight,ElasticNet,6,120,-0.029688975342924733
+steer,live weight,ElasticNet,7,90,0.0
+steer,live weight,ElasticNet,7,120,0.844457540519885
+steer,live weight,ElasticNet,8,90,0.0
+steer,live weight,ElasticNet,8,120,0.0
+steer,live weight,ElasticNet,9,90,0.0
+steer,live weight,ElasticNet,9,120,0.12829081212045743
+steer,live weight,ElasticNet,10,90,0.0
+steer,live weight,ElasticNet,10,120,0.0
+steer,live weight,HistGradientBoosting,1,90,2.27019736788094
+steer,live weight,HistGradientBoosting,1,120,2.2669287441547814
+steer,live weight,HistGradientBoosting,2,90,0.36806116441834574
+steer,live weight,HistGradientBoosting,2,120,-8.959319739362282
+steer,live weight,HistGradientBoosting,3,90,1.303694580840953
+steer,live weight,HistGradientBoosting,3,120,-1.0692124730938521
+steer,live weight,HistGradientBoosting,4,90,-4.13293048548264
+steer,live weight,HistGradientBoosting,4,120,-9.483850963379492
+steer,live weight,HistGradientBoosting,5,90,-0.5878782355295492
+steer,live weight,HistGradientBoosting,5,120,-0.12181470922881023
+steer,live weight,HistGradientBoosting,6,90,-1.5931394540708448
+steer,live weight,HistGradientBoosting,6,120,4.454684010782299
+steer,live weight,HistGradientBoosting,7,90,-1.5007414883186643
+steer,live weight,HistGradientBoosting,7,120,7.083335897436823
+steer,live weight,HistGradientBoosting,8,90,-8.300307495684823
+steer,live weight,HistGradientBoosting,8,120,6.075131838999797
+steer,live weight,HistGradientBoosting,9,90,-3.863921905517299
+steer,live weight,HistGradientBoosting,9,120,4.710557188120319
+steer,live weight,HistGradientBoosting,10,90,-5.795467515178684
+steer,live weight,HistGradientBoosting,10,120,-5.255655991328742
+steer,live weight,LightGBM,1,90,1.1779700095305765
+steer,live weight,LightGBM,1,120,1.3138113044180773
+steer,live weight,LightGBM,2,90,-0.40860740186231387
+steer,live weight,LightGBM,2,120,-4.754208405136987
+steer,live weight,LightGBM,3,90,-0.812081650441595
+steer,live weight,LightGBM,3,120,5.086874957466836
+steer,live weight,LightGBM,4,90,-9.98698762737807
+steer,live weight,LightGBM,4,120,-17.800918920824426
+steer,live weight,LightGBM,5,90,0.6637599931362724
+steer,live weight,LightGBM,5,120,1.2482103596410188
+steer,live weight,LightGBM,6,90,1.450201871528489
+steer,live weight,LightGBM,6,120,-2.8066881228633282
+steer,live weight,LightGBM,7,90,-39.872869612278436
+steer,live weight,LightGBM,7,120,7.353491897809801
+steer,live weight,LightGBM,8,90,4.963438500241577
+steer,live weight,LightGBM,8,120,3.976137686824936
+steer,live weight,LightGBM,9,90,0.18953266320092388
+steer,live weight,LightGBM,9,120,1.2835667607286363
+steer,live weight,LightGBM,10,90,-1.707243675400473
+steer,live weight,LightGBM,10,120,-4.383688660713163
+steer,live weight,RandomForest,1,90,-1.1091969465377223
+steer,live weight,RandomForest,1,120,1.9575845496777329
+steer,live weight,RandomForest,2,90,4.565433811252881
+steer,live weight,RandomForest,2,120,2.037514211496501
+steer,live weight,RandomForest,3,90,-3.5286635765421237
+steer,live weight,RandomForest,3,120,-2.494767859207636
+steer,live weight,RandomForest,4,90,-3.723651736148735
+steer,live weight,RandomForest,4,120,-2.9407144094406954
+steer,live weight,RandomForest,5,90,-0.6974543921307681
+steer,live weight,RandomForest,5,120,-5.107149029439892
+steer,live weight,RandomForest,6,90,-2.3507435875956184
+steer,live weight,RandomForest,6,120,-1.8500282104512433
+steer,live weight,RandomForest,7,90,1.3606326548527499
+steer,live weight,RandomForest,7,120,5.9515693093781845
+steer,live weight,RandomForest,8,90,-1.8144166351560858
+steer,live weight,RandomForest,8,120,0.48693895782048063
+steer,live weight,RandomForest,9,90,-0.4056586182789746
+steer,live weight,RandomForest,9,120,0.2036361489902106
+steer,live weight,RandomForest,10,90,-3.2219867776373814
+steer,live weight,RandomForest,10,120,6.036238282901275
+steer,live weight,SVR,1,90,0.5462437576540997
+steer,live weight,SVR,1,120,-0.10230764974493273
+steer,live weight,SVR,2,90,-0.16253192310594894
+steer,live weight,SVR,2,120,-0.16236627764976605
+steer,live weight,SVR,3,90,0.022193494160577212
+steer,live weight,SVR,3,120,0.34450900695163733
+steer,live weight,SVR,4,90,-0.5134904207844793
+steer,live weight,SVR,4,120,0.5625054938555923
+steer,live weight,SVR,5,90,-0.0354871388239171
+steer,live weight,SVR,5,120,0.15324975228289808
+steer,live weight,SVR,6,90,-0.2695150362608833
+steer,live weight,SVR,6,120,1.068967943033678
+steer,live weight,SVR,7,90,-0.5048051306065455
+steer,live weight,SVR,7,120,1.2321494770471175
+steer,live weight,SVR,8,90,-0.9856301149783442
+steer,live weight,SVR,8,120,-0.9793550337902459
+steer,live weight,SVR,9,90,-0.26409057079527004
+steer,live weight,SVR,9,120,-0.21709764510658694
+steer,live weight,SVR,10,90,-5.612854834330558
+steer,live weight,SVR,10,120,-5.63069175163048
+steer,price,ElasticNet,1,90,-20.266404010837842
+steer,price,ElasticNet,1,120,-18.81806564542011
+steer,price,ElasticNet,2,90,-6.454274949185382
+steer,price,ElasticNet,2,120,-5.42128817740279
+steer,price,ElasticNet,3,90,-2.1784331681629383
+steer,price,ElasticNet,3,120,-8.10967465669691
+steer,price,ElasticNet,4,90,-13.192278840888235
+steer,price,ElasticNet,4,120,-9.716765917847535
+steer,price,ElasticNet,5,90,1.07466869641303
+steer,price,ElasticNet,5,120,1.5852877525919022
+steer,price,ElasticNet,6,90,1.1573865572787188
+steer,price,ElasticNet,6,120,4.53595545836116
+steer,price,ElasticNet,7,90,0.5792056673753961
+steer,price,ElasticNet,7,120,1.0590507287720894
+steer,price,ElasticNet,8,90,2.8768122881083507
+steer,price,ElasticNet,8,120,5.280645272675382
+steer,price,ElasticNet,9,90,8.88736871306248
+steer,price,ElasticNet,9,120,10.176941274625404
+steer,price,ElasticNet,10,90,5.955526799852991
+steer,price,ElasticNet,10,120,-9.724164796432753
+steer,price,HistGradientBoosting,1,90,12.244887923474735
+steer,price,HistGradientBoosting,1,120,24.633116459356902
+steer,price,HistGradientBoosting,2,90,-2.9718496080817665
+steer,price,HistGradientBoosting,2,120,-3.430383317864775
+steer,price,HistGradientBoosting,3,90,-26.240694154142012
+steer,price,HistGradientBoosting,3,120,-17.222255666377432
+steer,price,HistGradientBoosting,4,90,-10.636189998345733
+steer,price,HistGradientBoosting,4,120,7.804318644676727
+steer,price,HistGradientBoosting,5,90,13.635572718973973
+steer,price,HistGradientBoosting,5,120,8.821415420197779
+steer,price,HistGradientBoosting,6,90,4.229806901622477
+steer,price,HistGradientBoosting,6,120,8.079890407167785
+steer,price,HistGradientBoosting,7,90,-19.430628323649675
+steer,price,HistGradientBoosting,7,120,4.194151313614023
+steer,price,HistGradientBoosting,8,90,-5.794815682580897
+steer,price,HistGradientBoosting,8,120,2.398187634062854
+steer,price,HistGradientBoosting,9,90,5.093824290704082
+steer,price,HistGradientBoosting,9,120,4.8374769616372495
+steer,price,HistGradientBoosting,10,90,-1.4618771251700295
+steer,price,HistGradientBoosting,10,120,7.561385766238139
+steer,price,LightGBM,1,90,-28.066774110172897
+steer,price,LightGBM,1,120,14.420620129417378
+steer,price,LightGBM,2,90,-3.0788438212852034
+steer,price,LightGBM,2,120,0.21419436203404346
+steer,price,LightGBM,3,90,-24.611999467858098
+steer,price,LightGBM,3,120,-28.982612149799646
+steer,price,LightGBM,4,90,5.708977940567417
+steer,price,LightGBM,4,120,16.938903354285067
+steer,price,LightGBM,5,90,10.4023601800659
+steer,price,LightGBM,5,120,9.260747073621053
+steer,price,LightGBM,6,90,1.5861367504214834
+steer,price,LightGBM,6,120,11.985972640845041
+steer,price,LightGBM,7,90,10.069694588373917
+steer,price,LightGBM,7,120,13.211194653325048
+steer,price,LightGBM,8,90,-15.531942661348216
+steer,price,LightGBM,8,120,4.94740612744093
+steer,price,LightGBM,9,90,9.72918216750831
+steer,price,LightGBM,9,120,5.431793788639171
+steer,price,LightGBM,10,90,28.411895397763242
+steer,price,LightGBM,10,120,33.51338087516999
+steer,price,RandomForest,1,90,-1.9607793082554663
+steer,price,RandomForest,1,120,19.571420897274837
+steer,price,RandomForest,2,90,-3.056752713092586
+steer,price,RandomForest,2,120,2.7262702917211397
+steer,price,RandomForest,3,90,-13.249249627749071
+steer,price,RandomForest,3,120,-17.588998644102286
+steer,price,RandomForest,4,90,1.3330850261614224
+steer,price,RandomForest,4,120,2.939676262068126
+steer,price,RandomForest,5,90,-2.070427377725931
+steer,price,RandomForest,5,120,3.301837116281668
+steer,price,RandomForest,6,90,-0.6524515551110802
+steer,price,RandomForest,6,120,1.7602313304118846
+steer,price,RandomForest,7,90,5.559171306354653
+steer,price,RandomForest,7,120,8.367003089091114
+steer,price,RandomForest,8,90,1.8637794724441894
+steer,price,RandomForest,8,120,2.5564656642006325
+steer,price,RandomForest,9,90,4.940028403920669
+steer,price,RandomForest,9,120,8.722843148449396
+steer,price,RandomForest,10,90,24.362723157432058
+steer,price,RandomForest,10,120,32.10977175361603
+steer,price,SVR,1,90,1.4450719699409933
+steer,price,SVR,1,120,-0.6005943634468105
+steer,price,SVR,2,90,-0.45265140992048986
+steer,price,SVR,2,120,-0.9774795551766752
+steer,price,SVR,3,90,1.4196276518627817
+steer,price,SVR,3,120,-1.910775420086117
+steer,price,SVR,4,90,-4.228570555781933
+steer,price,SVR,4,120,-9.432169983967043
+steer,price,SVR,5,90,0.955009314171032
+steer,price,SVR,5,120,1.5815295959219993
+steer,price,SVR,6,90,0.39321091818100395
+steer,price,SVR,6,120,1.6329664255000997
+steer,price,SVR,7,90,0.7085419639156556
+steer,price,SVR,7,120,0.39653616696751226
+steer,price,SVR,8,90,3.2722981621657867
+steer,price,SVR,8,120,3.3706750801621457
+steer,price,SVR,9,90,0.8382400788390941
+steer,price,SVR,9,120,-7.067645097760078
+steer,price,SVR,10,90,-0.4637940104863141
+steer,price,SVR,10,120,-0.17136074943986038

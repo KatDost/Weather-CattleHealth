@@ -1,0 +1,49 @@
+animal_type,target,setting,model,n,metric,score
+heifer,Total number of defects,Dummy,Dummy,233,Balanced accuracy,0.5
+heifer,Total number of defects,Non-weather only,HistGradientBoosting,233,Balanced accuracy,0.3868054492576152
+heifer,Total number of defects,Non-weather only,LightGBM,233,Balanced accuracy,0.3724169600489821
+heifer,Total number of defects,Non-weather only,LogisticRegression,233,Balanced accuracy,0.4434792591458748
+heifer,Total number of defects,Non-weather only,RandomForest,233,Balanced accuracy,0.4141665391091382
+heifer,Total number of defects,Non-weather only,SVC,233,Balanced accuracy,0.4363998163171591
+heifer,carcass weight,Dummy,Dummy,233,MAE,14.78328090551263
+heifer,carcass weight,Non-weather only,ElasticNet,233,MAE,14.68079929782713
+heifer,carcass weight,Non-weather only,HistGradientBoosting,233,MAE,16.34607471444472
+heifer,carcass weight,Non-weather only,LightGBM,233,MAE,14.48092501445436
+heifer,carcass weight,Non-weather only,RandomForest,233,MAE,14.400262032819521
+heifer,carcass weight,Non-weather only,SVR,233,MAE,14.716856926789594
+heifer,live weight,Dummy,Dummy,233,MAE,28.666062018088567
+heifer,live weight,Non-weather only,ElasticNet,233,MAE,28.703763041852337
+heifer,live weight,Non-weather only,HistGradientBoosting,233,MAE,28.699881327918487
+heifer,live weight,Non-weather only,LightGBM,233,MAE,24.455921707682208
+heifer,live weight,Non-weather only,RandomForest,233,MAE,26.175538492240545
+heifer,live weight,Non-weather only,SVR,233,MAE,27.692522002983388
+heifer,price,Dummy,Dummy,233,MAE,82.34446438951338
+heifer,price,Non-weather only,ElasticNet,233,MAE,81.67714139318747
+heifer,price,Non-weather only,HistGradientBoosting,233,MAE,89.62939334433429
+heifer,price,Non-weather only,LightGBM,233,MAE,80.80812410638042
+heifer,price,Non-weather only,RandomForest,233,MAE,80.30015721426315
+heifer,price,Non-weather only,SVR,233,MAE,82.24433527522734
+steer,Total number of defects,Dummy,Dummy,594,Balanced accuracy,0.5
+steer,Total number of defects,Non-weather only,HistGradientBoosting,594,Balanced accuracy,0.6957474226804123
+steer,Total number of defects,Non-weather only,LightGBM,594,Balanced accuracy,0.7010567010309279
+steer,Total number of defects,Non-weather only,LogisticRegression,594,Balanced accuracy,0.5416752577319588
+steer,Total number of defects,Non-weather only,RandomForest,594,Balanced accuracy,0.7469845360824743
+steer,Total number of defects,Non-weather only,SVC,594,Balanced accuracy,0.6024097938144329
+steer,carcass weight,Dummy,Dummy,594,MAE,17.253342588119107
+steer,carcass weight,Non-weather only,ElasticNet,594,MAE,16.76646037338115
+steer,carcass weight,Non-weather only,HistGradientBoosting,594,MAE,18.79777204364988
+steer,carcass weight,Non-weather only,LightGBM,594,MAE,18.608355904726224
+steer,carcass weight,Non-weather only,RandomForest,594,MAE,17.253538878056833
+steer,carcass weight,Non-weather only,SVR,594,MAE,16.85878238771204
+steer,live weight,Dummy,Dummy,594,MAE,33.520278150911544
+steer,live weight,Non-weather only,ElasticNet,594,MAE,32.344063876078955
+steer,live weight,Non-weather only,HistGradientBoosting,594,MAE,36.4527961759114
+steer,live weight,Non-weather only,LightGBM,594,MAE,36.13658144034146
+steer,live weight,Non-weather only,RandomForest,594,MAE,34.46341942457849
+steer,live weight,Non-weather only,SVR,594,MAE,33.26322945645075
+steer,price,Dummy,Dummy,584,MAE,100.10071227526552
+steer,price,Non-weather only,ElasticNet,584,MAE,99.23040000726878
+steer,price,Non-weather only,HistGradientBoosting,584,MAE,107.18689448434984
+steer,price,Non-weather only,LightGBM,584,MAE,108.79265036676557
+steer,price,Non-weather only,RandomForest,584,MAE,100.80404954208981
+steer,price,Non-weather only,SVR,584,MAE,97.59226180806698

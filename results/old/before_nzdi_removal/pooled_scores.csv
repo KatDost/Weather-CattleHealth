@@ -1,0 +1,289 @@
+animal_type,target,setting,model,n,metric,score
+heifer,Total number of defects,Dummy,Dummy,233,Balanced accuracy,0.5
+heifer,Total number of defects,Non-weather + weather 120,HistGradientBoosting,233,Balanced accuracy,0.4814403796112046
+heifer,Total number of defects,Non-weather + weather 120,LightGBM,233,Balanced accuracy,0.5604622684830858
+heifer,Total number of defects,Non-weather + weather 120,LogisticRegression,233,Balanced accuracy,0.5640593907852441
+heifer,Total number of defects,Non-weather + weather 120,RandomForest,233,Balanced accuracy,0.5372723098117251
+heifer,Total number of defects,Non-weather + weather 120,SVC,233,Balanced accuracy,0.59953313944589
+heifer,Total number of defects,Non-weather + weather 60,HistGradientBoosting,233,Balanced accuracy,0.47784325730904637
+heifer,Total number of defects,Non-weather + weather 60,LightGBM,233,Balanced accuracy,0.5315322210316853
+heifer,Total number of defects,Non-weather + weather 60,LogisticRegression,233,Balanced accuracy,0.6006428899433645
+heifer,Total number of defects,Non-weather + weather 60,RandomForest,233,Balanced accuracy,0.535856421245982
+heifer,Total number of defects,Non-weather + weather 60,SVC,233,Balanced accuracy,0.5318000918414205
+heifer,Total number of defects,Non-weather + weather 90,HistGradientBoosting,233,Balanced accuracy,0.4814403796112046
+heifer,Total number of defects,Non-weather + weather 90,LightGBM,233,Balanced accuracy,0.5604622684830858
+heifer,Total number of defects,Non-weather + weather 90,LogisticRegression,233,Balanced accuracy,0.4864533904791061
+heifer,Total number of defects,Non-weather + weather 90,RandomForest,233,Balanced accuracy,0.5302311342415429
+heifer,Total number of defects,Non-weather + weather 90,SVC,233,Balanced accuracy,0.6157967243226695
+heifer,Total number of defects,Non-weather only,HistGradientBoosting,233,Balanced accuracy,0.4689269860707179
+heifer,Total number of defects,Non-weather only,LightGBM,233,Balanced accuracy,0.5160339813255779
+heifer,Total number of defects,Non-weather only,LogisticRegression,233,Balanced accuracy,0.45660492882289916
+heifer,Total number of defects,Non-weather only,RandomForest,233,Balanced accuracy,0.5196311036277361
+heifer,Total number of defects,Non-weather only,SVC,233,Balanced accuracy,0.4046379917342722
+heifer,Total number of defects,Weather only 120,HistGradientBoosting,233,Balanced accuracy,0.4923848155518139
+heifer,Total number of defects,Weather only 120,LightGBM,233,Balanced accuracy,0.5579748966784019
+heifer,Total number of defects,Weather only 120,LogisticRegression,233,Balanced accuracy,0.5263661411296494
+heifer,Total number of defects,Weather only 120,RandomForest,233,Balanced accuracy,0.5799785703352212
+heifer,Total number of defects,Weather only 120,SVC,233,Balanced accuracy,0.5593525179856116
+heifer,Total number of defects,Weather only 60,HistGradientBoosting,233,Balanced accuracy,0.4119853053727231
+heifer,Total number of defects,Weather only 60,LightGBM,233,Balanced accuracy,0.4820909230062758
+heifer,Total number of defects,Weather only 60,LogisticRegression,233,Balanced accuracy,0.5299632634318078
+heifer,Total number of defects,Weather only 60,RandomForest,233,Balanced accuracy,0.5408694321138834
+heifer,Total number of defects,Weather only 60,SVC,233,Balanced accuracy,0.5544925761518444
+heifer,Total number of defects,Weather only 90,HistGradientBoosting,233,Balanced accuracy,0.4119853053727231
+heifer,Total number of defects,Weather only 90,LightGBM,233,Balanced accuracy,0.5600030613806827
+heifer,Total number of defects,Weather only 90,LogisticRegression,233,Balanced accuracy,0.5263661411296494
+heifer,Total number of defects,Weather only 90,RandomForest,233,Balanced accuracy,0.5706030919944896
+heifer,Total number of defects,Weather only 90,SVC,233,Balanced accuracy,0.5720189805602327
+heifer,carcass weight,Dummy,Dummy,233,MAE,14.783280905512637
+heifer,carcass weight,Non-weather + weather 120,ElasticNet,233,MAE,15.223653633795283
+heifer,carcass weight,Non-weather + weather 120,HistGradientBoosting,233,MAE,15.712666715742202
+heifer,carcass weight,Non-weather + weather 120,LightGBM,233,MAE,15.918169319723413
+heifer,carcass weight,Non-weather + weather 120,RandomForest,233,MAE,14.985227070153481
+heifer,carcass weight,Non-weather + weather 120,SVR,233,MAE,13.959718210119311
+heifer,carcass weight,Non-weather + weather 60,ElasticNet,233,MAE,15.258181747584159
+heifer,carcass weight,Non-weather + weather 60,HistGradientBoosting,233,MAE,15.57722879906593
+heifer,carcass weight,Non-weather + weather 60,LightGBM,233,MAE,15.812571622972571
+heifer,carcass weight,Non-weather + weather 60,RandomForest,233,MAE,15.94238762247458
+heifer,carcass weight,Non-weather + weather 60,SVR,233,MAE,14.622438204115443
+heifer,carcass weight,Non-weather + weather 90,ElasticNet,233,MAE,15.23461606872436
+heifer,carcass weight,Non-weather + weather 90,HistGradientBoosting,233,MAE,15.728186709091355
+heifer,carcass weight,Non-weather + weather 90,LightGBM,233,MAE,15.911956159644356
+heifer,carcass weight,Non-weather + weather 90,RandomForest,233,MAE,15.18789138171054
+heifer,carcass weight,Non-weather + weather 90,SVR,233,MAE,16.720447786486
+heifer,carcass weight,Non-weather only,ElasticNet,233,MAE,14.835563646459462
+heifer,carcass weight,Non-weather only,HistGradientBoosting,233,MAE,14.659597751060806
+heifer,carcass weight,Non-weather only,LightGBM,233,MAE,14.10038061934106
+heifer,carcass weight,Non-weather only,RandomForest,233,MAE,12.872836629830331
+heifer,carcass weight,Non-weather only,SVR,233,MAE,14.274990138225233
+heifer,carcass weight,Weather only 120,ElasticNet,233,MAE,15.230810455744715
+heifer,carcass weight,Weather only 120,HistGradientBoosting,233,MAE,16.839547471692487
+heifer,carcass weight,Weather only 120,LightGBM,233,MAE,16.660703060741646
+heifer,carcass weight,Weather only 120,RandomForest,233,MAE,14.92740016599053
+heifer,carcass weight,Weather only 120,SVR,233,MAE,13.966195409247097
+heifer,carcass weight,Weather only 60,ElasticNet,233,MAE,15.26127751405407
+heifer,carcass weight,Weather only 60,HistGradientBoosting,233,MAE,16.926622075241653
+heifer,carcass weight,Weather only 60,LightGBM,233,MAE,17.0686793232907
+heifer,carcass weight,Weather only 60,RandomForest,233,MAE,14.514894098210851
+heifer,carcass weight,Weather only 60,SVR,233,MAE,14.613213077919571
+heifer,carcass weight,Weather only 90,ElasticNet,233,MAE,15.234755655037647
+heifer,carcass weight,Weather only 90,HistGradientBoosting,233,MAE,16.94103253423845
+heifer,carcass weight,Weather only 90,LightGBM,233,MAE,16.87056514817741
+heifer,carcass weight,Weather only 90,RandomForest,233,MAE,15.030503872535897
+heifer,carcass weight,Weather only 90,SVR,233,MAE,15.811095919771272
+heifer,live weight,Dummy,Dummy,233,MAE,28.666062018088574
+heifer,live weight,Non-weather + weather 120,ElasticNet,233,MAE,29.64975992756985
+heifer,live weight,Non-weather + weather 120,HistGradientBoosting,233,MAE,32.92337378029895
+heifer,live weight,Non-weather + weather 120,LightGBM,233,MAE,31.071184793975775
+heifer,live weight,Non-weather + weather 120,RandomForest,233,MAE,31.364935916243258
+heifer,live weight,Non-weather + weather 120,SVR,233,MAE,27.980124442215295
+heifer,live weight,Non-weather + weather 60,ElasticNet,233,MAE,29.56520988750119
+heifer,live weight,Non-weather + weather 60,HistGradientBoosting,233,MAE,33.506332144675945
+heifer,live weight,Non-weather + weather 60,LightGBM,233,MAE,31.663083871724666
+heifer,live weight,Non-weather + weather 60,RandomForest,233,MAE,32.226494736425906
+heifer,live weight,Non-weather + weather 60,SVR,233,MAE,30.810203006078233
+heifer,live weight,Non-weather + weather 90,ElasticNet,233,MAE,29.61120818745562
+heifer,live weight,Non-weather + weather 90,HistGradientBoosting,233,MAE,33.50032181590333
+heifer,live weight,Non-weather + weather 90,LightGBM,233,MAE,31.36641002943908
+heifer,live weight,Non-weather + weather 90,RandomForest,233,MAE,30.607121360331544
+heifer,live weight,Non-weather + weather 90,SVR,233,MAE,28.901514714997656
+heifer,live weight,Non-weather only,ElasticNet,233,MAE,29.000802448602876
+heifer,live weight,Non-weather only,HistGradientBoosting,233,MAE,31.706142532422042
+heifer,live weight,Non-weather only,LightGBM,233,MAE,28.27635076853986
+heifer,live weight,Non-weather only,RandomForest,233,MAE,30.339403287216715
+heifer,live weight,Non-weather only,SVR,233,MAE,27.75674365192639
+heifer,live weight,Weather only 120,ElasticNet,233,MAE,30.008443845267944
+heifer,live weight,Weather only 120,HistGradientBoosting,233,MAE,34.322093555892295
+heifer,live weight,Weather only 120,LightGBM,233,MAE,30.150294071696024
+heifer,live weight,Weather only 120,RandomForest,233,MAE,30.56760918596204
+heifer,live weight,Weather only 120,SVR,233,MAE,27.903649733759277
+heifer,live weight,Weather only 60,ElasticNet,233,MAE,29.781544713396872
+heifer,live weight,Weather only 60,HistGradientBoosting,233,MAE,34.72702545215907
+heifer,live weight,Weather only 60,LightGBM,233,MAE,30.248588617863476
+heifer,live weight,Weather only 60,RandomForest,233,MAE,31.23282177227741
+heifer,live weight,Weather only 60,SVR,233,MAE,30.672500045561403
+heifer,live weight,Weather only 90,ElasticNet,233,MAE,29.81714077801422
+heifer,live weight,Weather only 90,HistGradientBoosting,233,MAE,35.07826880177983
+heifer,live weight,Weather only 90,LightGBM,233,MAE,30.167043339309004
+heifer,live weight,Weather only 90,RandomForest,233,MAE,30.82867101526655
+heifer,live weight,Weather only 90,SVR,233,MAE,29.035328370666203
+heifer,price,Dummy,Dummy,233,MAE,82.34446438951338
+heifer,price,Non-weather + weather 120,ElasticNet,233,MAE,84.09848052261823
+heifer,price,Non-weather + weather 120,HistGradientBoosting,233,MAE,94.55509133038254
+heifer,price,Non-weather + weather 120,LightGBM,233,MAE,89.65528625849122
+heifer,price,Non-weather + weather 120,RandomForest,233,MAE,85.49619590342243
+heifer,price,Non-weather + weather 120,SVR,233,MAE,75.06861207662791
+heifer,price,Non-weather + weather 60,ElasticNet,233,MAE,83.52394291795652
+heifer,price,Non-weather + weather 60,HistGradientBoosting,233,MAE,91.48952306477352
+heifer,price,Non-weather + weather 60,LightGBM,233,MAE,90.01646648368519
+heifer,price,Non-weather + weather 60,RandomForest,233,MAE,88.64796171579718
+heifer,price,Non-weather + weather 60,SVR,233,MAE,81.92434582181805
+heifer,price,Non-weather + weather 90,ElasticNet,233,MAE,83.4104810773609
+heifer,price,Non-weather + weather 90,HistGradientBoosting,233,MAE,94.12190883563653
+heifer,price,Non-weather + weather 90,LightGBM,233,MAE,89.1358890619254
+heifer,price,Non-weather + weather 90,RandomForest,233,MAE,89.64362750940695
+heifer,price,Non-weather + weather 90,SVR,233,MAE,81.33220895143397
+heifer,price,Non-weather only,ElasticNet,233,MAE,82.65810790750882
+heifer,price,Non-weather only,HistGradientBoosting,233,MAE,82.55884736995249
+heifer,price,Non-weather only,LightGBM,233,MAE,74.41569534186098
+heifer,price,Non-weather only,RandomForest,233,MAE,76.04451761502901
+heifer,price,Non-weather only,SVR,233,MAE,84.21627419051157
+heifer,price,Weather only 120,ElasticNet,233,MAE,83.84579978397291
+heifer,price,Weather only 120,HistGradientBoosting,233,MAE,95.38624757739267
+heifer,price,Weather only 120,LightGBM,233,MAE,90.24371355721716
+heifer,price,Weather only 120,RandomForest,233,MAE,83.19717402547612
+heifer,price,Weather only 120,SVR,233,MAE,75.11444509446156
+heifer,price,Weather only 60,ElasticNet,233,MAE,83.38210218446237
+heifer,price,Weather only 60,HistGradientBoosting,233,MAE,94.84204196142136
+heifer,price,Weather only 60,LightGBM,233,MAE,92.29794407722466
+heifer,price,Weather only 60,RandomForest,233,MAE,82.01443245480355
+heifer,price,Weather only 60,SVR,233,MAE,82.19054554636756
+heifer,price,Weather only 90,ElasticNet,233,MAE,83.40067030344642
+heifer,price,Weather only 90,HistGradientBoosting,233,MAE,95.6688088706201
+heifer,price,Weather only 90,LightGBM,233,MAE,92.64744019918014
+heifer,price,Weather only 90,RandomForest,233,MAE,83.98452822775542
+heifer,price,Weather only 90,SVR,233,MAE,81.84485225898723
+steer,Total number of defects,Dummy,Dummy,594,Balanced accuracy,0.5
+steer,Total number of defects,Non-weather + weather 120,HistGradientBoosting,594,Balanced accuracy,0.5741365979381443
+steer,Total number of defects,Non-weather + weather 120,LightGBM,594,Balanced accuracy,0.5733634020618557
+steer,Total number of defects,Non-weather + weather 120,LogisticRegression,594,Balanced accuracy,0.5113917525773196
+steer,Total number of defects,Non-weather + weather 120,RandomForest,594,Balanced accuracy,0.6073969072164949
+steer,Total number of defects,Non-weather + weather 120,SVC,594,Balanced accuracy,0.4009278350515464
+steer,Total number of defects,Non-weather + weather 60,HistGradientBoosting,594,Balanced accuracy,0.5563273195876288
+steer,Total number of defects,Non-weather + weather 60,LightGBM,594,Balanced accuracy,0.5385953608247422
+steer,Total number of defects,Non-weather + weather 60,LogisticRegression,594,Balanced accuracy,0.49773195876288656
+steer,Total number of defects,Non-weather + weather 60,RandomForest,594,Balanced accuracy,0.6674742268041237
+steer,Total number of defects,Non-weather + weather 60,SVC,594,Balanced accuracy,0.4649742268041237
+steer,Total number of defects,Non-weather + weather 90,HistGradientBoosting,594,Balanced accuracy,0.6058505154639175
+steer,Total number of defects,Non-weather + weather 90,LightGBM,594,Balanced accuracy,0.5217268041237113
+steer,Total number of defects,Non-weather + weather 90,LogisticRegression,594,Balanced accuracy,0.5284149484536083
+steer,Total number of defects,Non-weather + weather 90,RandomForest,594,Balanced accuracy,0.6453737113402062
+steer,Total number of defects,Non-weather + weather 90,SVC,594,Balanced accuracy,0.47239690721649485
+steer,Total number of defects,Non-weather only,HistGradientBoosting,594,Balanced accuracy,0.6745876288659793
+steer,Total number of defects,Non-weather only,LightGBM,594,Balanced accuracy,0.6961340206185567
+steer,Total number of defects,Non-weather only,LogisticRegression,594,Balanced accuracy,0.624909793814433
+steer,Total number of defects,Non-weather only,RandomForest,594,Balanced accuracy,0.7298840206185567
+steer,Total number of defects,Non-weather only,SVC,594,Balanced accuracy,0.5513015463917526
+steer,Total number of defects,Weather only 120,HistGradientBoosting,594,Balanced accuracy,0.5259278350515464
+steer,Total number of defects,Weather only 120,LightGBM,594,Balanced accuracy,0.4803737113402061
+steer,Total number of defects,Weather only 120,LogisticRegression,594,Balanced accuracy,0.5427061855670103
+steer,Total number of defects,Weather only 120,RandomForest,594,Balanced accuracy,0.5681056701030928
+steer,Total number of defects,Weather only 120,SVC,594,Balanced accuracy,0.4437242268041237
+steer,Total number of defects,Weather only 60,HistGradientBoosting,594,Balanced accuracy,0.599819587628866
+steer,Total number of defects,Weather only 60,LightGBM,594,Balanced accuracy,0.5228737113402062
+steer,Total number of defects,Weather only 60,LogisticRegression,594,Balanced accuracy,0.531069587628866
+steer,Total number of defects,Weather only 60,RandomForest,594,Balanced accuracy,0.5885051546391753
+steer,Total number of defects,Weather only 60,SVC,594,Balanced accuracy,0.5109149484536083
+steer,Total number of defects,Weather only 90,HistGradientBoosting,594,Balanced accuracy,0.573569587628866
+steer,Total number of defects,Weather only 90,LightGBM,594,Balanced accuracy,0.5268556701030928
+steer,Total number of defects,Weather only 90,LogisticRegression,594,Balanced accuracy,0.5110824742268041
+steer,Total number of defects,Weather only 90,RandomForest,594,Balanced accuracy,0.5951417525773196
+steer,Total number of defects,Weather only 90,SVC,594,Balanced accuracy,0.5084149484536082
+steer,carcass weight,Dummy,Dummy,594,MAE,17.253342588119107
+steer,carcass weight,Non-weather + weather 120,ElasticNet,594,MAE,16.836825897782926
+steer,carcass weight,Non-weather + weather 120,HistGradientBoosting,594,MAE,18.573525245489858
+steer,carcass weight,Non-weather + weather 120,LightGBM,594,MAE,19.248879376009807
+steer,carcass weight,Non-weather + weather 120,RandomForest,594,MAE,17.60899623631427
+steer,carcass weight,Non-weather + weather 120,SVR,594,MAE,16.100326558722458
+steer,carcass weight,Non-weather + weather 60,ElasticNet,594,MAE,17.828810551709854
+steer,carcass weight,Non-weather + weather 60,HistGradientBoosting,594,MAE,18.88303337427473
+steer,carcass weight,Non-weather + weather 60,LightGBM,594,MAE,18.891183753719535
+steer,carcass weight,Non-weather + weather 60,RandomForest,594,MAE,17.834408444988465
+steer,carcass weight,Non-weather + weather 60,SVR,594,MAE,15.718004866069702
+steer,carcass weight,Non-weather + weather 90,ElasticNet,594,MAE,17.136204774599648
+steer,carcass weight,Non-weather + weather 90,HistGradientBoosting,594,MAE,18.78633812868682
+steer,carcass weight,Non-weather + weather 90,LightGBM,594,MAE,19.162839991271124
+steer,carcass weight,Non-weather + weather 90,RandomForest,594,MAE,18.04772264774611
+steer,carcass weight,Non-weather + weather 90,SVR,594,MAE,15.78272339525258
+steer,carcass weight,Non-weather only,ElasticNet,594,MAE,16.291208720555858
+steer,carcass weight,Non-weather only,HistGradientBoosting,594,MAE,18.44091877494464
+steer,carcass weight,Non-weather only,LightGBM,594,MAE,17.89932635889475
+steer,carcass weight,Non-weather only,RandomForest,594,MAE,17.906560386431128
+steer,carcass weight,Non-weather only,SVR,594,MAE,16.23754678832531
+steer,carcass weight,Weather only 120,ElasticNet,594,MAE,16.891195612660084
+steer,carcass weight,Weather only 120,HistGradientBoosting,594,MAE,19.12276220947152
+steer,carcass weight,Weather only 120,LightGBM,594,MAE,19.345269971093252
+steer,carcass weight,Weather only 120,RandomForest,594,MAE,17.49738953098598
+steer,carcass weight,Weather only 120,SVR,594,MAE,16.280361410896003
+steer,carcass weight,Weather only 60,ElasticNet,594,MAE,18.201801600904332
+steer,carcass weight,Weather only 60,HistGradientBoosting,594,MAE,19.450103880313886
+steer,carcass weight,Weather only 60,LightGBM,594,MAE,19.65806028489239
+steer,carcass weight,Weather only 60,RandomForest,594,MAE,17.912468491688127
+steer,carcass weight,Weather only 60,SVR,594,MAE,16.043810969720646
+steer,carcass weight,Weather only 90,ElasticNet,594,MAE,17.18730222006421
+steer,carcass weight,Weather only 90,HistGradientBoosting,594,MAE,19.460133737156095
+steer,carcass weight,Weather only 90,LightGBM,594,MAE,19.656173469592275
+steer,carcass weight,Weather only 90,RandomForest,594,MAE,17.61626390421784
+steer,carcass weight,Weather only 90,SVR,594,MAE,16.036232219840343
+steer,live weight,Dummy,Dummy,594,MAE,33.520278150911544
+steer,live weight,Non-weather + weather 120,ElasticNet,594,MAE,33.454701332656796
+steer,live weight,Non-weather + weather 120,HistGradientBoosting,594,MAE,33.93958105580294
+steer,live weight,Non-weather + weather 120,LightGBM,594,MAE,33.49212657149971
+steer,live weight,Non-weather + weather 120,RandomForest,594,MAE,34.78992851176455
+steer,live weight,Non-weather + weather 120,SVR,594,MAE,33.9110504401045
+steer,live weight,Non-weather + weather 60,ElasticNet,594,MAE,33.429031388911675
+steer,live weight,Non-weather + weather 60,HistGradientBoosting,594,MAE,33.969600301874976
+steer,live weight,Non-weather + weather 60,LightGBM,594,MAE,33.278360355615604
+steer,live weight,Non-weather + weather 60,RandomForest,594,MAE,34.80811460174635
+steer,live weight,Non-weather + weather 60,SVR,594,MAE,33.87561365810247
+steer,live weight,Non-weather + weather 90,ElasticNet,594,MAE,33.4333759123128
+steer,live weight,Non-weather + weather 90,HistGradientBoosting,594,MAE,34.667429989823944
+steer,live weight,Non-weather + weather 90,LightGBM,594,MAE,34.47901461507199
+steer,live weight,Non-weather + weather 90,RandomForest,594,MAE,35.131214451727075
+steer,live weight,Non-weather + weather 90,SVR,594,MAE,34.04269147999894
+steer,live weight,Non-weather only,ElasticNet,594,MAE,33.25375598083013
+steer,live weight,Non-weather only,HistGradientBoosting,594,MAE,39.71809185535075
+steer,live weight,Non-weather only,LightGBM,594,MAE,40.05183569672763
+steer,live weight,Non-weather only,RandomForest,594,MAE,36.59788694315756
+steer,live weight,Non-weather only,SVR,594,MAE,32.62911486296059
+steer,live weight,Weather only 120,ElasticNet,594,MAE,33.455016370627355
+steer,live weight,Weather only 120,HistGradientBoosting,594,MAE,35.11917359403813
+steer,live weight,Weather only 120,LightGBM,594,MAE,34.39092379116137
+steer,live weight,Weather only 120,RandomForest,594,MAE,35.15234420593517
+steer,live weight,Weather only 120,SVR,594,MAE,33.78590101213004
+steer,live weight,Weather only 60,ElasticNet,594,MAE,33.49953092919702
+steer,live weight,Weather only 60,HistGradientBoosting,594,MAE,34.345240144961515
+steer,live weight,Weather only 60,LightGBM,594,MAE,36.411800120892224
+steer,live weight,Weather only 60,RandomForest,594,MAE,35.53205100620868
+steer,live weight,Weather only 60,SVR,594,MAE,33.76833878642444
+steer,live weight,Weather only 90,ElasticNet,594,MAE,33.50389842762864
+steer,live weight,Weather only 90,HistGradientBoosting,594,MAE,34.83318532161607
+steer,live weight,Weather only 90,LightGBM,594,MAE,34.54444854434536
+steer,live weight,Weather only 90,RandomForest,594,MAE,34.77078007256296
+steer,live weight,Weather only 90,SVR,594,MAE,33.900177429056725
+steer,price,Dummy,Dummy,584,MAE,100.10071227526552
+steer,price,Non-weather + weather 120,ElasticNet,584,MAE,96.86075716425349
+steer,price,Non-weather + weather 120,HistGradientBoosting,584,MAE,102.8091028354988
+steer,price,Non-weather + weather 120,LightGBM,584,MAE,103.47853353719493
+steer,price,Non-weather + weather 120,RandomForest,584,MAE,98.46687534914031
+steer,price,Non-weather + weather 120,SVR,584,MAE,93.25068031421768
+steer,price,Non-weather + weather 60,ElasticNet,584,MAE,95.0557632940364
+steer,price,Non-weather + weather 60,HistGradientBoosting,584,MAE,108.72100025387302
+steer,price,Non-weather + weather 60,LightGBM,584,MAE,114.07541863999299
+steer,price,Non-weather + weather 60,RandomForest,584,MAE,105.10584143143865
+steer,price,Non-weather + weather 60,SVR,584,MAE,92.02910326822428
+steer,price,Non-weather + weather 90,ElasticNet,584,MAE,96.77657802207838
+steer,price,Non-weather + weather 90,HistGradientBoosting,584,MAE,110.5549923351608
+steer,price,Non-weather + weather 90,LightGBM,584,MAE,113.5966977047913
+steer,price,Non-weather + weather 90,RandomForest,584,MAE,103.57521314332351
+steer,price,Non-weather + weather 90,SVR,584,MAE,91.59906313251214
+steer,price,Non-weather only,ElasticNet,584,MAE,94.24737368831072
+steer,price,Non-weather only,HistGradientBoosting,584,MAE,112.63552181427285
+steer,price,Non-weather only,LightGBM,584,MAE,104.51827531884585
+steer,price,Non-weather only,RandomForest,584,MAE,101.16476762114736
+steer,price,Non-weather only,SVR,584,MAE,94.09446687689017
+steer,price,Weather only 120,ElasticNet,584,MAE,97.1288574259438
+steer,price,Weather only 120,HistGradientBoosting,584,MAE,102.8135069846284
+steer,price,Weather only 120,LightGBM,584,MAE,104.85289380488449
+steer,price,Weather only 120,RandomForest,584,MAE,99.06761053876563
+steer,price,Weather only 120,SVR,584,MAE,93.46973233250563
+steer,price,Weather only 60,ElasticNet,584,MAE,97.15591614997604
+steer,price,Weather only 60,HistGradientBoosting,584,MAE,109.07050416291011
+steer,price,Weather only 60,LightGBM,584,MAE,111.70381552120647
+steer,price,Weather only 60,RandomForest,584,MAE,104.64168207661427
+steer,price,Weather only 60,SVR,584,MAE,92.52377899422194
+steer,price,Weather only 90,ElasticNet,584,MAE,97.20721573475956
+steer,price,Weather only 90,HistGradientBoosting,584,MAE,109.13728359069286
+steer,price,Weather only 90,LightGBM,584,MAE,113.76536380517776
+steer,price,Weather only 90,RandomForest,584,MAE,103.24334479762662
+steer,price,Weather only 90,SVR,584,MAE,92.12499290640213
