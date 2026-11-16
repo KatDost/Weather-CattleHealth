@@ -1,0 +1,307 @@
+animal_type,target,model,setting,horizon,pruning,date_mae,animal_mae,animals,dates
+heifer,carcass weight,Dummy,Dummy,0,none,14.419434116893894,14.172610508854893,233,18
+heifer,carcass weight,ElasticNet,Teeth + NZDI,0,none,14.950206282665082,14.63990617513711,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,30,all,15.104244264321371,14.184281854142496,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,30,spearman,14.444985037436744,14.163379673793361,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,60,all,14.46007504731184,13.548962748126362,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,60,spearman,14.18966890972387,13.553846596104808,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,120,all,14.03596206566506,13.35412928652974,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,120,spearman,13.838296047940375,13.380483908479611,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,180,all,14.088163790879422,13.412078124958326,233,18
+heifer,carcass weight,ElasticNet,Teeth + weather,180,spearman,13.699252581406913,13.292955282963703,233,18
+heifer,carcass weight,ElasticNet,Teeth only,0,none,13.975870989901908,13.590315641959688,233,18
+heifer,carcass weight,ExtraTrees,Teeth + NZDI,0,none,13.595538001126455,13.399308938291108,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,30,all,13.399172983079684,13.149579681198798,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,30,spearman,13.663269932852396,13.525829364497927,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,60,all,13.435606402695749,13.005323075202528,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,60,spearman,13.730195706776863,13.47957476616213,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,120,all,13.387749559286117,13.106546323389418,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,120,spearman,13.855881720618171,13.691451196410434,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,180,all,13.241428402178371,12.942302379842047,233,18
+heifer,carcass weight,ExtraTrees,Teeth + weather,180,spearman,13.568239060541833,13.531883709658935,233,18
+heifer,carcass weight,ExtraTrees,Teeth only,0,none,13.699707250933526,13.912789000978055,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + NZDI,0,none,15.121456274739513,16.058932804185567,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,30,all,13.493600709918656,13.590591676938981,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,30,spearman,13.159342117391411,13.410230209418362,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,60,all,13.991944777404425,13.353870257046957,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,60,spearman,13.792396232696321,13.325486859659595,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,120,all,13.542795278081025,13.672511540670754,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,120,spearman,13.99485620229145,13.69778128757502,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,180,all,13.91465339341402,13.589742516065392,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth + weather,180,spearman,14.133262800488046,13.757711047179802,233,18
+heifer,carcass weight,HistGradientBoosting,Teeth only,0,none,13.414181963321969,13.62407283584402,233,18
+heifer,carcass weight,LightGBM,Teeth + NZDI,0,none,15.139385644970254,16.161700556875374,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,30,all,13.711479185095412,13.486375372286169,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,30,spearman,13.316448693976522,13.321165803842552,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,60,all,14.670120203851601,13.813393929993635,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,60,spearman,13.893181890068469,13.158133259129109,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,120,all,14.874063054492954,14.399251604901567,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,120,spearman,14.260051332831697,13.789874553567978,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,180,all,14.53797134447592,14.20578256881226,233,18
+heifer,carcass weight,LightGBM,Teeth + weather,180,spearman,14.450068229492713,14.092365668364105,233,18
+heifer,carcass weight,LightGBM,Teeth only,0,none,13.4128094828816,13.622388428452501,233,18
+heifer,carcass weight,RandomForest,Teeth + NZDI,0,none,13.360427344594457,13.34940475806994,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,30,all,12.774777690808074,12.761659281851912,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,30,spearman,12.861115209188618,12.953366629020191,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,60,all,13.273251311829704,12.864669267930793,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,60,spearman,13.382590300021542,13.010476933916111,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,120,all,13.414263393451833,13.107981942062867,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,120,spearman,13.353873916756982,13.105250053196281,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,180,all,13.217313172412041,12.752532290690697,233,18
+heifer,carcass weight,RandomForest,Teeth + weather,180,spearman,13.440059081646199,13.105997177209453,233,18
+heifer,carcass weight,RandomForest,Teeth only,0,none,13.485451567580698,13.336553033931144,233,18
+heifer,live weight,Dummy,Dummy,0,none,30.581840578131605,28.09842637671449,233,18
+heifer,live weight,ElasticNet,Teeth + NZDI,0,none,28.773491642260215,26.233609721976855,233,18
+heifer,live weight,ElasticNet,Teeth + weather,30,all,31.49143495857172,29.490397118760114,233,18
+heifer,live weight,ElasticNet,Teeth + weather,30,spearman,30.718825410582113,28.87257537301482,233,18
+heifer,live weight,ElasticNet,Teeth + weather,60,all,29.993419876828764,27.823949223977344,233,18
+heifer,live weight,ElasticNet,Teeth + weather,60,spearman,29.78431209045523,27.513488044778107,233,18
+heifer,live weight,ElasticNet,Teeth + weather,120,all,30.833612156185723,28.877395493789443,233,18
+heifer,live weight,ElasticNet,Teeth + weather,120,spearman,29.263419163227947,27.1419302166168,233,18
+heifer,live weight,ElasticNet,Teeth + weather,180,all,31.06400171962562,29.183990197136353,233,18
+heifer,live weight,ElasticNet,Teeth + weather,180,spearman,30.135608218539865,27.969798747251538,233,18
+heifer,live weight,ElasticNet,Teeth only,0,none,27.57763385327434,25.372812067497577,233,18
+heifer,live weight,ExtraTrees,Teeth + NZDI,0,none,28.723705409836384,28.05708870012322,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,30,all,30.271462866094435,30.008146139855352,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,30,spearman,29.852242748429504,29.09414341981526,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,60,all,29.981033048958352,29.672231539961537,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,60,spearman,29.83992511422015,28.6947410455183,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,120,all,30.150708060278678,29.608833217708128,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,120,spearman,29.93478855774512,28.9696977931013,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,180,all,30.868457479146528,30.238571799728323,233,18
+heifer,live weight,ExtraTrees,Teeth + weather,180,spearman,30.09624077507502,29.155057003810523,233,18
+heifer,live weight,ExtraTrees,Teeth only,0,none,27.496653799127646,25.620975892118658,233,18
+heifer,live weight,HistGradientBoosting,Teeth + NZDI,0,none,34.921742716641894,35.74047283874324,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,30,all,33.64849335543185,34.99758321306755,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,30,spearman,32.94543528660811,34.32189832393716,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,60,all,32.05773335452838,31.17112334553476,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,60,spearman,32.15622282305066,31.612722335552593,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,120,all,31.41505089372046,30.545772445788092,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,120,spearman,32.582153674985804,31.964084846852916,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,180,all,31.581621385746644,30.709066839814128,233,18
+heifer,live weight,HistGradientBoosting,Teeth + weather,180,spearman,31.56118830598122,30.84866311180831,233,18
+heifer,live weight,HistGradientBoosting,Teeth only,0,none,27.73392665677697,25.939309618256228,233,18
+heifer,live weight,LightGBM,Teeth + NZDI,0,none,34.73402390022416,35.702109512664144,233,18
+heifer,live weight,LightGBM,Teeth + weather,30,all,32.66811612842213,33.539109844999516,233,18
+heifer,live weight,LightGBM,Teeth + weather,30,spearman,32.25695448638748,33.32909449016654,233,18
+heifer,live weight,LightGBM,Teeth + weather,60,all,31.43973454263867,30.32061385851054,233,18
+heifer,live weight,LightGBM,Teeth + weather,60,spearman,33.7232801628526,32.025879127823444,233,18
+heifer,live weight,LightGBM,Teeth + weather,120,all,31.297723263629905,30.049975263265914,233,18
+heifer,live weight,LightGBM,Teeth + weather,120,spearman,33.109730054100964,32.05050178751998,233,18
+heifer,live weight,LightGBM,Teeth + weather,180,all,29.810790591867423,28.843082065217068,233,18
+heifer,live weight,LightGBM,Teeth + weather,180,spearman,32.415272796605066,31.210528985496214,233,18
+heifer,live weight,LightGBM,Teeth only,0,none,27.72975931970868,25.93482122692836,233,18
+heifer,live weight,RandomForest,Teeth + NZDI,0,none,31.04981952731944,31.60200915869325,233,18
+heifer,live weight,RandomForest,Teeth + weather,30,all,30.134568602150907,30.09144298437284,233,18
+heifer,live weight,RandomForest,Teeth + weather,30,spearman,29.694560445009966,29.38924356712273,233,18
+heifer,live weight,RandomForest,Teeth + weather,60,all,30.25887284518342,28.52383127525786,233,18
+heifer,live weight,RandomForest,Teeth + weather,60,spearman,29.633172030729757,28.08413498244225,233,18
+heifer,live weight,RandomForest,Teeth + weather,120,all,30.770614169458934,28.62095166710848,233,18
+heifer,live weight,RandomForest,Teeth + weather,120,spearman,30.37386598752583,28.459384762306396,233,18
+heifer,live weight,RandomForest,Teeth + weather,180,all,30.786171002376257,28.731203066715945,233,18
+heifer,live weight,RandomForest,Teeth + weather,180,spearman,30.004590437839667,27.862455849764952,233,18
+heifer,live weight,RandomForest,Teeth only,0,none,28.625982691584436,26.18927097726602,233,18
+heifer,price,Dummy,Dummy,0,none,79.97053215816297,78.93008808789882,233,18
+heifer,price,ElasticNet,Teeth + NZDI,0,none,83.16530501462235,81.55970480404042,233,18
+heifer,price,ElasticNet,Teeth + weather,30,all,80.66690005976359,78.13867516631296,233,18
+heifer,price,ElasticNet,Teeth + weather,30,spearman,78.72942077968,76.69474485574096,233,18
+heifer,price,ElasticNet,Teeth + weather,60,all,78.83384011697338,73.40677597271261,233,18
+heifer,price,ElasticNet,Teeth + weather,60,spearman,77.26987896220272,73.6451925011446,233,18
+heifer,price,ElasticNet,Teeth + weather,120,all,74.88705216813591,71.10341529476702,233,18
+heifer,price,ElasticNet,Teeth + weather,120,spearman,74.06304731303736,71.32524428201818,233,18
+heifer,price,ElasticNet,Teeth + weather,180,all,75.95804666861876,74.3021835298752,233,18
+heifer,price,ElasticNet,Teeth + weather,180,spearman,74.60543748003484,73.35969103037655,233,18
+heifer,price,ElasticNet,Teeth only,0,none,77.78701388984085,75.87126836573158,233,18
+heifer,price,ExtraTrees,Teeth + NZDI,0,none,75.35933763198162,75.07593311847181,233,18
+heifer,price,ExtraTrees,Teeth + weather,30,all,74.08470326197556,73.32501137916545,233,18
+heifer,price,ExtraTrees,Teeth + weather,30,spearman,76.07235722030487,75.54491778630619,233,18
+heifer,price,ExtraTrees,Teeth + weather,60,all,74.44963461050658,72.3172648201042,233,18
+heifer,price,ExtraTrees,Teeth + weather,60,spearman,76.64771254344136,75.73770976206902,233,18
+heifer,price,ExtraTrees,Teeth + weather,120,all,74.43357109473652,73.03636330263737,233,18
+heifer,price,ExtraTrees,Teeth + weather,120,spearman,77.2976033788534,76.2860304170897,233,18
+heifer,price,ExtraTrees,Teeth + weather,180,all,74.30248843091694,73.35590841821588,233,18
+heifer,price,ExtraTrees,Teeth + weather,180,spearman,75.40442768450023,75.40993342587457,233,18
+heifer,price,ExtraTrees,Teeth only,0,none,76.55304904760996,77.82145935593115,233,18
+heifer,price,HistGradientBoosting,Teeth + NZDI,0,none,85.41362867227038,90.06424697176142,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,30,all,78.59401734255698,79.42586948260626,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,30,spearman,75.90786556377499,77.67931478431855,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,60,all,83.82853820368481,79.07884888585231,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,60,spearman,82.83598294805492,78.62731731468101,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,120,all,83.29783588929875,78.99644746148823,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,120,spearman,81.42366407255626,78.91560335589179,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,180,all,83.18084651210602,78.560737505504,233,18
+heifer,price,HistGradientBoosting,Teeth + weather,180,spearman,81.46641477415136,78.27767762336174,233,18
+heifer,price,HistGradientBoosting,Teeth only,0,none,75.03877179088397,76.20942947746522,233,18
+heifer,price,LightGBM,Teeth + NZDI,0,none,85.1336234297239,89.36487041383991,233,18
+heifer,price,LightGBM,Teeth + weather,30,all,79.02948411997069,78.58156075028172,233,18
+heifer,price,LightGBM,Teeth + weather,30,spearman,78.51920639799599,79.67182491316248,233,18
+heifer,price,LightGBM,Teeth + weather,60,all,86.03504051471046,79.67647738467119,233,18
+heifer,price,LightGBM,Teeth + weather,60,spearman,84.15549558618396,79.07550118054208,233,18
+heifer,price,LightGBM,Teeth + weather,120,all,85.71399372629541,81.51283076078963,233,18
+heifer,price,LightGBM,Teeth + weather,120,spearman,83.7393464904762,81.21590216749829,233,18
+heifer,price,LightGBM,Teeth + weather,180,all,83.22746772420746,79.07975299603258,233,18
+heifer,price,LightGBM,Teeth + weather,180,spearman,83.20242562269668,80.02156890779173,233,18
+heifer,price,LightGBM,Teeth only,0,none,75.03130704056181,76.20333662931482,233,18
+heifer,price,RandomForest,Teeth + NZDI,0,none,75.61260788122382,74.92487351026334,233,18
+heifer,price,RandomForest,Teeth + weather,30,all,71.9050516429227,72.50503073644087,233,18
+heifer,price,RandomForest,Teeth + weather,30,spearman,72.51154006414994,73.1156594929762,233,18
+heifer,price,RandomForest,Teeth + weather,60,all,74.83112820798196,72.68722807458704,233,18
+heifer,price,RandomForest,Teeth + weather,60,spearman,75.18660651560535,73.71012660963002,233,18
+heifer,price,RandomForest,Teeth + weather,120,all,74.43192373727427,72.28374686768774,233,18
+heifer,price,RandomForest,Teeth + weather,120,spearman,75.57023828394355,73.99107807239326,233,18
+heifer,price,RandomForest,Teeth + weather,180,all,73.69696759417991,71.415678880232,233,18
+heifer,price,RandomForest,Teeth + weather,180,spearman,74.78602307338919,73.57478350560808,233,18
+heifer,price,RandomForest,Teeth only,0,none,75.24976722002067,74.47388746929273,233,18
+steer,carcass weight,Dummy,Dummy,0,none,16.700410574253464,17.31302450931845,594,33
+steer,carcass weight,ElasticNet,Teeth + NZDI,0,none,16.52981346378075,17.17012237702272,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,30,all,14.733309621328353,16.045158826085853,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,30,spearman,14.665863766814592,16.033003351325736,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,60,all,14.642588479746196,15.952054530292328,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,60,spearman,14.638003770957646,15.99550622779391,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,120,all,14.643779770947011,15.957548914435439,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,120,spearman,14.437930147647938,15.83130664427928,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,180,all,14.662705221906768,16.023199393483978,594,33
+steer,carcass weight,ElasticNet,Teeth + weather,180,spearman,14.455194453404186,15.834667180464601,594,33
+steer,carcass weight,ElasticNet,Teeth only,0,none,16.768949525961588,17.336469072419472,594,33
+steer,carcass weight,ExtraTrees,Teeth + NZDI,0,none,17.17239577339386,17.512954408827692,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,30,all,16.082538186037716,16.987730201302096,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,30,spearman,16.036528100597355,16.907795889993846,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,60,all,16.16661729339918,17.127013269207996,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,60,spearman,15.797668780255648,16.7804896561563,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,120,all,15.340956025226228,16.51904334664714,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,120,spearman,15.292623281005946,16.436816537461517,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,180,all,15.334288696872292,16.541661430859307,594,33
+steer,carcass weight,ExtraTrees,Teeth + weather,180,spearman,15.172774604412254,16.441339805858732,594,33
+steer,carcass weight,ExtraTrees,Teeth only,0,none,17.430594493090897,17.67458565322178,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + NZDI,0,none,18.345531185688756,18.978041675769084,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,30,all,16.613883678122583,18.093533102728546,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,30,spearman,16.66066769647402,17.623325284181327,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,60,all,16.287011784838246,17.930826354476032,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,60,spearman,17.59901821813823,18.672836988552117,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,120,all,15.038677951743994,16.705494548232874,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,120,spearman,15.370384101979747,16.89227054416721,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,180,all,15.025807498115181,16.797449755342807,594,33
+steer,carcass weight,HistGradientBoosting,Teeth + weather,180,spearman,15.33340544569641,16.94607536955603,594,33
+steer,carcass weight,HistGradientBoosting,Teeth only,0,none,17.679546885120477,17.90552215700817,594,33
+steer,carcass weight,LightGBM,Teeth + NZDI,0,none,18.36421306592168,18.99515640743539,594,33
+steer,carcass weight,LightGBM,Teeth + weather,30,all,16.6100646974646,18.248879646157505,594,33
+steer,carcass weight,LightGBM,Teeth + weather,30,spearman,16.726105817266568,17.69668478049059,594,33
+steer,carcass weight,LightGBM,Teeth + weather,60,all,16.144631667157405,17.87761814392709,594,33
+steer,carcass weight,LightGBM,Teeth + weather,60,spearman,17.097070581367642,18.270802617296983,594,33
+steer,carcass weight,LightGBM,Teeth + weather,120,all,14.969335229364999,16.60869492882979,594,33
+steer,carcass weight,LightGBM,Teeth + weather,120,spearman,15.185838262252702,16.61145474603601,594,33
+steer,carcass weight,LightGBM,Teeth + weather,180,all,14.924137189259525,16.429472237225525,594,33
+steer,carcass weight,LightGBM,Teeth + weather,180,spearman,14.978975793352244,16.48955777829985,594,33
+steer,carcass weight,LightGBM,Teeth only,0,none,17.68214607236567,17.908904190959518,594,33
+steer,carcass weight,RandomForest,Teeth + NZDI,0,none,17.433889322591295,18.213102438937867,594,33
+steer,carcass weight,RandomForest,Teeth + weather,30,all,16.54490898104833,17.488029649734813,594,33
+steer,carcass weight,RandomForest,Teeth + weather,30,spearman,16.384789175012894,17.37489354148786,594,33
+steer,carcass weight,RandomForest,Teeth + weather,60,all,15.986118594917578,16.892436528509176,594,33
+steer,carcass weight,RandomForest,Teeth + weather,60,spearman,15.797271149056167,16.81896803217093,594,33
+steer,carcass weight,RandomForest,Teeth + weather,120,all,15.275256114178742,16.74314831536088,594,33
+steer,carcass weight,RandomForest,Teeth + weather,120,spearman,15.136308950538787,16.52804171278203,594,33
+steer,carcass weight,RandomForest,Teeth + weather,180,all,15.230846074434263,16.705209088036653,594,33
+steer,carcass weight,RandomForest,Teeth + weather,180,spearman,15.234039111655054,16.60055067510411,594,33
+steer,carcass weight,RandomForest,Teeth only,0,none,17.19828522741491,17.63244986090415,594,33
+steer,live weight,Dummy,Dummy,0,none,32.90300143213639,33.76797699865015,594,33
+steer,live weight,ElasticNet,Teeth + NZDI,0,none,32.91272785344634,33.62844274896551,594,33
+steer,live weight,ElasticNet,Teeth + weather,30,all,32.263152829761125,33.102235929096814,594,33
+steer,live weight,ElasticNet,Teeth + weather,30,spearman,32.40021322817065,33.26209305150866,594,33
+steer,live weight,ElasticNet,Teeth + weather,60,all,32.80955529775649,33.637706993842876,594,33
+steer,live weight,ElasticNet,Teeth + weather,60,spearman,33.08848006936867,34.00639854074052,594,33
+steer,live weight,ElasticNet,Teeth + weather,120,all,32.75452659553251,33.821517267359894,594,33
+steer,live weight,ElasticNet,Teeth + weather,120,spearman,32.97909729184884,34.06137785361478,594,33
+steer,live weight,ElasticNet,Teeth + weather,180,all,32.75053386654794,34.278105083389526,594,33
+steer,live weight,ElasticNet,Teeth + weather,180,spearman,32.770573284438,34.070617413023484,594,33
+steer,live weight,ElasticNet,Teeth only,0,none,33.261434924694704,33.533992756867534,594,33
+steer,live weight,ExtraTrees,Teeth + NZDI,0,none,32.8973239287016,33.0909299852158,594,33
+steer,live weight,ExtraTrees,Teeth + weather,30,all,31.091324343670447,32.2531747190099,594,33
+steer,live weight,ExtraTrees,Teeth + weather,30,spearman,31.24066144543714,32.24624650643811,594,33
+steer,live weight,ExtraTrees,Teeth + weather,60,all,31.663027452887395,32.84655572061907,594,33
+steer,live weight,ExtraTrees,Teeth + weather,60,spearman,31.32074434111571,32.602412251497306,594,33
+steer,live weight,ExtraTrees,Teeth + weather,120,all,31.572406255976215,32.93308065189013,594,33
+steer,live weight,ExtraTrees,Teeth + weather,120,spearman,31.704189564721144,33.03656279419831,594,33
+steer,live weight,ExtraTrees,Teeth + weather,180,all,32.55702300279211,33.964004100237254,594,33
+steer,live weight,ExtraTrees,Teeth + weather,180,spearman,32.58241031036698,34.006247536054,594,33
+steer,live weight,ExtraTrees,Teeth only,0,none,33.40202184918751,33.369872134555884,594,33
+steer,live weight,HistGradientBoosting,Teeth + NZDI,0,none,37.55589500837221,38.62988958950686,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,30,all,32.985440587228844,33.190702651601775,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,30,spearman,33.04118678651507,32.81458123390099,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,60,all,33.773590003902484,34.31983702669941,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,60,spearman,33.65865887034254,33.54904628532901,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,120,all,33.88651481357347,34.31739328217259,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,120,spearman,32.808271554747286,32.65185993001025,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,180,all,34.309579278968464,35.15992919823774,594,33
+steer,live weight,HistGradientBoosting,Teeth + weather,180,spearman,33.68208775573852,34.12573508432529,594,33
+steer,live weight,HistGradientBoosting,Teeth only,0,none,33.17244227407341,33.01745118964103,594,33
+steer,live weight,LightGBM,Teeth + NZDI,0,none,37.57455040658335,38.64533351212853,594,33
+steer,live weight,LightGBM,Teeth + weather,30,all,33.916627346587745,33.34829100746766,594,33
+steer,live weight,LightGBM,Teeth + weather,30,spearman,32.69134713724594,32.59283531349801,594,33
+steer,live weight,LightGBM,Teeth + weather,60,all,33.63658839534576,34.2452826132683,594,33
+steer,live weight,LightGBM,Teeth + weather,60,spearman,33.90986037348322,33.81742292695353,594,33
+steer,live weight,LightGBM,Teeth + weather,120,all,33.56131045378372,33.99183968351976,594,33
+steer,live weight,LightGBM,Teeth + weather,120,spearman,33.9392883730422,33.53963962170579,594,33
+steer,live weight,LightGBM,Teeth + weather,180,all,34.62329707165677,35.04652709800376,594,33
+steer,live weight,LightGBM,Teeth + weather,180,spearman,33.79952682163535,33.80496364983217,594,33
+steer,live weight,LightGBM,Teeth only,0,none,33.17584215777769,33.02056212891525,594,33
+steer,live weight,RandomForest,Teeth + NZDI,0,none,34.722914200567345,35.280852191862536,594,33
+steer,live weight,RandomForest,Teeth + weather,30,all,30.65120543689242,31.642368494026773,594,33
+steer,live weight,RandomForest,Teeth + weather,30,spearman,31.152908641912436,31.895112963160035,594,33
+steer,live weight,RandomForest,Teeth + weather,60,all,31.473710170313602,32.24772864053477,594,33
+steer,live weight,RandomForest,Teeth + weather,60,spearman,31.823782827824456,32.404317265627384,594,33
+steer,live weight,RandomForest,Teeth + weather,120,all,31.82990697477008,32.78064426830983,594,33
+steer,live weight,RandomForest,Teeth + weather,120,spearman,32.113716692956594,32.935212934098836,594,33
+steer,live weight,RandomForest,Teeth + weather,180,all,33.085656969607385,34.2128133593456,594,33
+steer,live weight,RandomForest,Teeth + weather,180,spearman,33.13021628359079,34.2783940155917,594,33
+steer,live weight,RandomForest,Teeth only,0,none,33.11694638412362,33.11907007824088,594,33
+steer,price,Dummy,Dummy,0,none,98.86430498567881,100.3918808848663,584,33
+steer,price,ElasticNet,Teeth + NZDI,0,none,96.84786519984341,98.99348224302233,584,33
+steer,price,ElasticNet,Teeth + weather,30,all,94.3348374135941,97.43660484275487,584,33
+steer,price,ElasticNet,Teeth + weather,30,spearman,94.8362922861426,97.75539036734817,584,33
+steer,price,ElasticNet,Teeth + weather,60,all,94.37308269710762,97.31341288274575,584,33
+steer,price,ElasticNet,Teeth + weather,60,spearman,91.8450311677544,96.02049056194234,584,33
+steer,price,ElasticNet,Teeth + weather,120,all,93.17552277218175,97.36276753158504,584,33
+steer,price,ElasticNet,Teeth + weather,120,spearman,93.3761077039535,97.95906323191548,584,33
+steer,price,ElasticNet,Teeth + weather,180,all,92.15094808748991,96.6347384823416,584,33
+steer,price,ElasticNet,Teeth + weather,180,spearman,92.36889310025084,97.19007736859774,584,33
+steer,price,ElasticNet,Teeth only,0,none,99.70090771397322,101.30071202448772,584,33
+steer,price,ExtraTrees,Teeth + NZDI,0,none,101.0128550020924,101.85636607180761,584,33
+steer,price,ExtraTrees,Teeth + weather,30,all,96.35353011513297,99.17223091210167,584,33
+steer,price,ExtraTrees,Teeth + weather,30,spearman,95.57285095053015,98.91482270831682,584,33
+steer,price,ExtraTrees,Teeth + weather,60,all,96.2535977370166,99.40902129702792,584,33
+steer,price,ExtraTrees,Teeth + weather,60,spearman,94.53099469436545,98.35010645316186,584,33
+steer,price,ExtraTrees,Teeth + weather,120,all,88.47671728876676,94.31571364072244,584,33
+steer,price,ExtraTrees,Teeth + weather,120,spearman,89.39592347519304,94.6176774806241,584,33
+steer,price,ExtraTrees,Teeth + weather,180,all,89.77593571221848,95.68012402639899,584,33
+steer,price,ExtraTrees,Teeth + weather,180,spearman,88.76672505777252,94.66353644994824,584,33
+steer,price,ExtraTrees,Teeth only,0,none,103.25499917724107,103.25627205723036,584,33
+steer,price,HistGradientBoosting,Teeth + NZDI,0,none,104.18207770517803,109.28080675602001,584,33
+steer,price,HistGradientBoosting,Teeth + weather,30,all,101.55703055566553,107.34591668559327,584,33
+steer,price,HistGradientBoosting,Teeth + weather,30,spearman,105.89862843760632,112.09670548312153,584,33
+steer,price,HistGradientBoosting,Teeth + weather,60,all,100.05338873693886,105.49845297053811,584,33
+steer,price,HistGradientBoosting,Teeth + weather,60,spearman,101.79346038788404,106.33009961250407,584,33
+steer,price,HistGradientBoosting,Teeth + weather,120,all,90.78872550544679,98.16740353245024,584,33
+steer,price,HistGradientBoosting,Teeth + weather,120,spearman,89.3538375455534,96.90031260755616,584,33
+steer,price,HistGradientBoosting,Teeth + weather,180,all,89.47205060930997,97.3203244563853,584,33
+steer,price,HistGradientBoosting,Teeth + weather,180,spearman,90.69122005173082,98.74907245645485,584,33
+steer,price,HistGradientBoosting,Teeth only,0,none,104.9885250357499,104.52482088244452,584,33
+steer,price,LightGBM,Teeth + NZDI,0,none,104.2743950805728,109.23513250518535,584,33
+steer,price,LightGBM,Teeth + weather,30,all,101.50180107856109,107.95818445333319,584,33
+steer,price,LightGBM,Teeth + weather,30,spearman,105.30153272173135,110.12343398352314,584,33
+steer,price,LightGBM,Teeth + weather,60,all,97.92615224210996,103.8415594222169,584,33
+steer,price,LightGBM,Teeth + weather,60,spearman,102.88854511919948,107.22805877060492,584,33
+steer,price,LightGBM,Teeth + weather,120,all,91.16582949997166,97.80719982323144,584,33
+steer,price,LightGBM,Teeth + weather,120,spearman,88.01496460490357,95.37381903999541,584,33
+steer,price,LightGBM,Teeth + weather,180,all,90.19443725709026,97.55654124546479,584,33
+steer,price,LightGBM,Teeth + weather,180,spearman,88.4230925166828,96.2958644462441,584,33
+steer,price,LightGBM,Teeth only,0,none,104.98579284796718,104.52116934734464,584,33
+steer,price,RandomForest,Teeth + NZDI,0,none,101.27945068986632,104.96581318749362,584,33
+steer,price,RandomForest,Teeth + weather,30,all,99.68682530260921,103.35070358044679,584,33
+steer,price,RandomForest,Teeth + weather,30,spearman,99.59484479168385,103.4958904623867,584,33
+steer,price,RandomForest,Teeth + weather,60,all,96.88859099395499,100.887133066569,584,33
+steer,price,RandomForest,Teeth + weather,60,spearman,96.64501607917589,100.76725716707193,584,33
+steer,price,RandomForest,Teeth + weather,120,all,88.88547790982545,95.85295117205841,584,33
+steer,price,RandomForest,Teeth + weather,120,spearman,89.96005880667708,95.9790262193273,584,33
+steer,price,RandomForest,Teeth + weather,180,all,90.43228536635597,96.79990419848072,584,33
+steer,price,RandomForest,Teeth + weather,180,spearman,89.82879169769546,96.31328224517036,584,33
+steer,price,RandomForest,Teeth only,0,none,101.94707479337764,103.12550218676505,584,33

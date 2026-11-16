@@ -1,0 +1,52 @@
+\begin{table*}[t]
+\centering
+\caption{Classification AUC. Horizon columns include teeth, NZDI and weather. Bold indicates the best setting within each model; underlining indicates the best across models within each animal, target and evaluation subset. Ties at three decimal places are highlighted equally.}
+\label{tab:beef:direction_comparison}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lllrrrrrrrrrrrr}
+\toprule
+ & & & \multicolumn{6}{c}{All groups} & \multicolumn{6}{c}{Significant groups} \\
+\cmidrule(lr){4-9}\cmidrule(lr){10-15}
+Animal & Target & Model & Teeth & Teeth + NZDI & 30 days & 60 days & 120 days & 180 days & Teeth & Teeth + NZDI & 30 days & 60 days & 120 days & 180 days \\
+\midrule
+\multirow{15}{*}{\rotatebox{90}{Steer}} & \multirow{5}{*}{\rotatebox{90}{Live weight}} & Elastic net & 0.460 & 0.540 & 0.568 & 0.540 & 0.498 & \underline{\textbf{0.577}} & 0.500 & \underline{\textbf{0.786}} & 0.714 & 0.714 & 0.714 & 0.571 \\
+ &  & Random forest & 0.517 & \textbf{0.528} & 0.470 & 0.408 & 0.418 & 0.465 & 0.357 & \textbf{0.714} & 0.571 & 0.571 & 0.429 & 0.571 \\
+ &  & Extra trees & \textbf{0.492} & 0.377 & 0.407 & 0.436 & 0.386 & 0.343 & 0.357 & 0.179 & 0.429 & \textbf{0.500} & 0.286 & 0.286 \\
+ &  & LightGBM & \textbf{0.492} & 0.415 & 0.442 & 0.483 & 0.320 & 0.442 & 0.357 & 0.536 & \textbf{0.571} & \textbf{0.571} & 0.429 & 0.536 \\
+ &  & Hist. boosting & \textbf{0.455} & 0.336 & 0.427 & 0.442 & 0.320 & 0.352 & 0.357 & 0.464 & \textbf{0.643} & 0.571 & 0.250 & 0.464 \\
+\cmidrule(lr){2-15}
+ & \multirow{5}{*}{\rotatebox{90}{Carcass weight}} & Elastic net & 0.500 & 0.593 & \underline{\textbf{0.927}} & 0.877 & 0.894 & 0.894 & 0.536 & 0.643 & \underline{\textbf{0.857}} & \underline{\textbf{0.857}} & \underline{\textbf{0.857}} & \underline{\textbf{0.857}} \\
+ &  & Random forest & 0.440 & 0.566 & 0.656 & 0.691 & \textbf{0.742} & 0.716 & 0.518 & 0.571 & 0.429 & 0.429 & 0.821 & \underline{\textbf{0.857}} \\
+ &  & Extra trees & 0.410 & 0.568 & 0.781 & 0.782 & 0.787 & \textbf{0.792} & 0.518 & 0.643 & 0.714 & 0.750 & 0.821 & \underline{\textbf{0.857}} \\
+ &  & LightGBM & 0.397 & 0.560 & 0.624 & \textbf{0.723} & 0.674 & 0.609 & 0.518 & 0.429 & 0.750 & \underline{\textbf{0.857}} & \underline{\textbf{0.857}} & 0.714 \\
+ &  & Hist. boosting & 0.397 & 0.546 & \textbf{0.675} & 0.640 & 0.634 & 0.658 & 0.518 & 0.429 & 0.571 & 0.571 & \textbf{0.714} & \textbf{0.714} \\
+\cmidrule(lr){2-15}
+ & \multirow{5}{*}{\rotatebox{90}{Indicative price}} & Elastic net & 0.483 & 0.659 & 0.814 & 0.805 & \underline{\textbf{0.834}} & 0.823 & 0.469 & 0.812 & 0.750 & 0.750 & \underline{\textbf{0.875}} & \underline{\textbf{0.875}} \\
+ &  & Random forest & 0.372 & 0.556 & 0.607 & 0.661 & \textbf{0.764} & 0.752 & 0.391 & \textbf{0.750} & 0.500 & 0.625 & 0.719 & \textbf{0.750} \\
+ &  & Extra trees & 0.349 & 0.535 & 0.661 & 0.741 & 0.794 & \underline{\textbf{0.834}} & 0.391 & 0.812 & 0.625 & 0.656 & 0.844 & \underline{\textbf{0.875}} \\
+ &  & LightGBM & 0.349 & 0.563 & 0.599 & 0.661 & \textbf{0.706} & 0.624 & 0.391 & 0.500 & 0.625 & 0.750 & \underline{\textbf{0.875}} & 0.750 \\
+ &  & Hist. boosting & 0.349 & 0.588 & 0.592 & 0.663 & \textbf{0.813} & 0.748 & 0.391 & 0.625 & 0.500 & 0.625 & \textbf{0.750} & \textbf{0.750} \\
+\midrule
+\multirow{15}{*}{\rotatebox{90}{Heifer}} & \multirow{5}{*}{\rotatebox{90}{Live weight}} & Elastic net & 0.500 & 0.582 & 0.909 & 0.745 & \underline{\textbf{1.000}} & \underline{\textbf{1.000}} & -- & -- & -- & -- & -- & -- \\
+ &  & Random forest & 0.782 & \textbf{0.891} & 0.836 & 0.818 & 0.836 & 0.836 & -- & -- & -- & -- & -- & -- \\
+ &  & Extra trees & 0.782 & \underline{\textbf{1.000}} & 0.836 & 0.836 & 0.836 & 0.836 & -- & -- & -- & -- & -- & -- \\
+ &  & LightGBM & 0.782 & 0.873 & 0.836 & 0.836 & \underline{\textbf{1.000}} & \underline{\textbf{1.000}} & -- & -- & -- & -- & -- & -- \\
+ &  & Hist. boosting & 0.782 & \textbf{0.873} & 0.800 & 0.800 & 0.836 & 0.836 & -- & -- & -- & -- & -- & -- \\
+\cmidrule(lr){2-15}
+ & \multirow{5}{*}{\rotatebox{90}{Carcass weight}} & Elastic net & 0.361 & \textbf{0.500} & 0.438 & 0.418 & 0.438 & 0.418 & -- & -- & -- & -- & -- & -- \\
+ &  & Random forest & \underline{\textbf{0.649}} & 0.412 & 0.325 & 0.392 & 0.366 & 0.309 & -- & -- & -- & -- & -- & -- \\
+ &  & Extra trees & 0.546 & \textbf{0.557} & 0.351 & 0.412 & 0.309 & 0.464 & -- & -- & -- & -- & -- & -- \\
+ &  & LightGBM & \textbf{0.526} & 0.345 & 0.412 & 0.387 & 0.366 & 0.366 & -- & -- & -- & -- & -- & -- \\
+ &  & Hist. boosting & \textbf{0.526} & 0.366 & 0.258 & 0.320 & 0.320 & 0.320 & -- & -- & -- & -- & -- & -- \\
+\cmidrule(lr){2-15}
+ & \multirow{5}{*}{\rotatebox{90}{Indicative price}} & Elastic net & 0.500 & 0.500 & 0.577 & \underline{\textbf{0.649}} & 0.392 & 0.557 & -- & -- & -- & -- & -- & -- \\
+ &  & Random forest & 0.371 & \textbf{0.598} & 0.278 & 0.299 & 0.366 & 0.216 & -- & -- & -- & -- & -- & -- \\
+ &  & Extra trees & 0.546 & 0.557 & 0.536 & \textbf{0.598} & 0.495 & 0.464 & -- & -- & -- & -- & -- & -- \\
+ &  & LightGBM & 0.526 & 0.485 & \textbf{0.552} & 0.526 & 0.505 & 0.505 & -- & -- & -- & -- & -- & -- \\
+ &  & Hist. boosting & \textbf{0.526} & 0.320 & 0.443 & 0.459 & 0.459 & 0.459 & -- & -- & -- & -- & -- & -- \\
+\bottomrule
+\end{tabular}%
+}
+\end{table*}

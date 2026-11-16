@@ -1,0 +1,7 @@
+animal_type,target,model,evaluation,date_mae,animal_mae
+heifer,live weight,Date-teeth oracle,Oracle (uses observed outcomes),14.123783042468387,15.067381974248928
+heifer,carcass weight,Date-teeth oracle,Oracle (uses observed outcomes),8.636050609272592,9.148068669527897
+heifer,price,Date-teeth oracle,Oracle (uses observed outcomes),48.003489028532144,51.11094420600859
+steer,live weight,Date-teeth oracle,Oracle (uses observed outcomes),19.550279142782873,23.243602693602696
+steer,carcass weight,Date-teeth oracle,Oracle (uses observed outcomes),11.102110489217864,12.598484848484848
+steer,price,Date-teeth oracle,Oracle (uses observed outcomes),63.95673620271694,72.33013698630137

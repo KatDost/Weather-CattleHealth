@@ -1,0 +1,121 @@
+animal_type,target,fold,role,animals,dates
+heifer,live weight,1,train,172,16
+heifer,live weight,1,test,61,2
+heifer,live weight,2,train,222,16
+heifer,live weight,2,test,11,2
+heifer,live weight,3,train,197,16
+heifer,live weight,3,test,36,2
+heifer,live weight,4,train,210,16
+heifer,live weight,4,test,23,2
+heifer,live weight,5,train,219,16
+heifer,live weight,5,test,14,2
+heifer,live weight,6,train,206,16
+heifer,live weight,6,test,27,2
+heifer,live weight,7,train,199,16
+heifer,live weight,7,test,34,2
+heifer,live weight,8,train,225,16
+heifer,live weight,8,test,8,2
+heifer,live weight,9,train,220,17
+heifer,live weight,9,test,13,1
+heifer,live weight,10,train,227,17
+heifer,live weight,10,test,6,1
+heifer,carcass weight,1,train,172,16
+heifer,carcass weight,1,test,61,2
+heifer,carcass weight,2,train,222,16
+heifer,carcass weight,2,test,11,2
+heifer,carcass weight,3,train,197,16
+heifer,carcass weight,3,test,36,2
+heifer,carcass weight,4,train,210,16
+heifer,carcass weight,4,test,23,2
+heifer,carcass weight,5,train,219,16
+heifer,carcass weight,5,test,14,2
+heifer,carcass weight,6,train,206,16
+heifer,carcass weight,6,test,27,2
+heifer,carcass weight,7,train,199,16
+heifer,carcass weight,7,test,34,2
+heifer,carcass weight,8,train,225,16
+heifer,carcass weight,8,test,8,2
+heifer,carcass weight,9,train,220,17
+heifer,carcass weight,9,test,13,1
+heifer,carcass weight,10,train,227,17
+heifer,carcass weight,10,test,6,1
+heifer,price,1,train,172,16
+heifer,price,1,test,61,2
+heifer,price,2,train,222,16
+heifer,price,2,test,11,2
+heifer,price,3,train,197,16
+heifer,price,3,test,36,2
+heifer,price,4,train,210,16
+heifer,price,4,test,23,2
+heifer,price,5,train,219,16
+heifer,price,5,test,14,2
+heifer,price,6,train,206,16
+heifer,price,6,test,27,2
+heifer,price,7,train,199,16
+heifer,price,7,test,34,2
+heifer,price,8,train,225,16
+heifer,price,8,test,8,2
+heifer,price,9,train,220,17
+heifer,price,9,test,13,1
+heifer,price,10,train,227,17
+heifer,price,10,test,6,1
+steer,live weight,1,train,542,29
+steer,live weight,1,test,52,4
+steer,live weight,2,train,515,29
+steer,live weight,2,test,79,4
+steer,live weight,3,train,520,29
+steer,live weight,3,test,74,4
+steer,live weight,4,train,555,30
+steer,live weight,4,test,39,3
+steer,live weight,5,train,525,30
+steer,live weight,5,test,69,3
+steer,live weight,6,train,552,30
+steer,live weight,6,test,42,3
+steer,live weight,7,train,549,30
+steer,live weight,7,test,45,3
+steer,live weight,8,train,520,30
+steer,live weight,8,test,74,3
+steer,live weight,9,train,539,30
+steer,live weight,9,test,55,3
+steer,live weight,10,train,529,30
+steer,live weight,10,test,65,3
+steer,carcass weight,1,train,542,29
+steer,carcass weight,1,test,52,4
+steer,carcass weight,2,train,515,29
+steer,carcass weight,2,test,79,4
+steer,carcass weight,3,train,520,29
+steer,carcass weight,3,test,74,4
+steer,carcass weight,4,train,555,30
+steer,carcass weight,4,test,39,3
+steer,carcass weight,5,train,525,30
+steer,carcass weight,5,test,69,3
+steer,carcass weight,6,train,552,30
+steer,carcass weight,6,test,42,3
+steer,carcass weight,7,train,549,30
+steer,carcass weight,7,test,45,3
+steer,carcass weight,8,train,520,30
+steer,carcass weight,8,test,74,3
+steer,carcass weight,9,train,539,30
+steer,carcass weight,9,test,55,3
+steer,carcass weight,10,train,529,30
+steer,carcass weight,10,test,65,3
+steer,price,1,train,537,29
+steer,price,1,test,47,4
+steer,price,2,train,505,29
+steer,price,2,test,79,4
+steer,price,3,train,510,29
+steer,price,3,test,74,4
+steer,price,4,train,545,30
+steer,price,4,test,39,3
+steer,price,5,train,517,30
+steer,price,5,test,67,3
+steer,price,6,train,542,30
+steer,price,6,test,42,3
+steer,price,7,train,542,30
+steer,price,7,test,42,3
+steer,price,8,train,510,30
+steer,price,8,test,74,3
+steer,price,9,train,529,30
+steer,price,9,test,55,3
+steer,price,10,train,519,30
+steer,price,10,test,65,3

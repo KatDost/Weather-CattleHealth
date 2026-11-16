@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+~$*
+# Regenerable benchmark diagnostics and resume files
+/results/beef_regression_comparison_10fold_animal/candidate_diagnostics.csv
+/results/beef_regression_comparison_10fold_animal/fits/
+/results/beef_direction_comparison_10fold/candidate_diagnostics.csv
+/results/beef_direction_comparison_10fold/checkpoints/
+/results/beef_direction_comparison_10fold/fits/*.json
+!/results/beef_direction_comparison_10fold/fits/steer__*__ElasticNet__weather_pruned__*.json
+/data/weather_raw/*
+BEEF_PAPER_WORKING_DRAFT.tex

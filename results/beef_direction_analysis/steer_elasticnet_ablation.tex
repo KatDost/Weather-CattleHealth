@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Steer elastic net ablation. Teeth only reports AUC. The other columns report the percentage change in AUC relative to teeth only within each evaluation subset. Days gives the maximum weather history. Significant groups use the same held-out predictions restricted to groups with significant shifts.}
+\label{tab:steer_elasticnet_ablation}
+\begin{tabular}{llrrrrrr}
+\toprule
+ &  & \multicolumn{3}{c}{All groups} & \multicolumn{3}{c}{Significant groups} \\
+ &  & Teeth only & Teeth+NZDI & Teeth+NZDI+Weather & Teeth only & Teeth+NZDI & Teeth+NZDI+Weather \\
+Target & Days &  &  &  &  &  &  \\
+\midrule
+Live weight & 60 & 0.470 & -14.3\% & +35.0\% & 0.456 & -16.1\% & +35.5\% \\
+Carcass weight & 180 & 0.500 & +3.0\% & +47.5\% & 0.500 & +6.7\% & +60.0\% \\
+Indicative price & 180 & 0.500 & +2.9\% & +52.2\% & 0.500 & +21.4\% & +71.4\% \\
+\bottomrule
+\end{tabular}
+\end{table}

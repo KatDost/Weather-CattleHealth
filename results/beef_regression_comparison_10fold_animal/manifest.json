@@ -1,0 +1,12 @@
+{
+  "beef_regression_comparison.py": "5f93ed25bb00936037f120fcbd7adb85d5f756b92d36768bfc104c1ff27a0548",
+  "beef_preprocessed.csv": "9b805730dee1ddd5fe148c090d2e4471f47576e565478715390e3d5499fdd159",
+  "beef_weather_windows.csv": "589a6e8f6ab65a6f6b364b6acb264a8a25deec742e2e80264694a1971f18697f",
+  "versions": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "sklearn": "1.7.2",
+    "lightgbm": "4.7.0"
+  }
+}

@@ -1,0 +1,1861 @@
+animal_type,target,model,setting,horizon,fold,status
+heifer,live weight,Dummy,dummy,0,1,complete
+heifer,live weight,ElasticNet,controls,0,1,complete
+heifer,live weight,ElasticNet,nzdi,0,1,complete
+heifer,live weight,ElasticNet,weather_pruned,30,1,complete
+heifer,live weight,ElasticNet,weather_pruned,60,1,complete
+heifer,live weight,ElasticNet,weather_pruned,120,1,complete
+heifer,live weight,ElasticNet,weather_pruned,180,1,complete
+heifer,live weight,RandomForest,controls,0,1,complete
+heifer,live weight,RandomForest,nzdi,0,1,complete
+heifer,live weight,RandomForest,weather_pruned,30,1,complete
+heifer,live weight,RandomForest,weather_pruned,60,1,complete
+heifer,live weight,RandomForest,weather_pruned,120,1,complete
+heifer,live weight,RandomForest,weather_pruned,180,1,complete
+heifer,live weight,ExtraTrees,controls,0,1,complete
+heifer,live weight,ExtraTrees,nzdi,0,1,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,1,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,1,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,1,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,1,complete
+heifer,live weight,HistGradientBoosting,controls,0,1,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,1,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,1,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,1,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,1,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,1,complete
+heifer,live weight,LightGBM,controls,0,1,complete
+heifer,live weight,LightGBM,nzdi,0,1,complete
+heifer,live weight,LightGBM,weather_pruned,30,1,complete
+heifer,live weight,LightGBM,weather_pruned,60,1,complete
+heifer,live weight,LightGBM,weather_pruned,120,1,complete
+heifer,live weight,LightGBM,weather_pruned,180,1,complete
+heifer,live weight,Dummy,dummy,0,2,complete
+heifer,live weight,ElasticNet,controls,0,2,complete
+heifer,live weight,ElasticNet,nzdi,0,2,complete
+heifer,live weight,ElasticNet,weather_pruned,30,2,complete
+heifer,live weight,ElasticNet,weather_pruned,60,2,complete
+heifer,live weight,ElasticNet,weather_pruned,120,2,complete
+heifer,live weight,ElasticNet,weather_pruned,180,2,complete
+heifer,live weight,RandomForest,controls,0,2,complete
+heifer,live weight,RandomForest,nzdi,0,2,complete
+heifer,live weight,RandomForest,weather_pruned,30,2,complete
+heifer,live weight,RandomForest,weather_pruned,60,2,complete
+heifer,live weight,RandomForest,weather_pruned,120,2,complete
+heifer,live weight,RandomForest,weather_pruned,180,2,complete
+heifer,live weight,ExtraTrees,controls,0,2,complete
+heifer,live weight,ExtraTrees,nzdi,0,2,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,2,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,2,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,2,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,2,complete
+heifer,live weight,HistGradientBoosting,controls,0,2,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,2,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,2,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,2,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,2,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,2,complete
+heifer,live weight,LightGBM,controls,0,2,complete
+heifer,live weight,LightGBM,nzdi,0,2,complete
+heifer,live weight,LightGBM,weather_pruned,30,2,complete
+heifer,live weight,LightGBM,weather_pruned,60,2,complete
+heifer,live weight,LightGBM,weather_pruned,120,2,complete
+heifer,live weight,LightGBM,weather_pruned,180,2,complete
+heifer,live weight,Dummy,dummy,0,3,complete
+heifer,live weight,ElasticNet,controls,0,3,complete
+heifer,live weight,ElasticNet,nzdi,0,3,complete
+heifer,live weight,ElasticNet,weather_pruned,30,3,complete
+heifer,live weight,ElasticNet,weather_pruned,60,3,complete
+heifer,live weight,ElasticNet,weather_pruned,120,3,complete
+heifer,live weight,ElasticNet,weather_pruned,180,3,complete
+heifer,live weight,RandomForest,controls,0,3,complete
+heifer,live weight,RandomForest,nzdi,0,3,complete
+heifer,live weight,RandomForest,weather_pruned,30,3,complete
+heifer,live weight,RandomForest,weather_pruned,60,3,complete
+heifer,live weight,RandomForest,weather_pruned,120,3,complete
+heifer,live weight,RandomForest,weather_pruned,180,3,complete
+heifer,live weight,ExtraTrees,controls,0,3,complete
+heifer,live weight,ExtraTrees,nzdi,0,3,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,3,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,3,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,3,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,3,complete
+heifer,live weight,HistGradientBoosting,controls,0,3,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,3,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,3,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,3,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,3,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,3,complete
+heifer,live weight,LightGBM,controls,0,3,complete
+heifer,live weight,LightGBM,nzdi,0,3,complete
+heifer,live weight,LightGBM,weather_pruned,30,3,complete
+heifer,live weight,LightGBM,weather_pruned,60,3,complete
+heifer,live weight,LightGBM,weather_pruned,120,3,complete
+heifer,live weight,LightGBM,weather_pruned,180,3,complete
+heifer,live weight,Dummy,dummy,0,4,complete
+heifer,live weight,ElasticNet,controls,0,4,complete
+heifer,live weight,ElasticNet,nzdi,0,4,complete
+heifer,live weight,ElasticNet,weather_pruned,30,4,complete
+heifer,live weight,ElasticNet,weather_pruned,60,4,complete
+heifer,live weight,ElasticNet,weather_pruned,120,4,complete
+heifer,live weight,ElasticNet,weather_pruned,180,4,complete
+heifer,live weight,RandomForest,controls,0,4,complete
+heifer,live weight,RandomForest,nzdi,0,4,complete
+heifer,live weight,RandomForest,weather_pruned,30,4,complete
+heifer,live weight,RandomForest,weather_pruned,60,4,complete
+heifer,live weight,RandomForest,weather_pruned,120,4,complete
+heifer,live weight,RandomForest,weather_pruned,180,4,complete
+heifer,live weight,ExtraTrees,controls,0,4,complete
+heifer,live weight,ExtraTrees,nzdi,0,4,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,4,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,4,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,4,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,4,complete
+heifer,live weight,HistGradientBoosting,controls,0,4,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,4,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,4,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,4,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,4,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,4,complete
+heifer,live weight,LightGBM,controls,0,4,complete
+heifer,live weight,LightGBM,nzdi,0,4,complete
+heifer,live weight,LightGBM,weather_pruned,30,4,complete
+heifer,live weight,LightGBM,weather_pruned,60,4,complete
+heifer,live weight,LightGBM,weather_pruned,120,4,complete
+heifer,live weight,LightGBM,weather_pruned,180,4,complete
+heifer,live weight,Dummy,dummy,0,5,complete
+heifer,live weight,ElasticNet,controls,0,5,complete
+heifer,live weight,ElasticNet,nzdi,0,5,complete
+heifer,live weight,ElasticNet,weather_pruned,30,5,complete
+heifer,live weight,ElasticNet,weather_pruned,60,5,complete
+heifer,live weight,ElasticNet,weather_pruned,120,5,complete
+heifer,live weight,ElasticNet,weather_pruned,180,5,complete
+heifer,live weight,RandomForest,controls,0,5,complete
+heifer,live weight,RandomForest,nzdi,0,5,complete
+heifer,live weight,RandomForest,weather_pruned,30,5,complete
+heifer,live weight,RandomForest,weather_pruned,60,5,complete
+heifer,live weight,RandomForest,weather_pruned,120,5,complete
+heifer,live weight,RandomForest,weather_pruned,180,5,complete
+heifer,live weight,ExtraTrees,controls,0,5,complete
+heifer,live weight,ExtraTrees,nzdi,0,5,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,5,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,5,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,5,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,5,complete
+heifer,live weight,HistGradientBoosting,controls,0,5,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,5,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,5,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,5,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,5,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,5,complete
+heifer,live weight,LightGBM,controls,0,5,complete
+heifer,live weight,LightGBM,nzdi,0,5,complete
+heifer,live weight,LightGBM,weather_pruned,30,5,complete
+heifer,live weight,LightGBM,weather_pruned,60,5,complete
+heifer,live weight,LightGBM,weather_pruned,120,5,complete
+heifer,live weight,LightGBM,weather_pruned,180,5,complete
+heifer,live weight,Dummy,dummy,0,6,complete
+heifer,live weight,ElasticNet,controls,0,6,complete
+heifer,live weight,ElasticNet,nzdi,0,6,complete
+heifer,live weight,ElasticNet,weather_pruned,30,6,complete
+heifer,live weight,ElasticNet,weather_pruned,60,6,complete
+heifer,live weight,ElasticNet,weather_pruned,120,6,complete
+heifer,live weight,ElasticNet,weather_pruned,180,6,complete
+heifer,live weight,RandomForest,controls,0,6,complete
+heifer,live weight,RandomForest,nzdi,0,6,complete
+heifer,live weight,RandomForest,weather_pruned,30,6,complete
+heifer,live weight,RandomForest,weather_pruned,60,6,complete
+heifer,live weight,RandomForest,weather_pruned,120,6,complete
+heifer,live weight,RandomForest,weather_pruned,180,6,complete
+heifer,live weight,ExtraTrees,controls,0,6,complete
+heifer,live weight,ExtraTrees,nzdi,0,6,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,6,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,6,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,6,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,6,complete
+heifer,live weight,HistGradientBoosting,controls,0,6,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,6,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,6,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,6,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,6,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,6,complete
+heifer,live weight,LightGBM,controls,0,6,complete
+heifer,live weight,LightGBM,nzdi,0,6,complete
+heifer,live weight,LightGBM,weather_pruned,30,6,complete
+heifer,live weight,LightGBM,weather_pruned,60,6,complete
+heifer,live weight,LightGBM,weather_pruned,120,6,complete
+heifer,live weight,LightGBM,weather_pruned,180,6,complete
+heifer,live weight,Dummy,dummy,0,7,complete
+heifer,live weight,ElasticNet,controls,0,7,complete
+heifer,live weight,ElasticNet,nzdi,0,7,complete
+heifer,live weight,ElasticNet,weather_pruned,30,7,complete
+heifer,live weight,ElasticNet,weather_pruned,60,7,complete
+heifer,live weight,ElasticNet,weather_pruned,120,7,complete
+heifer,live weight,ElasticNet,weather_pruned,180,7,complete
+heifer,live weight,RandomForest,controls,0,7,complete
+heifer,live weight,RandomForest,nzdi,0,7,complete
+heifer,live weight,RandomForest,weather_pruned,30,7,complete
+heifer,live weight,RandomForest,weather_pruned,60,7,complete
+heifer,live weight,RandomForest,weather_pruned,120,7,complete
+heifer,live weight,RandomForest,weather_pruned,180,7,complete
+heifer,live weight,ExtraTrees,controls,0,7,complete
+heifer,live weight,ExtraTrees,nzdi,0,7,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,7,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,7,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,7,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,7,complete
+heifer,live weight,HistGradientBoosting,controls,0,7,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,7,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,7,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,7,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,7,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,7,complete
+heifer,live weight,LightGBM,controls,0,7,complete
+heifer,live weight,LightGBM,nzdi,0,7,complete
+heifer,live weight,LightGBM,weather_pruned,30,7,complete
+heifer,live weight,LightGBM,weather_pruned,60,7,complete
+heifer,live weight,LightGBM,weather_pruned,120,7,complete
+heifer,live weight,LightGBM,weather_pruned,180,7,complete
+heifer,live weight,Dummy,dummy,0,8,complete
+heifer,live weight,ElasticNet,controls,0,8,complete
+heifer,live weight,ElasticNet,nzdi,0,8,complete
+heifer,live weight,ElasticNet,weather_pruned,30,8,complete
+heifer,live weight,ElasticNet,weather_pruned,60,8,complete
+heifer,live weight,ElasticNet,weather_pruned,120,8,complete
+heifer,live weight,ElasticNet,weather_pruned,180,8,complete
+heifer,live weight,RandomForest,controls,0,8,complete
+heifer,live weight,RandomForest,nzdi,0,8,complete
+heifer,live weight,RandomForest,weather_pruned,30,8,complete
+heifer,live weight,RandomForest,weather_pruned,60,8,complete
+heifer,live weight,RandomForest,weather_pruned,120,8,complete
+heifer,live weight,RandomForest,weather_pruned,180,8,complete
+heifer,live weight,ExtraTrees,controls,0,8,complete
+heifer,live weight,ExtraTrees,nzdi,0,8,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,8,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,8,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,8,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,8,complete
+heifer,live weight,HistGradientBoosting,controls,0,8,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,8,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,8,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,8,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,8,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,8,complete
+heifer,live weight,LightGBM,controls,0,8,complete
+heifer,live weight,LightGBM,nzdi,0,8,complete
+heifer,live weight,LightGBM,weather_pruned,30,8,complete
+heifer,live weight,LightGBM,weather_pruned,60,8,complete
+heifer,live weight,LightGBM,weather_pruned,120,8,complete
+heifer,live weight,LightGBM,weather_pruned,180,8,complete
+heifer,live weight,Dummy,dummy,0,9,complete
+heifer,live weight,ElasticNet,controls,0,9,complete
+heifer,live weight,ElasticNet,nzdi,0,9,complete
+heifer,live weight,ElasticNet,weather_pruned,30,9,complete
+heifer,live weight,ElasticNet,weather_pruned,60,9,complete
+heifer,live weight,ElasticNet,weather_pruned,120,9,complete
+heifer,live weight,ElasticNet,weather_pruned,180,9,complete
+heifer,live weight,RandomForest,controls,0,9,complete
+heifer,live weight,RandomForest,nzdi,0,9,complete
+heifer,live weight,RandomForest,weather_pruned,30,9,complete
+heifer,live weight,RandomForest,weather_pruned,60,9,complete
+heifer,live weight,RandomForest,weather_pruned,120,9,complete
+heifer,live weight,RandomForest,weather_pruned,180,9,complete
+heifer,live weight,ExtraTrees,controls,0,9,complete
+heifer,live weight,ExtraTrees,nzdi,0,9,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,9,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,9,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,9,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,9,complete
+heifer,live weight,HistGradientBoosting,controls,0,9,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,9,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,9,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,9,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,9,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,9,complete
+heifer,live weight,LightGBM,controls,0,9,complete
+heifer,live weight,LightGBM,nzdi,0,9,complete
+heifer,live weight,LightGBM,weather_pruned,30,9,complete
+heifer,live weight,LightGBM,weather_pruned,60,9,complete
+heifer,live weight,LightGBM,weather_pruned,120,9,complete
+heifer,live weight,LightGBM,weather_pruned,180,9,complete
+heifer,live weight,Dummy,dummy,0,10,complete
+heifer,live weight,ElasticNet,controls,0,10,complete
+heifer,live weight,ElasticNet,nzdi,0,10,complete
+heifer,live weight,ElasticNet,weather_pruned,30,10,complete
+heifer,live weight,ElasticNet,weather_pruned,60,10,complete
+heifer,live weight,ElasticNet,weather_pruned,120,10,complete
+heifer,live weight,ElasticNet,weather_pruned,180,10,complete
+heifer,live weight,RandomForest,controls,0,10,complete
+heifer,live weight,RandomForest,nzdi,0,10,complete
+heifer,live weight,RandomForest,weather_pruned,30,10,complete
+heifer,live weight,RandomForest,weather_pruned,60,10,complete
+heifer,live weight,RandomForest,weather_pruned,120,10,complete
+heifer,live weight,RandomForest,weather_pruned,180,10,complete
+heifer,live weight,ExtraTrees,controls,0,10,complete
+heifer,live weight,ExtraTrees,nzdi,0,10,complete
+heifer,live weight,ExtraTrees,weather_pruned,30,10,complete
+heifer,live weight,ExtraTrees,weather_pruned,60,10,complete
+heifer,live weight,ExtraTrees,weather_pruned,120,10,complete
+heifer,live weight,ExtraTrees,weather_pruned,180,10,complete
+heifer,live weight,HistGradientBoosting,controls,0,10,complete
+heifer,live weight,HistGradientBoosting,nzdi,0,10,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,30,10,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,60,10,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,120,10,complete
+heifer,live weight,HistGradientBoosting,weather_pruned,180,10,complete
+heifer,live weight,LightGBM,controls,0,10,complete
+heifer,live weight,LightGBM,nzdi,0,10,complete
+heifer,live weight,LightGBM,weather_pruned,30,10,complete
+heifer,live weight,LightGBM,weather_pruned,60,10,complete
+heifer,live weight,LightGBM,weather_pruned,120,10,complete
+heifer,live weight,LightGBM,weather_pruned,180,10,complete
+heifer,carcass weight,Dummy,dummy,0,1,complete
+heifer,carcass weight,ElasticNet,controls,0,1,complete
+heifer,carcass weight,ElasticNet,nzdi,0,1,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,1,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,1,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,1,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,1,complete
+heifer,carcass weight,RandomForest,controls,0,1,complete
+heifer,carcass weight,RandomForest,nzdi,0,1,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,1,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,1,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,1,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,1,complete
+heifer,carcass weight,ExtraTrees,controls,0,1,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,1,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,1,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,1,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,1,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,1,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,1,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,1,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,1,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,1,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,1,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,1,complete
+heifer,carcass weight,LightGBM,controls,0,1,complete
+heifer,carcass weight,LightGBM,nzdi,0,1,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,1,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,1,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,1,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,1,complete
+heifer,carcass weight,Dummy,dummy,0,2,complete
+heifer,carcass weight,ElasticNet,controls,0,2,complete
+heifer,carcass weight,ElasticNet,nzdi,0,2,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,2,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,2,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,2,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,2,complete
+heifer,carcass weight,RandomForest,controls,0,2,complete
+heifer,carcass weight,RandomForest,nzdi,0,2,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,2,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,2,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,2,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,2,complete
+heifer,carcass weight,ExtraTrees,controls,0,2,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,2,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,2,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,2,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,2,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,2,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,2,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,2,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,2,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,2,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,2,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,2,complete
+heifer,carcass weight,LightGBM,controls,0,2,complete
+heifer,carcass weight,LightGBM,nzdi,0,2,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,2,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,2,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,2,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,2,complete
+heifer,carcass weight,Dummy,dummy,0,3,complete
+heifer,carcass weight,ElasticNet,controls,0,3,complete
+heifer,carcass weight,ElasticNet,nzdi,0,3,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,3,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,3,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,3,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,3,complete
+heifer,carcass weight,RandomForest,controls,0,3,complete
+heifer,carcass weight,RandomForest,nzdi,0,3,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,3,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,3,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,3,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,3,complete
+heifer,carcass weight,ExtraTrees,controls,0,3,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,3,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,3,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,3,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,3,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,3,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,3,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,3,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,3,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,3,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,3,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,3,complete
+heifer,carcass weight,LightGBM,controls,0,3,complete
+heifer,carcass weight,LightGBM,nzdi,0,3,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,3,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,3,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,3,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,3,complete
+heifer,carcass weight,Dummy,dummy,0,4,complete
+heifer,carcass weight,ElasticNet,controls,0,4,complete
+heifer,carcass weight,ElasticNet,nzdi,0,4,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,4,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,4,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,4,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,4,complete
+heifer,carcass weight,RandomForest,controls,0,4,complete
+heifer,carcass weight,RandomForest,nzdi,0,4,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,4,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,4,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,4,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,4,complete
+heifer,carcass weight,ExtraTrees,controls,0,4,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,4,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,4,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,4,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,4,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,4,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,4,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,4,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,4,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,4,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,4,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,4,complete
+heifer,carcass weight,LightGBM,controls,0,4,complete
+heifer,carcass weight,LightGBM,nzdi,0,4,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,4,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,4,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,4,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,4,complete
+heifer,carcass weight,Dummy,dummy,0,5,complete
+heifer,carcass weight,ElasticNet,controls,0,5,complete
+heifer,carcass weight,ElasticNet,nzdi,0,5,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,5,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,5,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,5,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,5,complete
+heifer,carcass weight,RandomForest,controls,0,5,complete
+heifer,carcass weight,RandomForest,nzdi,0,5,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,5,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,5,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,5,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,5,complete
+heifer,carcass weight,ExtraTrees,controls,0,5,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,5,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,5,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,5,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,5,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,5,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,5,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,5,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,5,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,5,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,5,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,5,complete
+heifer,carcass weight,LightGBM,controls,0,5,complete
+heifer,carcass weight,LightGBM,nzdi,0,5,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,5,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,5,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,5,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,5,complete
+heifer,carcass weight,Dummy,dummy,0,6,complete
+heifer,carcass weight,ElasticNet,controls,0,6,complete
+heifer,carcass weight,ElasticNet,nzdi,0,6,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,6,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,6,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,6,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,6,complete
+heifer,carcass weight,RandomForest,controls,0,6,complete
+heifer,carcass weight,RandomForest,nzdi,0,6,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,6,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,6,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,6,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,6,complete
+heifer,carcass weight,ExtraTrees,controls,0,6,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,6,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,6,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,6,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,6,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,6,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,6,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,6,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,6,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,6,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,6,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,6,complete
+heifer,carcass weight,LightGBM,controls,0,6,complete
+heifer,carcass weight,LightGBM,nzdi,0,6,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,6,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,6,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,6,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,6,complete
+heifer,carcass weight,Dummy,dummy,0,7,complete
+heifer,carcass weight,ElasticNet,controls,0,7,complete
+heifer,carcass weight,ElasticNet,nzdi,0,7,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,7,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,7,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,7,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,7,complete
+heifer,carcass weight,RandomForest,controls,0,7,complete
+heifer,carcass weight,RandomForest,nzdi,0,7,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,7,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,7,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,7,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,7,complete
+heifer,carcass weight,ExtraTrees,controls,0,7,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,7,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,7,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,7,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,7,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,7,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,7,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,7,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,7,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,7,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,7,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,7,complete
+heifer,carcass weight,LightGBM,controls,0,7,complete
+heifer,carcass weight,LightGBM,nzdi,0,7,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,7,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,7,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,7,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,7,complete
+heifer,carcass weight,Dummy,dummy,0,8,complete
+heifer,carcass weight,ElasticNet,controls,0,8,complete
+heifer,carcass weight,ElasticNet,nzdi,0,8,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,8,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,8,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,8,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,8,complete
+heifer,carcass weight,RandomForest,controls,0,8,complete
+heifer,carcass weight,RandomForest,nzdi,0,8,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,8,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,8,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,8,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,8,complete
+heifer,carcass weight,ExtraTrees,controls,0,8,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,8,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,8,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,8,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,8,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,8,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,8,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,8,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,8,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,8,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,8,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,8,complete
+heifer,carcass weight,LightGBM,controls,0,8,complete
+heifer,carcass weight,LightGBM,nzdi,0,8,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,8,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,8,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,8,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,8,complete
+heifer,carcass weight,Dummy,dummy,0,9,complete
+heifer,carcass weight,ElasticNet,controls,0,9,complete
+heifer,carcass weight,ElasticNet,nzdi,0,9,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,9,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,9,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,9,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,9,complete
+heifer,carcass weight,RandomForest,controls,0,9,complete
+heifer,carcass weight,RandomForest,nzdi,0,9,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,9,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,9,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,9,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,9,complete
+heifer,carcass weight,ExtraTrees,controls,0,9,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,9,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,9,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,9,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,9,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,9,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,9,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,9,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,9,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,9,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,9,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,9,complete
+heifer,carcass weight,LightGBM,controls,0,9,complete
+heifer,carcass weight,LightGBM,nzdi,0,9,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,9,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,9,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,9,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,9,complete
+heifer,carcass weight,Dummy,dummy,0,10,complete
+heifer,carcass weight,ElasticNet,controls,0,10,complete
+heifer,carcass weight,ElasticNet,nzdi,0,10,complete
+heifer,carcass weight,ElasticNet,weather_pruned,30,10,complete
+heifer,carcass weight,ElasticNet,weather_pruned,60,10,complete
+heifer,carcass weight,ElasticNet,weather_pruned,120,10,complete
+heifer,carcass weight,ElasticNet,weather_pruned,180,10,complete
+heifer,carcass weight,RandomForest,controls,0,10,complete
+heifer,carcass weight,RandomForest,nzdi,0,10,complete
+heifer,carcass weight,RandomForest,weather_pruned,30,10,complete
+heifer,carcass weight,RandomForest,weather_pruned,60,10,complete
+heifer,carcass weight,RandomForest,weather_pruned,120,10,complete
+heifer,carcass weight,RandomForest,weather_pruned,180,10,complete
+heifer,carcass weight,ExtraTrees,controls,0,10,complete
+heifer,carcass weight,ExtraTrees,nzdi,0,10,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,30,10,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,60,10,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,120,10,complete
+heifer,carcass weight,ExtraTrees,weather_pruned,180,10,complete
+heifer,carcass weight,HistGradientBoosting,controls,0,10,complete
+heifer,carcass weight,HistGradientBoosting,nzdi,0,10,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,30,10,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,60,10,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,120,10,complete
+heifer,carcass weight,HistGradientBoosting,weather_pruned,180,10,complete
+heifer,carcass weight,LightGBM,controls,0,10,complete
+heifer,carcass weight,LightGBM,nzdi,0,10,complete
+heifer,carcass weight,LightGBM,weather_pruned,30,10,complete
+heifer,carcass weight,LightGBM,weather_pruned,60,10,complete
+heifer,carcass weight,LightGBM,weather_pruned,120,10,complete
+heifer,carcass weight,LightGBM,weather_pruned,180,10,complete
+heifer,price,Dummy,dummy,0,1,complete
+heifer,price,ElasticNet,controls,0,1,complete
+heifer,price,ElasticNet,nzdi,0,1,complete
+heifer,price,ElasticNet,weather_pruned,30,1,complete
+heifer,price,ElasticNet,weather_pruned,60,1,complete
+heifer,price,ElasticNet,weather_pruned,120,1,complete
+heifer,price,ElasticNet,weather_pruned,180,1,complete
+heifer,price,RandomForest,controls,0,1,complete
+heifer,price,RandomForest,nzdi,0,1,complete
+heifer,price,RandomForest,weather_pruned,30,1,complete
+heifer,price,RandomForest,weather_pruned,60,1,complete
+heifer,price,RandomForest,weather_pruned,120,1,complete
+heifer,price,RandomForest,weather_pruned,180,1,complete
+heifer,price,ExtraTrees,controls,0,1,complete
+heifer,price,ExtraTrees,nzdi,0,1,complete
+heifer,price,ExtraTrees,weather_pruned,30,1,complete
+heifer,price,ExtraTrees,weather_pruned,60,1,complete
+heifer,price,ExtraTrees,weather_pruned,120,1,complete
+heifer,price,ExtraTrees,weather_pruned,180,1,complete
+heifer,price,HistGradientBoosting,controls,0,1,complete
+heifer,price,HistGradientBoosting,nzdi,0,1,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,1,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,1,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,1,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,1,complete
+heifer,price,LightGBM,controls,0,1,complete
+heifer,price,LightGBM,nzdi,0,1,complete
+heifer,price,LightGBM,weather_pruned,30,1,complete
+heifer,price,LightGBM,weather_pruned,60,1,complete
+heifer,price,LightGBM,weather_pruned,120,1,complete
+heifer,price,LightGBM,weather_pruned,180,1,complete
+heifer,price,Dummy,dummy,0,2,complete
+heifer,price,ElasticNet,controls,0,2,complete
+heifer,price,ElasticNet,nzdi,0,2,complete
+heifer,price,ElasticNet,weather_pruned,30,2,complete
+heifer,price,ElasticNet,weather_pruned,60,2,complete
+heifer,price,ElasticNet,weather_pruned,120,2,complete
+heifer,price,ElasticNet,weather_pruned,180,2,complete
+heifer,price,RandomForest,controls,0,2,complete
+heifer,price,RandomForest,nzdi,0,2,complete
+heifer,price,RandomForest,weather_pruned,30,2,complete
+heifer,price,RandomForest,weather_pruned,60,2,complete
+heifer,price,RandomForest,weather_pruned,120,2,complete
+heifer,price,RandomForest,weather_pruned,180,2,complete
+heifer,price,ExtraTrees,controls,0,2,complete
+heifer,price,ExtraTrees,nzdi,0,2,complete
+heifer,price,ExtraTrees,weather_pruned,30,2,complete
+heifer,price,ExtraTrees,weather_pruned,60,2,complete
+heifer,price,ExtraTrees,weather_pruned,120,2,complete
+heifer,price,ExtraTrees,weather_pruned,180,2,complete
+heifer,price,HistGradientBoosting,controls,0,2,complete
+heifer,price,HistGradientBoosting,nzdi,0,2,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,2,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,2,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,2,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,2,complete
+heifer,price,LightGBM,controls,0,2,complete
+heifer,price,LightGBM,nzdi,0,2,complete
+heifer,price,LightGBM,weather_pruned,30,2,complete
+heifer,price,LightGBM,weather_pruned,60,2,complete
+heifer,price,LightGBM,weather_pruned,120,2,complete
+heifer,price,LightGBM,weather_pruned,180,2,complete
+heifer,price,Dummy,dummy,0,3,complete
+heifer,price,ElasticNet,controls,0,3,complete
+heifer,price,ElasticNet,nzdi,0,3,complete
+heifer,price,ElasticNet,weather_pruned,30,3,complete
+heifer,price,ElasticNet,weather_pruned,60,3,complete
+heifer,price,ElasticNet,weather_pruned,120,3,complete
+heifer,price,ElasticNet,weather_pruned,180,3,complete
+heifer,price,RandomForest,controls,0,3,complete
+heifer,price,RandomForest,nzdi,0,3,complete
+heifer,price,RandomForest,weather_pruned,30,3,complete
+heifer,price,RandomForest,weather_pruned,60,3,complete
+heifer,price,RandomForest,weather_pruned,120,3,complete
+heifer,price,RandomForest,weather_pruned,180,3,complete
+heifer,price,ExtraTrees,controls,0,3,complete
+heifer,price,ExtraTrees,nzdi,0,3,complete
+heifer,price,ExtraTrees,weather_pruned,30,3,complete
+heifer,price,ExtraTrees,weather_pruned,60,3,complete
+heifer,price,ExtraTrees,weather_pruned,120,3,complete
+heifer,price,ExtraTrees,weather_pruned,180,3,complete
+heifer,price,HistGradientBoosting,controls,0,3,complete
+heifer,price,HistGradientBoosting,nzdi,0,3,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,3,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,3,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,3,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,3,complete
+heifer,price,LightGBM,controls,0,3,complete
+heifer,price,LightGBM,nzdi,0,3,complete
+heifer,price,LightGBM,weather_pruned,30,3,complete
+heifer,price,LightGBM,weather_pruned,60,3,complete
+heifer,price,LightGBM,weather_pruned,120,3,complete
+heifer,price,LightGBM,weather_pruned,180,3,complete
+heifer,price,Dummy,dummy,0,4,complete
+heifer,price,ElasticNet,controls,0,4,complete
+heifer,price,ElasticNet,nzdi,0,4,complete
+heifer,price,ElasticNet,weather_pruned,30,4,complete
+heifer,price,ElasticNet,weather_pruned,60,4,complete
+heifer,price,ElasticNet,weather_pruned,120,4,complete
+heifer,price,ElasticNet,weather_pruned,180,4,complete
+heifer,price,RandomForest,controls,0,4,complete
+heifer,price,RandomForest,nzdi,0,4,complete
+heifer,price,RandomForest,weather_pruned,30,4,complete
+heifer,price,RandomForest,weather_pruned,60,4,complete
+heifer,price,RandomForest,weather_pruned,120,4,complete
+heifer,price,RandomForest,weather_pruned,180,4,complete
+heifer,price,ExtraTrees,controls,0,4,complete
+heifer,price,ExtraTrees,nzdi,0,4,complete
+heifer,price,ExtraTrees,weather_pruned,30,4,complete
+heifer,price,ExtraTrees,weather_pruned,60,4,complete
+heifer,price,ExtraTrees,weather_pruned,120,4,complete
+heifer,price,ExtraTrees,weather_pruned,180,4,complete
+heifer,price,HistGradientBoosting,controls,0,4,complete
+heifer,price,HistGradientBoosting,nzdi,0,4,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,4,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,4,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,4,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,4,complete
+heifer,price,LightGBM,controls,0,4,complete
+heifer,price,LightGBM,nzdi,0,4,complete
+heifer,price,LightGBM,weather_pruned,30,4,complete
+heifer,price,LightGBM,weather_pruned,60,4,complete
+heifer,price,LightGBM,weather_pruned,120,4,complete
+heifer,price,LightGBM,weather_pruned,180,4,complete
+heifer,price,Dummy,dummy,0,5,complete
+heifer,price,ElasticNet,controls,0,5,complete
+heifer,price,ElasticNet,nzdi,0,5,complete
+heifer,price,ElasticNet,weather_pruned,30,5,complete
+heifer,price,ElasticNet,weather_pruned,60,5,complete
+heifer,price,ElasticNet,weather_pruned,120,5,complete
+heifer,price,ElasticNet,weather_pruned,180,5,complete
+heifer,price,RandomForest,controls,0,5,complete
+heifer,price,RandomForest,nzdi,0,5,complete
+heifer,price,RandomForest,weather_pruned,30,5,complete
+heifer,price,RandomForest,weather_pruned,60,5,complete
+heifer,price,RandomForest,weather_pruned,120,5,complete
+heifer,price,RandomForest,weather_pruned,180,5,complete
+heifer,price,ExtraTrees,controls,0,5,complete
+heifer,price,ExtraTrees,nzdi,0,5,complete
+heifer,price,ExtraTrees,weather_pruned,30,5,complete
+heifer,price,ExtraTrees,weather_pruned,60,5,complete
+heifer,price,ExtraTrees,weather_pruned,120,5,complete
+heifer,price,ExtraTrees,weather_pruned,180,5,complete
+heifer,price,HistGradientBoosting,controls,0,5,complete
+heifer,price,HistGradientBoosting,nzdi,0,5,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,5,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,5,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,5,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,5,complete
+heifer,price,LightGBM,controls,0,5,complete
+heifer,price,LightGBM,nzdi,0,5,complete
+heifer,price,LightGBM,weather_pruned,30,5,complete
+heifer,price,LightGBM,weather_pruned,60,5,complete
+heifer,price,LightGBM,weather_pruned,120,5,complete
+heifer,price,LightGBM,weather_pruned,180,5,complete
+heifer,price,Dummy,dummy,0,6,complete
+heifer,price,ElasticNet,controls,0,6,complete
+heifer,price,ElasticNet,nzdi,0,6,complete
+heifer,price,ElasticNet,weather_pruned,30,6,complete
+heifer,price,ElasticNet,weather_pruned,60,6,complete
+heifer,price,ElasticNet,weather_pruned,120,6,complete
+heifer,price,ElasticNet,weather_pruned,180,6,complete
+heifer,price,RandomForest,controls,0,6,complete
+heifer,price,RandomForest,nzdi,0,6,complete
+heifer,price,RandomForest,weather_pruned,30,6,complete
+heifer,price,RandomForest,weather_pruned,60,6,complete
+heifer,price,RandomForest,weather_pruned,120,6,complete
+heifer,price,RandomForest,weather_pruned,180,6,complete
+heifer,price,ExtraTrees,controls,0,6,complete
+heifer,price,ExtraTrees,nzdi,0,6,complete
+heifer,price,ExtraTrees,weather_pruned,30,6,complete
+heifer,price,ExtraTrees,weather_pruned,60,6,complete
+heifer,price,ExtraTrees,weather_pruned,120,6,complete
+heifer,price,ExtraTrees,weather_pruned,180,6,complete
+heifer,price,HistGradientBoosting,controls,0,6,complete
+heifer,price,HistGradientBoosting,nzdi,0,6,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,6,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,6,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,6,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,6,complete
+heifer,price,LightGBM,controls,0,6,complete
+heifer,price,LightGBM,nzdi,0,6,complete
+heifer,price,LightGBM,weather_pruned,30,6,complete
+heifer,price,LightGBM,weather_pruned,60,6,complete
+heifer,price,LightGBM,weather_pruned,120,6,complete
+heifer,price,LightGBM,weather_pruned,180,6,complete
+heifer,price,Dummy,dummy,0,7,complete
+heifer,price,ElasticNet,controls,0,7,complete
+heifer,price,ElasticNet,nzdi,0,7,complete
+heifer,price,ElasticNet,weather_pruned,30,7,complete
+heifer,price,ElasticNet,weather_pruned,60,7,complete
+heifer,price,ElasticNet,weather_pruned,120,7,complete
+heifer,price,ElasticNet,weather_pruned,180,7,complete
+heifer,price,RandomForest,controls,0,7,complete
+heifer,price,RandomForest,nzdi,0,7,complete
+heifer,price,RandomForest,weather_pruned,30,7,complete
+heifer,price,RandomForest,weather_pruned,60,7,complete
+heifer,price,RandomForest,weather_pruned,120,7,complete
+heifer,price,RandomForest,weather_pruned,180,7,complete
+heifer,price,ExtraTrees,controls,0,7,complete
+heifer,price,ExtraTrees,nzdi,0,7,complete
+heifer,price,ExtraTrees,weather_pruned,30,7,complete
+heifer,price,ExtraTrees,weather_pruned,60,7,complete
+heifer,price,ExtraTrees,weather_pruned,120,7,complete
+heifer,price,ExtraTrees,weather_pruned,180,7,complete
+heifer,price,HistGradientBoosting,controls,0,7,complete
+heifer,price,HistGradientBoosting,nzdi,0,7,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,7,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,7,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,7,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,7,complete
+heifer,price,LightGBM,controls,0,7,complete
+heifer,price,LightGBM,nzdi,0,7,complete
+heifer,price,LightGBM,weather_pruned,30,7,complete
+heifer,price,LightGBM,weather_pruned,60,7,complete
+heifer,price,LightGBM,weather_pruned,120,7,complete
+heifer,price,LightGBM,weather_pruned,180,7,complete
+heifer,price,Dummy,dummy,0,8,complete
+heifer,price,ElasticNet,controls,0,8,complete
+heifer,price,ElasticNet,nzdi,0,8,complete
+heifer,price,ElasticNet,weather_pruned,30,8,complete
+heifer,price,ElasticNet,weather_pruned,60,8,complete
+heifer,price,ElasticNet,weather_pruned,120,8,complete
+heifer,price,ElasticNet,weather_pruned,180,8,complete
+heifer,price,RandomForest,controls,0,8,complete
+heifer,price,RandomForest,nzdi,0,8,complete
+heifer,price,RandomForest,weather_pruned,30,8,complete
+heifer,price,RandomForest,weather_pruned,60,8,complete
+heifer,price,RandomForest,weather_pruned,120,8,complete
+heifer,price,RandomForest,weather_pruned,180,8,complete
+heifer,price,ExtraTrees,controls,0,8,complete
+heifer,price,ExtraTrees,nzdi,0,8,complete
+heifer,price,ExtraTrees,weather_pruned,30,8,complete
+heifer,price,ExtraTrees,weather_pruned,60,8,complete
+heifer,price,ExtraTrees,weather_pruned,120,8,complete
+heifer,price,ExtraTrees,weather_pruned,180,8,complete
+heifer,price,HistGradientBoosting,controls,0,8,complete
+heifer,price,HistGradientBoosting,nzdi,0,8,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,8,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,8,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,8,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,8,complete
+heifer,price,LightGBM,controls,0,8,complete
+heifer,price,LightGBM,nzdi,0,8,complete
+heifer,price,LightGBM,weather_pruned,30,8,complete
+heifer,price,LightGBM,weather_pruned,60,8,complete
+heifer,price,LightGBM,weather_pruned,120,8,complete
+heifer,price,LightGBM,weather_pruned,180,8,complete
+heifer,price,Dummy,dummy,0,9,complete
+heifer,price,ElasticNet,controls,0,9,complete
+heifer,price,ElasticNet,nzdi,0,9,complete
+heifer,price,ElasticNet,weather_pruned,30,9,complete
+heifer,price,ElasticNet,weather_pruned,60,9,complete
+heifer,price,ElasticNet,weather_pruned,120,9,complete
+heifer,price,ElasticNet,weather_pruned,180,9,complete
+heifer,price,RandomForest,controls,0,9,complete
+heifer,price,RandomForest,nzdi,0,9,complete
+heifer,price,RandomForest,weather_pruned,30,9,complete
+heifer,price,RandomForest,weather_pruned,60,9,complete
+heifer,price,RandomForest,weather_pruned,120,9,complete
+heifer,price,RandomForest,weather_pruned,180,9,complete
+heifer,price,ExtraTrees,controls,0,9,complete
+heifer,price,ExtraTrees,nzdi,0,9,complete
+heifer,price,ExtraTrees,weather_pruned,30,9,complete
+heifer,price,ExtraTrees,weather_pruned,60,9,complete
+heifer,price,ExtraTrees,weather_pruned,120,9,complete
+heifer,price,ExtraTrees,weather_pruned,180,9,complete
+heifer,price,HistGradientBoosting,controls,0,9,complete
+heifer,price,HistGradientBoosting,nzdi,0,9,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,9,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,9,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,9,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,9,complete
+heifer,price,LightGBM,controls,0,9,complete
+heifer,price,LightGBM,nzdi,0,9,complete
+heifer,price,LightGBM,weather_pruned,30,9,complete
+heifer,price,LightGBM,weather_pruned,60,9,complete
+heifer,price,LightGBM,weather_pruned,120,9,complete
+heifer,price,LightGBM,weather_pruned,180,9,complete
+heifer,price,Dummy,dummy,0,10,complete
+heifer,price,ElasticNet,controls,0,10,complete
+heifer,price,ElasticNet,nzdi,0,10,complete
+heifer,price,ElasticNet,weather_pruned,30,10,complete
+heifer,price,ElasticNet,weather_pruned,60,10,complete
+heifer,price,ElasticNet,weather_pruned,120,10,complete
+heifer,price,ElasticNet,weather_pruned,180,10,complete
+heifer,price,RandomForest,controls,0,10,complete
+heifer,price,RandomForest,nzdi,0,10,complete
+heifer,price,RandomForest,weather_pruned,30,10,complete
+heifer,price,RandomForest,weather_pruned,60,10,complete
+heifer,price,RandomForest,weather_pruned,120,10,complete
+heifer,price,RandomForest,weather_pruned,180,10,complete
+heifer,price,ExtraTrees,controls,0,10,complete
+heifer,price,ExtraTrees,nzdi,0,10,complete
+heifer,price,ExtraTrees,weather_pruned,30,10,complete
+heifer,price,ExtraTrees,weather_pruned,60,10,complete
+heifer,price,ExtraTrees,weather_pruned,120,10,complete
+heifer,price,ExtraTrees,weather_pruned,180,10,complete
+heifer,price,HistGradientBoosting,controls,0,10,complete
+heifer,price,HistGradientBoosting,nzdi,0,10,complete
+heifer,price,HistGradientBoosting,weather_pruned,30,10,complete
+heifer,price,HistGradientBoosting,weather_pruned,60,10,complete
+heifer,price,HistGradientBoosting,weather_pruned,120,10,complete
+heifer,price,HistGradientBoosting,weather_pruned,180,10,complete
+heifer,price,LightGBM,controls,0,10,complete
+heifer,price,LightGBM,nzdi,0,10,complete
+heifer,price,LightGBM,weather_pruned,30,10,complete
+heifer,price,LightGBM,weather_pruned,60,10,complete
+heifer,price,LightGBM,weather_pruned,120,10,complete
+heifer,price,LightGBM,weather_pruned,180,10,complete
+steer,live weight,Dummy,dummy,0,1,complete
+steer,live weight,ElasticNet,controls,0,1,complete
+steer,live weight,ElasticNet,nzdi,0,1,complete
+steer,live weight,ElasticNet,weather_pruned,30,1,complete
+steer,live weight,ElasticNet,weather_pruned,60,1,complete
+steer,live weight,ElasticNet,weather_pruned,120,1,complete
+steer,live weight,ElasticNet,weather_pruned,180,1,complete
+steer,live weight,RandomForest,controls,0,1,complete
+steer,live weight,RandomForest,nzdi,0,1,complete
+steer,live weight,RandomForest,weather_pruned,30,1,complete
+steer,live weight,RandomForest,weather_pruned,60,1,complete
+steer,live weight,RandomForest,weather_pruned,120,1,complete
+steer,live weight,RandomForest,weather_pruned,180,1,complete
+steer,live weight,ExtraTrees,controls,0,1,complete
+steer,live weight,ExtraTrees,nzdi,0,1,complete
+steer,live weight,ExtraTrees,weather_pruned,30,1,complete
+steer,live weight,ExtraTrees,weather_pruned,60,1,complete
+steer,live weight,ExtraTrees,weather_pruned,120,1,complete
+steer,live weight,ExtraTrees,weather_pruned,180,1,complete
+steer,live weight,HistGradientBoosting,controls,0,1,complete
+steer,live weight,HistGradientBoosting,nzdi,0,1,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,1,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,1,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,1,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,1,complete
+steer,live weight,LightGBM,controls,0,1,complete
+steer,live weight,LightGBM,nzdi,0,1,complete
+steer,live weight,LightGBM,weather_pruned,30,1,complete
+steer,live weight,LightGBM,weather_pruned,60,1,complete
+steer,live weight,LightGBM,weather_pruned,120,1,complete
+steer,live weight,LightGBM,weather_pruned,180,1,complete
+steer,live weight,Dummy,dummy,0,2,complete
+steer,live weight,ElasticNet,controls,0,2,complete
+steer,live weight,ElasticNet,nzdi,0,2,complete
+steer,live weight,ElasticNet,weather_pruned,30,2,complete
+steer,live weight,ElasticNet,weather_pruned,60,2,complete
+steer,live weight,ElasticNet,weather_pruned,120,2,complete
+steer,live weight,ElasticNet,weather_pruned,180,2,complete
+steer,live weight,RandomForest,controls,0,2,complete
+steer,live weight,RandomForest,nzdi,0,2,complete
+steer,live weight,RandomForest,weather_pruned,30,2,complete
+steer,live weight,RandomForest,weather_pruned,60,2,complete
+steer,live weight,RandomForest,weather_pruned,120,2,complete
+steer,live weight,RandomForest,weather_pruned,180,2,complete
+steer,live weight,ExtraTrees,controls,0,2,complete
+steer,live weight,ExtraTrees,nzdi,0,2,complete
+steer,live weight,ExtraTrees,weather_pruned,30,2,complete
+steer,live weight,ExtraTrees,weather_pruned,60,2,complete
+steer,live weight,ExtraTrees,weather_pruned,120,2,complete
+steer,live weight,ExtraTrees,weather_pruned,180,2,complete
+steer,live weight,HistGradientBoosting,controls,0,2,complete
+steer,live weight,HistGradientBoosting,nzdi,0,2,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,2,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,2,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,2,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,2,complete
+steer,live weight,LightGBM,controls,0,2,complete
+steer,live weight,LightGBM,nzdi,0,2,complete
+steer,live weight,LightGBM,weather_pruned,30,2,complete
+steer,live weight,LightGBM,weather_pruned,60,2,complete
+steer,live weight,LightGBM,weather_pruned,120,2,complete
+steer,live weight,LightGBM,weather_pruned,180,2,complete
+steer,live weight,Dummy,dummy,0,3,complete
+steer,live weight,ElasticNet,controls,0,3,complete
+steer,live weight,ElasticNet,nzdi,0,3,complete
+steer,live weight,ElasticNet,weather_pruned,30,3,complete
+steer,live weight,ElasticNet,weather_pruned,60,3,complete
+steer,live weight,ElasticNet,weather_pruned,120,3,complete
+steer,live weight,ElasticNet,weather_pruned,180,3,complete
+steer,live weight,RandomForest,controls,0,3,complete
+steer,live weight,RandomForest,nzdi,0,3,complete
+steer,live weight,RandomForest,weather_pruned,30,3,complete
+steer,live weight,RandomForest,weather_pruned,60,3,complete
+steer,live weight,RandomForest,weather_pruned,120,3,complete
+steer,live weight,RandomForest,weather_pruned,180,3,complete
+steer,live weight,ExtraTrees,controls,0,3,complete
+steer,live weight,ExtraTrees,nzdi,0,3,complete
+steer,live weight,ExtraTrees,weather_pruned,30,3,complete
+steer,live weight,ExtraTrees,weather_pruned,60,3,complete
+steer,live weight,ExtraTrees,weather_pruned,120,3,complete
+steer,live weight,ExtraTrees,weather_pruned,180,3,complete
+steer,live weight,HistGradientBoosting,controls,0,3,complete
+steer,live weight,HistGradientBoosting,nzdi,0,3,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,3,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,3,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,3,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,3,complete
+steer,live weight,LightGBM,controls,0,3,complete
+steer,live weight,LightGBM,nzdi,0,3,complete
+steer,live weight,LightGBM,weather_pruned,30,3,complete
+steer,live weight,LightGBM,weather_pruned,60,3,complete
+steer,live weight,LightGBM,weather_pruned,120,3,complete
+steer,live weight,LightGBM,weather_pruned,180,3,complete
+steer,live weight,Dummy,dummy,0,4,complete
+steer,live weight,ElasticNet,controls,0,4,complete
+steer,live weight,ElasticNet,nzdi,0,4,complete
+steer,live weight,ElasticNet,weather_pruned,30,4,complete
+steer,live weight,ElasticNet,weather_pruned,60,4,complete
+steer,live weight,ElasticNet,weather_pruned,120,4,complete
+steer,live weight,ElasticNet,weather_pruned,180,4,complete
+steer,live weight,RandomForest,controls,0,4,complete
+steer,live weight,RandomForest,nzdi,0,4,complete
+steer,live weight,RandomForest,weather_pruned,30,4,complete
+steer,live weight,RandomForest,weather_pruned,60,4,complete
+steer,live weight,RandomForest,weather_pruned,120,4,complete
+steer,live weight,RandomForest,weather_pruned,180,4,complete
+steer,live weight,ExtraTrees,controls,0,4,complete
+steer,live weight,ExtraTrees,nzdi,0,4,complete
+steer,live weight,ExtraTrees,weather_pruned,30,4,complete
+steer,live weight,ExtraTrees,weather_pruned,60,4,complete
+steer,live weight,ExtraTrees,weather_pruned,120,4,complete
+steer,live weight,ExtraTrees,weather_pruned,180,4,complete
+steer,live weight,HistGradientBoosting,controls,0,4,complete
+steer,live weight,HistGradientBoosting,nzdi,0,4,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,4,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,4,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,4,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,4,complete
+steer,live weight,LightGBM,controls,0,4,complete
+steer,live weight,LightGBM,nzdi,0,4,complete
+steer,live weight,LightGBM,weather_pruned,30,4,complete
+steer,live weight,LightGBM,weather_pruned,60,4,complete
+steer,live weight,LightGBM,weather_pruned,120,4,complete
+steer,live weight,LightGBM,weather_pruned,180,4,complete
+steer,live weight,Dummy,dummy,0,5,complete
+steer,live weight,ElasticNet,controls,0,5,complete
+steer,live weight,ElasticNet,nzdi,0,5,complete
+steer,live weight,ElasticNet,weather_pruned,30,5,complete
+steer,live weight,ElasticNet,weather_pruned,60,5,complete
+steer,live weight,ElasticNet,weather_pruned,120,5,complete
+steer,live weight,ElasticNet,weather_pruned,180,5,complete
+steer,live weight,RandomForest,controls,0,5,complete
+steer,live weight,RandomForest,nzdi,0,5,complete
+steer,live weight,RandomForest,weather_pruned,30,5,complete
+steer,live weight,RandomForest,weather_pruned,60,5,complete
+steer,live weight,RandomForest,weather_pruned,120,5,complete
+steer,live weight,RandomForest,weather_pruned,180,5,complete
+steer,live weight,ExtraTrees,controls,0,5,complete
+steer,live weight,ExtraTrees,nzdi,0,5,complete
+steer,live weight,ExtraTrees,weather_pruned,30,5,complete
+steer,live weight,ExtraTrees,weather_pruned,60,5,complete
+steer,live weight,ExtraTrees,weather_pruned,120,5,complete
+steer,live weight,ExtraTrees,weather_pruned,180,5,complete
+steer,live weight,HistGradientBoosting,controls,0,5,complete
+steer,live weight,HistGradientBoosting,nzdi,0,5,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,5,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,5,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,5,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,5,complete
+steer,live weight,LightGBM,controls,0,5,complete
+steer,live weight,LightGBM,nzdi,0,5,complete
+steer,live weight,LightGBM,weather_pruned,30,5,complete
+steer,live weight,LightGBM,weather_pruned,60,5,complete
+steer,live weight,LightGBM,weather_pruned,120,5,complete
+steer,live weight,LightGBM,weather_pruned,180,5,complete
+steer,live weight,Dummy,dummy,0,6,complete
+steer,live weight,ElasticNet,controls,0,6,complete
+steer,live weight,ElasticNet,nzdi,0,6,complete
+steer,live weight,ElasticNet,weather_pruned,30,6,complete
+steer,live weight,ElasticNet,weather_pruned,60,6,complete
+steer,live weight,ElasticNet,weather_pruned,120,6,complete
+steer,live weight,ElasticNet,weather_pruned,180,6,complete
+steer,live weight,RandomForest,controls,0,6,complete
+steer,live weight,RandomForest,nzdi,0,6,complete
+steer,live weight,RandomForest,weather_pruned,30,6,complete
+steer,live weight,RandomForest,weather_pruned,60,6,complete
+steer,live weight,RandomForest,weather_pruned,120,6,complete
+steer,live weight,RandomForest,weather_pruned,180,6,complete
+steer,live weight,ExtraTrees,controls,0,6,complete
+steer,live weight,ExtraTrees,nzdi,0,6,complete
+steer,live weight,ExtraTrees,weather_pruned,30,6,complete
+steer,live weight,ExtraTrees,weather_pruned,60,6,complete
+steer,live weight,ExtraTrees,weather_pruned,120,6,complete
+steer,live weight,ExtraTrees,weather_pruned,180,6,complete
+steer,live weight,HistGradientBoosting,controls,0,6,complete
+steer,live weight,HistGradientBoosting,nzdi,0,6,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,6,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,6,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,6,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,6,complete
+steer,live weight,LightGBM,controls,0,6,complete
+steer,live weight,LightGBM,nzdi,0,6,complete
+steer,live weight,LightGBM,weather_pruned,30,6,complete
+steer,live weight,LightGBM,weather_pruned,60,6,complete
+steer,live weight,LightGBM,weather_pruned,120,6,complete
+steer,live weight,LightGBM,weather_pruned,180,6,complete
+steer,live weight,Dummy,dummy,0,7,complete
+steer,live weight,ElasticNet,controls,0,7,complete
+steer,live weight,ElasticNet,nzdi,0,7,complete
+steer,live weight,ElasticNet,weather_pruned,30,7,complete
+steer,live weight,ElasticNet,weather_pruned,60,7,complete
+steer,live weight,ElasticNet,weather_pruned,120,7,complete
+steer,live weight,ElasticNet,weather_pruned,180,7,complete
+steer,live weight,RandomForest,controls,0,7,complete
+steer,live weight,RandomForest,nzdi,0,7,complete
+steer,live weight,RandomForest,weather_pruned,30,7,complete
+steer,live weight,RandomForest,weather_pruned,60,7,complete
+steer,live weight,RandomForest,weather_pruned,120,7,complete
+steer,live weight,RandomForest,weather_pruned,180,7,complete
+steer,live weight,ExtraTrees,controls,0,7,complete
+steer,live weight,ExtraTrees,nzdi,0,7,complete
+steer,live weight,ExtraTrees,weather_pruned,30,7,complete
+steer,live weight,ExtraTrees,weather_pruned,60,7,complete
+steer,live weight,ExtraTrees,weather_pruned,120,7,complete
+steer,live weight,ExtraTrees,weather_pruned,180,7,complete
+steer,live weight,HistGradientBoosting,controls,0,7,complete
+steer,live weight,HistGradientBoosting,nzdi,0,7,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,7,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,7,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,7,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,7,complete
+steer,live weight,LightGBM,controls,0,7,complete
+steer,live weight,LightGBM,nzdi,0,7,complete
+steer,live weight,LightGBM,weather_pruned,30,7,complete
+steer,live weight,LightGBM,weather_pruned,60,7,complete
+steer,live weight,LightGBM,weather_pruned,120,7,complete
+steer,live weight,LightGBM,weather_pruned,180,7,complete
+steer,live weight,Dummy,dummy,0,8,complete
+steer,live weight,ElasticNet,controls,0,8,complete
+steer,live weight,ElasticNet,nzdi,0,8,complete
+steer,live weight,ElasticNet,weather_pruned,30,8,complete
+steer,live weight,ElasticNet,weather_pruned,60,8,complete
+steer,live weight,ElasticNet,weather_pruned,120,8,complete
+steer,live weight,ElasticNet,weather_pruned,180,8,complete
+steer,live weight,RandomForest,controls,0,8,complete
+steer,live weight,RandomForest,nzdi,0,8,complete
+steer,live weight,RandomForest,weather_pruned,30,8,complete
+steer,live weight,RandomForest,weather_pruned,60,8,complete
+steer,live weight,RandomForest,weather_pruned,120,8,complete
+steer,live weight,RandomForest,weather_pruned,180,8,complete
+steer,live weight,ExtraTrees,controls,0,8,complete
+steer,live weight,ExtraTrees,nzdi,0,8,complete
+steer,live weight,ExtraTrees,weather_pruned,30,8,complete
+steer,live weight,ExtraTrees,weather_pruned,60,8,complete
+steer,live weight,ExtraTrees,weather_pruned,120,8,complete
+steer,live weight,ExtraTrees,weather_pruned,180,8,complete
+steer,live weight,HistGradientBoosting,controls,0,8,complete
+steer,live weight,HistGradientBoosting,nzdi,0,8,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,8,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,8,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,8,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,8,complete
+steer,live weight,LightGBM,controls,0,8,complete
+steer,live weight,LightGBM,nzdi,0,8,complete
+steer,live weight,LightGBM,weather_pruned,30,8,complete
+steer,live weight,LightGBM,weather_pruned,60,8,complete
+steer,live weight,LightGBM,weather_pruned,120,8,complete
+steer,live weight,LightGBM,weather_pruned,180,8,complete
+steer,live weight,Dummy,dummy,0,9,complete
+steer,live weight,ElasticNet,controls,0,9,complete
+steer,live weight,ElasticNet,nzdi,0,9,complete
+steer,live weight,ElasticNet,weather_pruned,30,9,complete
+steer,live weight,ElasticNet,weather_pruned,60,9,complete
+steer,live weight,ElasticNet,weather_pruned,120,9,complete
+steer,live weight,ElasticNet,weather_pruned,180,9,complete
+steer,live weight,RandomForest,controls,0,9,complete
+steer,live weight,RandomForest,nzdi,0,9,complete
+steer,live weight,RandomForest,weather_pruned,30,9,complete
+steer,live weight,RandomForest,weather_pruned,60,9,complete
+steer,live weight,RandomForest,weather_pruned,120,9,complete
+steer,live weight,RandomForest,weather_pruned,180,9,complete
+steer,live weight,ExtraTrees,controls,0,9,complete
+steer,live weight,ExtraTrees,nzdi,0,9,complete
+steer,live weight,ExtraTrees,weather_pruned,30,9,complete
+steer,live weight,ExtraTrees,weather_pruned,60,9,complete
+steer,live weight,ExtraTrees,weather_pruned,120,9,complete
+steer,live weight,ExtraTrees,weather_pruned,180,9,complete
+steer,live weight,HistGradientBoosting,controls,0,9,complete
+steer,live weight,HistGradientBoosting,nzdi,0,9,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,9,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,9,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,9,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,9,complete
+steer,live weight,LightGBM,controls,0,9,complete
+steer,live weight,LightGBM,nzdi,0,9,complete
+steer,live weight,LightGBM,weather_pruned,30,9,complete
+steer,live weight,LightGBM,weather_pruned,60,9,complete
+steer,live weight,LightGBM,weather_pruned,120,9,complete
+steer,live weight,LightGBM,weather_pruned,180,9,complete
+steer,live weight,Dummy,dummy,0,10,complete
+steer,live weight,ElasticNet,controls,0,10,complete
+steer,live weight,ElasticNet,nzdi,0,10,complete
+steer,live weight,ElasticNet,weather_pruned,30,10,complete
+steer,live weight,ElasticNet,weather_pruned,60,10,complete
+steer,live weight,ElasticNet,weather_pruned,120,10,complete
+steer,live weight,ElasticNet,weather_pruned,180,10,complete
+steer,live weight,RandomForest,controls,0,10,complete
+steer,live weight,RandomForest,nzdi,0,10,complete
+steer,live weight,RandomForest,weather_pruned,30,10,complete
+steer,live weight,RandomForest,weather_pruned,60,10,complete
+steer,live weight,RandomForest,weather_pruned,120,10,complete
+steer,live weight,RandomForest,weather_pruned,180,10,complete
+steer,live weight,ExtraTrees,controls,0,10,complete
+steer,live weight,ExtraTrees,nzdi,0,10,complete
+steer,live weight,ExtraTrees,weather_pruned,30,10,complete
+steer,live weight,ExtraTrees,weather_pruned,60,10,complete
+steer,live weight,ExtraTrees,weather_pruned,120,10,complete
+steer,live weight,ExtraTrees,weather_pruned,180,10,complete
+steer,live weight,HistGradientBoosting,controls,0,10,complete
+steer,live weight,HistGradientBoosting,nzdi,0,10,complete
+steer,live weight,HistGradientBoosting,weather_pruned,30,10,complete
+steer,live weight,HistGradientBoosting,weather_pruned,60,10,complete
+steer,live weight,HistGradientBoosting,weather_pruned,120,10,complete
+steer,live weight,HistGradientBoosting,weather_pruned,180,10,complete
+steer,live weight,LightGBM,controls,0,10,complete
+steer,live weight,LightGBM,nzdi,0,10,complete
+steer,live weight,LightGBM,weather_pruned,30,10,complete
+steer,live weight,LightGBM,weather_pruned,60,10,complete
+steer,live weight,LightGBM,weather_pruned,120,10,complete
+steer,live weight,LightGBM,weather_pruned,180,10,complete
+steer,carcass weight,Dummy,dummy,0,1,complete
+steer,carcass weight,ElasticNet,controls,0,1,complete
+steer,carcass weight,ElasticNet,nzdi,0,1,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,1,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,1,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,1,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,1,complete
+steer,carcass weight,RandomForest,controls,0,1,complete
+steer,carcass weight,RandomForest,nzdi,0,1,complete
+steer,carcass weight,RandomForest,weather_pruned,30,1,complete
+steer,carcass weight,RandomForest,weather_pruned,60,1,complete
+steer,carcass weight,RandomForest,weather_pruned,120,1,complete
+steer,carcass weight,RandomForest,weather_pruned,180,1,complete
+steer,carcass weight,ExtraTrees,controls,0,1,complete
+steer,carcass weight,ExtraTrees,nzdi,0,1,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,1,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,1,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,1,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,1,complete
+steer,carcass weight,HistGradientBoosting,controls,0,1,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,1,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,1,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,1,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,1,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,1,complete
+steer,carcass weight,LightGBM,controls,0,1,complete
+steer,carcass weight,LightGBM,nzdi,0,1,complete
+steer,carcass weight,LightGBM,weather_pruned,30,1,complete
+steer,carcass weight,LightGBM,weather_pruned,60,1,complete
+steer,carcass weight,LightGBM,weather_pruned,120,1,complete
+steer,carcass weight,LightGBM,weather_pruned,180,1,complete
+steer,carcass weight,Dummy,dummy,0,2,complete
+steer,carcass weight,ElasticNet,controls,0,2,complete
+steer,carcass weight,ElasticNet,nzdi,0,2,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,2,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,2,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,2,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,2,complete
+steer,carcass weight,RandomForest,controls,0,2,complete
+steer,carcass weight,RandomForest,nzdi,0,2,complete
+steer,carcass weight,RandomForest,weather_pruned,30,2,complete
+steer,carcass weight,RandomForest,weather_pruned,60,2,complete
+steer,carcass weight,RandomForest,weather_pruned,120,2,complete
+steer,carcass weight,RandomForest,weather_pruned,180,2,complete
+steer,carcass weight,ExtraTrees,controls,0,2,complete
+steer,carcass weight,ExtraTrees,nzdi,0,2,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,2,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,2,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,2,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,2,complete
+steer,carcass weight,HistGradientBoosting,controls,0,2,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,2,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,2,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,2,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,2,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,2,complete
+steer,carcass weight,LightGBM,controls,0,2,complete
+steer,carcass weight,LightGBM,nzdi,0,2,complete
+steer,carcass weight,LightGBM,weather_pruned,30,2,complete
+steer,carcass weight,LightGBM,weather_pruned,60,2,complete
+steer,carcass weight,LightGBM,weather_pruned,120,2,complete
+steer,carcass weight,LightGBM,weather_pruned,180,2,complete
+steer,carcass weight,Dummy,dummy,0,3,complete
+steer,carcass weight,ElasticNet,controls,0,3,complete
+steer,carcass weight,ElasticNet,nzdi,0,3,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,3,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,3,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,3,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,3,complete
+steer,carcass weight,RandomForest,controls,0,3,complete
+steer,carcass weight,RandomForest,nzdi,0,3,complete
+steer,carcass weight,RandomForest,weather_pruned,30,3,complete
+steer,carcass weight,RandomForest,weather_pruned,60,3,complete
+steer,carcass weight,RandomForest,weather_pruned,120,3,complete
+steer,carcass weight,RandomForest,weather_pruned,180,3,complete
+steer,carcass weight,ExtraTrees,controls,0,3,complete
+steer,carcass weight,ExtraTrees,nzdi,0,3,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,3,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,3,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,3,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,3,complete
+steer,carcass weight,HistGradientBoosting,controls,0,3,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,3,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,3,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,3,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,3,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,3,complete
+steer,carcass weight,LightGBM,controls,0,3,complete
+steer,carcass weight,LightGBM,nzdi,0,3,complete
+steer,carcass weight,LightGBM,weather_pruned,30,3,complete
+steer,carcass weight,LightGBM,weather_pruned,60,3,complete
+steer,carcass weight,LightGBM,weather_pruned,120,3,complete
+steer,carcass weight,LightGBM,weather_pruned,180,3,complete
+steer,carcass weight,Dummy,dummy,0,4,complete
+steer,carcass weight,ElasticNet,controls,0,4,complete
+steer,carcass weight,ElasticNet,nzdi,0,4,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,4,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,4,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,4,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,4,complete
+steer,carcass weight,RandomForest,controls,0,4,complete
+steer,carcass weight,RandomForest,nzdi,0,4,complete
+steer,carcass weight,RandomForest,weather_pruned,30,4,complete
+steer,carcass weight,RandomForest,weather_pruned,60,4,complete
+steer,carcass weight,RandomForest,weather_pruned,120,4,complete
+steer,carcass weight,RandomForest,weather_pruned,180,4,complete
+steer,carcass weight,ExtraTrees,controls,0,4,complete
+steer,carcass weight,ExtraTrees,nzdi,0,4,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,4,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,4,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,4,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,4,complete
+steer,carcass weight,HistGradientBoosting,controls,0,4,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,4,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,4,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,4,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,4,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,4,complete
+steer,carcass weight,LightGBM,controls,0,4,complete
+steer,carcass weight,LightGBM,nzdi,0,4,complete
+steer,carcass weight,LightGBM,weather_pruned,30,4,complete
+steer,carcass weight,LightGBM,weather_pruned,60,4,complete
+steer,carcass weight,LightGBM,weather_pruned,120,4,complete
+steer,carcass weight,LightGBM,weather_pruned,180,4,complete
+steer,carcass weight,Dummy,dummy,0,5,complete
+steer,carcass weight,ElasticNet,controls,0,5,complete
+steer,carcass weight,ElasticNet,nzdi,0,5,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,5,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,5,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,5,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,5,complete
+steer,carcass weight,RandomForest,controls,0,5,complete
+steer,carcass weight,RandomForest,nzdi,0,5,complete
+steer,carcass weight,RandomForest,weather_pruned,30,5,complete
+steer,carcass weight,RandomForest,weather_pruned,60,5,complete
+steer,carcass weight,RandomForest,weather_pruned,120,5,complete
+steer,carcass weight,RandomForest,weather_pruned,180,5,complete
+steer,carcass weight,ExtraTrees,controls,0,5,complete
+steer,carcass weight,ExtraTrees,nzdi,0,5,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,5,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,5,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,5,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,5,complete
+steer,carcass weight,HistGradientBoosting,controls,0,5,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,5,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,5,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,5,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,5,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,5,complete
+steer,carcass weight,LightGBM,controls,0,5,complete
+steer,carcass weight,LightGBM,nzdi,0,5,complete
+steer,carcass weight,LightGBM,weather_pruned,30,5,complete
+steer,carcass weight,LightGBM,weather_pruned,60,5,complete
+steer,carcass weight,LightGBM,weather_pruned,120,5,complete
+steer,carcass weight,LightGBM,weather_pruned,180,5,complete
+steer,carcass weight,Dummy,dummy,0,6,complete
+steer,carcass weight,ElasticNet,controls,0,6,complete
+steer,carcass weight,ElasticNet,nzdi,0,6,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,6,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,6,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,6,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,6,complete
+steer,carcass weight,RandomForest,controls,0,6,complete
+steer,carcass weight,RandomForest,nzdi,0,6,complete
+steer,carcass weight,RandomForest,weather_pruned,30,6,complete
+steer,carcass weight,RandomForest,weather_pruned,60,6,complete
+steer,carcass weight,RandomForest,weather_pruned,120,6,complete
+steer,carcass weight,RandomForest,weather_pruned,180,6,complete
+steer,carcass weight,ExtraTrees,controls,0,6,complete
+steer,carcass weight,ExtraTrees,nzdi,0,6,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,6,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,6,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,6,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,6,complete
+steer,carcass weight,HistGradientBoosting,controls,0,6,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,6,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,6,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,6,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,6,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,6,complete
+steer,carcass weight,LightGBM,controls,0,6,complete
+steer,carcass weight,LightGBM,nzdi,0,6,complete
+steer,carcass weight,LightGBM,weather_pruned,30,6,complete
+steer,carcass weight,LightGBM,weather_pruned,60,6,complete
+steer,carcass weight,LightGBM,weather_pruned,120,6,complete
+steer,carcass weight,LightGBM,weather_pruned,180,6,complete
+steer,carcass weight,Dummy,dummy,0,7,complete
+steer,carcass weight,ElasticNet,controls,0,7,complete
+steer,carcass weight,ElasticNet,nzdi,0,7,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,7,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,7,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,7,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,7,complete
+steer,carcass weight,RandomForest,controls,0,7,complete
+steer,carcass weight,RandomForest,nzdi,0,7,complete
+steer,carcass weight,RandomForest,weather_pruned,30,7,complete
+steer,carcass weight,RandomForest,weather_pruned,60,7,complete
+steer,carcass weight,RandomForest,weather_pruned,120,7,complete
+steer,carcass weight,RandomForest,weather_pruned,180,7,complete
+steer,carcass weight,ExtraTrees,controls,0,7,complete
+steer,carcass weight,ExtraTrees,nzdi,0,7,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,7,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,7,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,7,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,7,complete
+steer,carcass weight,HistGradientBoosting,controls,0,7,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,7,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,7,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,7,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,7,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,7,complete
+steer,carcass weight,LightGBM,controls,0,7,complete
+steer,carcass weight,LightGBM,nzdi,0,7,complete
+steer,carcass weight,LightGBM,weather_pruned,30,7,complete
+steer,carcass weight,LightGBM,weather_pruned,60,7,complete
+steer,carcass weight,LightGBM,weather_pruned,120,7,complete
+steer,carcass weight,LightGBM,weather_pruned,180,7,complete
+steer,carcass weight,Dummy,dummy,0,8,complete
+steer,carcass weight,ElasticNet,controls,0,8,complete
+steer,carcass weight,ElasticNet,nzdi,0,8,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,8,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,8,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,8,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,8,complete
+steer,carcass weight,RandomForest,controls,0,8,complete
+steer,carcass weight,RandomForest,nzdi,0,8,complete
+steer,carcass weight,RandomForest,weather_pruned,30,8,complete
+steer,carcass weight,RandomForest,weather_pruned,60,8,complete
+steer,carcass weight,RandomForest,weather_pruned,120,8,complete
+steer,carcass weight,RandomForest,weather_pruned,180,8,complete
+steer,carcass weight,ExtraTrees,controls,0,8,complete
+steer,carcass weight,ExtraTrees,nzdi,0,8,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,8,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,8,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,8,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,8,complete
+steer,carcass weight,HistGradientBoosting,controls,0,8,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,8,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,8,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,8,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,8,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,8,complete
+steer,carcass weight,LightGBM,controls,0,8,complete
+steer,carcass weight,LightGBM,nzdi,0,8,complete
+steer,carcass weight,LightGBM,weather_pruned,30,8,complete
+steer,carcass weight,LightGBM,weather_pruned,60,8,complete
+steer,carcass weight,LightGBM,weather_pruned,120,8,complete
+steer,carcass weight,LightGBM,weather_pruned,180,8,complete
+steer,carcass weight,Dummy,dummy,0,9,complete
+steer,carcass weight,ElasticNet,controls,0,9,complete
+steer,carcass weight,ElasticNet,nzdi,0,9,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,9,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,9,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,9,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,9,complete
+steer,carcass weight,RandomForest,controls,0,9,complete
+steer,carcass weight,RandomForest,nzdi,0,9,complete
+steer,carcass weight,RandomForest,weather_pruned,30,9,complete
+steer,carcass weight,RandomForest,weather_pruned,60,9,complete
+steer,carcass weight,RandomForest,weather_pruned,120,9,complete
+steer,carcass weight,RandomForest,weather_pruned,180,9,complete
+steer,carcass weight,ExtraTrees,controls,0,9,complete
+steer,carcass weight,ExtraTrees,nzdi,0,9,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,9,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,9,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,9,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,9,complete
+steer,carcass weight,HistGradientBoosting,controls,0,9,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,9,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,9,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,9,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,9,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,9,complete
+steer,carcass weight,LightGBM,controls,0,9,complete
+steer,carcass weight,LightGBM,nzdi,0,9,complete
+steer,carcass weight,LightGBM,weather_pruned,30,9,complete
+steer,carcass weight,LightGBM,weather_pruned,60,9,complete
+steer,carcass weight,LightGBM,weather_pruned,120,9,complete
+steer,carcass weight,LightGBM,weather_pruned,180,9,complete
+steer,carcass weight,Dummy,dummy,0,10,complete
+steer,carcass weight,ElasticNet,controls,0,10,complete
+steer,carcass weight,ElasticNet,nzdi,0,10,complete
+steer,carcass weight,ElasticNet,weather_pruned,30,10,complete
+steer,carcass weight,ElasticNet,weather_pruned,60,10,complete
+steer,carcass weight,ElasticNet,weather_pruned,120,10,complete
+steer,carcass weight,ElasticNet,weather_pruned,180,10,complete
+steer,carcass weight,RandomForest,controls,0,10,complete
+steer,carcass weight,RandomForest,nzdi,0,10,complete
+steer,carcass weight,RandomForest,weather_pruned,30,10,complete
+steer,carcass weight,RandomForest,weather_pruned,60,10,complete
+steer,carcass weight,RandomForest,weather_pruned,120,10,complete
+steer,carcass weight,RandomForest,weather_pruned,180,10,complete
+steer,carcass weight,ExtraTrees,controls,0,10,complete
+steer,carcass weight,ExtraTrees,nzdi,0,10,complete
+steer,carcass weight,ExtraTrees,weather_pruned,30,10,complete
+steer,carcass weight,ExtraTrees,weather_pruned,60,10,complete
+steer,carcass weight,ExtraTrees,weather_pruned,120,10,complete
+steer,carcass weight,ExtraTrees,weather_pruned,180,10,complete
+steer,carcass weight,HistGradientBoosting,controls,0,10,complete
+steer,carcass weight,HistGradientBoosting,nzdi,0,10,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,30,10,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,60,10,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,120,10,complete
+steer,carcass weight,HistGradientBoosting,weather_pruned,180,10,complete
+steer,carcass weight,LightGBM,controls,0,10,complete
+steer,carcass weight,LightGBM,nzdi,0,10,complete
+steer,carcass weight,LightGBM,weather_pruned,30,10,complete
+steer,carcass weight,LightGBM,weather_pruned,60,10,complete
+steer,carcass weight,LightGBM,weather_pruned,120,10,complete
+steer,carcass weight,LightGBM,weather_pruned,180,10,complete
+steer,price,Dummy,dummy,0,1,complete
+steer,price,ElasticNet,controls,0,1,complete
+steer,price,ElasticNet,nzdi,0,1,complete
+steer,price,ElasticNet,weather_pruned,30,1,complete
+steer,price,ElasticNet,weather_pruned,60,1,complete
+steer,price,ElasticNet,weather_pruned,120,1,complete
+steer,price,ElasticNet,weather_pruned,180,1,complete
+steer,price,RandomForest,controls,0,1,complete
+steer,price,RandomForest,nzdi,0,1,complete
+steer,price,RandomForest,weather_pruned,30,1,complete
+steer,price,RandomForest,weather_pruned,60,1,complete
+steer,price,RandomForest,weather_pruned,120,1,complete
+steer,price,RandomForest,weather_pruned,180,1,complete
+steer,price,ExtraTrees,controls,0,1,complete
+steer,price,ExtraTrees,nzdi,0,1,complete
+steer,price,ExtraTrees,weather_pruned,30,1,complete
+steer,price,ExtraTrees,weather_pruned,60,1,complete
+steer,price,ExtraTrees,weather_pruned,120,1,complete
+steer,price,ExtraTrees,weather_pruned,180,1,complete
+steer,price,HistGradientBoosting,controls,0,1,complete
+steer,price,HistGradientBoosting,nzdi,0,1,complete
+steer,price,HistGradientBoosting,weather_pruned,30,1,complete
+steer,price,HistGradientBoosting,weather_pruned,60,1,complete
+steer,price,HistGradientBoosting,weather_pruned,120,1,complete
+steer,price,HistGradientBoosting,weather_pruned,180,1,complete
+steer,price,LightGBM,controls,0,1,complete
+steer,price,LightGBM,nzdi,0,1,complete
+steer,price,LightGBM,weather_pruned,30,1,complete
+steer,price,LightGBM,weather_pruned,60,1,complete
+steer,price,LightGBM,weather_pruned,120,1,complete
+steer,price,LightGBM,weather_pruned,180,1,complete
+steer,price,Dummy,dummy,0,2,complete
+steer,price,ElasticNet,controls,0,2,complete
+steer,price,ElasticNet,nzdi,0,2,complete
+steer,price,ElasticNet,weather_pruned,30,2,complete
+steer,price,ElasticNet,weather_pruned,60,2,complete
+steer,price,ElasticNet,weather_pruned,120,2,complete
+steer,price,ElasticNet,weather_pruned,180,2,complete
+steer,price,RandomForest,controls,0,2,complete
+steer,price,RandomForest,nzdi,0,2,complete
+steer,price,RandomForest,weather_pruned,30,2,complete
+steer,price,RandomForest,weather_pruned,60,2,complete
+steer,price,RandomForest,weather_pruned,120,2,complete
+steer,price,RandomForest,weather_pruned,180,2,complete
+steer,price,ExtraTrees,controls,0,2,complete
+steer,price,ExtraTrees,nzdi,0,2,complete
+steer,price,ExtraTrees,weather_pruned,30,2,complete
+steer,price,ExtraTrees,weather_pruned,60,2,complete
+steer,price,ExtraTrees,weather_pruned,120,2,complete
+steer,price,ExtraTrees,weather_pruned,180,2,complete
+steer,price,HistGradientBoosting,controls,0,2,complete
+steer,price,HistGradientBoosting,nzdi,0,2,complete
+steer,price,HistGradientBoosting,weather_pruned,30,2,complete
+steer,price,HistGradientBoosting,weather_pruned,60,2,complete
+steer,price,HistGradientBoosting,weather_pruned,120,2,complete
+steer,price,HistGradientBoosting,weather_pruned,180,2,complete
+steer,price,LightGBM,controls,0,2,complete
+steer,price,LightGBM,nzdi,0,2,complete
+steer,price,LightGBM,weather_pruned,30,2,complete
+steer,price,LightGBM,weather_pruned,60,2,complete
+steer,price,LightGBM,weather_pruned,120,2,complete
+steer,price,LightGBM,weather_pruned,180,2,complete
+steer,price,Dummy,dummy,0,3,complete
+steer,price,ElasticNet,controls,0,3,complete
+steer,price,ElasticNet,nzdi,0,3,complete
+steer,price,ElasticNet,weather_pruned,30,3,complete
+steer,price,ElasticNet,weather_pruned,60,3,complete
+steer,price,ElasticNet,weather_pruned,120,3,complete
+steer,price,ElasticNet,weather_pruned,180,3,complete
+steer,price,RandomForest,controls,0,3,complete
+steer,price,RandomForest,nzdi,0,3,complete
+steer,price,RandomForest,weather_pruned,30,3,complete
+steer,price,RandomForest,weather_pruned,60,3,complete
+steer,price,RandomForest,weather_pruned,120,3,complete
+steer,price,RandomForest,weather_pruned,180,3,complete
+steer,price,ExtraTrees,controls,0,3,complete
+steer,price,ExtraTrees,nzdi,0,3,complete
+steer,price,ExtraTrees,weather_pruned,30,3,complete
+steer,price,ExtraTrees,weather_pruned,60,3,complete
+steer,price,ExtraTrees,weather_pruned,120,3,complete
+steer,price,ExtraTrees,weather_pruned,180,3,complete
+steer,price,HistGradientBoosting,controls,0,3,complete
+steer,price,HistGradientBoosting,nzdi,0,3,complete
+steer,price,HistGradientBoosting,weather_pruned,30,3,complete
+steer,price,HistGradientBoosting,weather_pruned,60,3,complete
+steer,price,HistGradientBoosting,weather_pruned,120,3,complete
+steer,price,HistGradientBoosting,weather_pruned,180,3,complete
+steer,price,LightGBM,controls,0,3,complete
+steer,price,LightGBM,nzdi,0,3,complete
+steer,price,LightGBM,weather_pruned,30,3,complete
+steer,price,LightGBM,weather_pruned,60,3,complete
+steer,price,LightGBM,weather_pruned,120,3,complete
+steer,price,LightGBM,weather_pruned,180,3,complete
+steer,price,Dummy,dummy,0,4,complete
+steer,price,ElasticNet,controls,0,4,complete
+steer,price,ElasticNet,nzdi,0,4,complete
+steer,price,ElasticNet,weather_pruned,30,4,complete
+steer,price,ElasticNet,weather_pruned,60,4,complete
+steer,price,ElasticNet,weather_pruned,120,4,complete
+steer,price,ElasticNet,weather_pruned,180,4,complete
+steer,price,RandomForest,controls,0,4,complete
+steer,price,RandomForest,nzdi,0,4,complete
+steer,price,RandomForest,weather_pruned,30,4,complete
+steer,price,RandomForest,weather_pruned,60,4,complete
+steer,price,RandomForest,weather_pruned,120,4,complete
+steer,price,RandomForest,weather_pruned,180,4,complete
+steer,price,ExtraTrees,controls,0,4,complete
+steer,price,ExtraTrees,nzdi,0,4,complete
+steer,price,ExtraTrees,weather_pruned,30,4,complete
+steer,price,ExtraTrees,weather_pruned,60,4,complete
+steer,price,ExtraTrees,weather_pruned,120,4,complete
+steer,price,ExtraTrees,weather_pruned,180,4,complete
+steer,price,HistGradientBoosting,controls,0,4,complete
+steer,price,HistGradientBoosting,nzdi,0,4,complete
+steer,price,HistGradientBoosting,weather_pruned,30,4,complete
+steer,price,HistGradientBoosting,weather_pruned,60,4,complete
+steer,price,HistGradientBoosting,weather_pruned,120,4,complete
+steer,price,HistGradientBoosting,weather_pruned,180,4,complete
+steer,price,LightGBM,controls,0,4,complete
+steer,price,LightGBM,nzdi,0,4,complete
+steer,price,LightGBM,weather_pruned,30,4,complete
+steer,price,LightGBM,weather_pruned,60,4,complete
+steer,price,LightGBM,weather_pruned,120,4,complete
+steer,price,LightGBM,weather_pruned,180,4,complete
+steer,price,Dummy,dummy,0,5,complete
+steer,price,ElasticNet,controls,0,5,complete
+steer,price,ElasticNet,nzdi,0,5,complete
+steer,price,ElasticNet,weather_pruned,30,5,complete
+steer,price,ElasticNet,weather_pruned,60,5,complete
+steer,price,ElasticNet,weather_pruned,120,5,complete
+steer,price,ElasticNet,weather_pruned,180,5,complete
+steer,price,RandomForest,controls,0,5,complete
+steer,price,RandomForest,nzdi,0,5,complete
+steer,price,RandomForest,weather_pruned,30,5,complete
+steer,price,RandomForest,weather_pruned,60,5,complete
+steer,price,RandomForest,weather_pruned,120,5,complete
+steer,price,RandomForest,weather_pruned,180,5,complete
+steer,price,ExtraTrees,controls,0,5,complete
+steer,price,ExtraTrees,nzdi,0,5,complete
+steer,price,ExtraTrees,weather_pruned,30,5,complete
+steer,price,ExtraTrees,weather_pruned,60,5,complete
+steer,price,ExtraTrees,weather_pruned,120,5,complete
+steer,price,ExtraTrees,weather_pruned,180,5,complete
+steer,price,HistGradientBoosting,controls,0,5,complete
+steer,price,HistGradientBoosting,nzdi,0,5,complete
+steer,price,HistGradientBoosting,weather_pruned,30,5,complete
+steer,price,HistGradientBoosting,weather_pruned,60,5,complete
+steer,price,HistGradientBoosting,weather_pruned,120,5,complete
+steer,price,HistGradientBoosting,weather_pruned,180,5,complete
+steer,price,LightGBM,controls,0,5,complete
+steer,price,LightGBM,nzdi,0,5,complete
+steer,price,LightGBM,weather_pruned,30,5,complete
+steer,price,LightGBM,weather_pruned,60,5,complete
+steer,price,LightGBM,weather_pruned,120,5,complete
+steer,price,LightGBM,weather_pruned,180,5,complete
+steer,price,Dummy,dummy,0,6,complete
+steer,price,ElasticNet,controls,0,6,complete
+steer,price,ElasticNet,nzdi,0,6,complete
+steer,price,ElasticNet,weather_pruned,30,6,complete
+steer,price,ElasticNet,weather_pruned,60,6,complete
+steer,price,ElasticNet,weather_pruned,120,6,complete
+steer,price,ElasticNet,weather_pruned,180,6,complete
+steer,price,RandomForest,controls,0,6,complete
+steer,price,RandomForest,nzdi,0,6,complete
+steer,price,RandomForest,weather_pruned,30,6,complete
+steer,price,RandomForest,weather_pruned,60,6,complete
+steer,price,RandomForest,weather_pruned,120,6,complete
+steer,price,RandomForest,weather_pruned,180,6,complete
+steer,price,ExtraTrees,controls,0,6,complete
+steer,price,ExtraTrees,nzdi,0,6,complete
+steer,price,ExtraTrees,weather_pruned,30,6,complete
+steer,price,ExtraTrees,weather_pruned,60,6,complete
+steer,price,ExtraTrees,weather_pruned,120,6,complete
+steer,price,ExtraTrees,weather_pruned,180,6,complete
+steer,price,HistGradientBoosting,controls,0,6,complete
+steer,price,HistGradientBoosting,nzdi,0,6,complete
+steer,price,HistGradientBoosting,weather_pruned,30,6,complete
+steer,price,HistGradientBoosting,weather_pruned,60,6,complete
+steer,price,HistGradientBoosting,weather_pruned,120,6,complete
+steer,price,HistGradientBoosting,weather_pruned,180,6,complete
+steer,price,LightGBM,controls,0,6,complete
+steer,price,LightGBM,nzdi,0,6,complete
+steer,price,LightGBM,weather_pruned,30,6,complete
+steer,price,LightGBM,weather_pruned,60,6,complete
+steer,price,LightGBM,weather_pruned,120,6,complete
+steer,price,LightGBM,weather_pruned,180,6,complete
+steer,price,Dummy,dummy,0,7,complete
+steer,price,ElasticNet,controls,0,7,complete
+steer,price,ElasticNet,nzdi,0,7,complete
+steer,price,ElasticNet,weather_pruned,30,7,complete
+steer,price,ElasticNet,weather_pruned,60,7,complete
+steer,price,ElasticNet,weather_pruned,120,7,complete
+steer,price,ElasticNet,weather_pruned,180,7,complete
+steer,price,RandomForest,controls,0,7,complete
+steer,price,RandomForest,nzdi,0,7,complete
+steer,price,RandomForest,weather_pruned,30,7,complete
+steer,price,RandomForest,weather_pruned,60,7,complete
+steer,price,RandomForest,weather_pruned,120,7,complete
+steer,price,RandomForest,weather_pruned,180,7,complete
+steer,price,ExtraTrees,controls,0,7,complete
+steer,price,ExtraTrees,nzdi,0,7,complete
+steer,price,ExtraTrees,weather_pruned,30,7,complete
+steer,price,ExtraTrees,weather_pruned,60,7,complete
+steer,price,ExtraTrees,weather_pruned,120,7,complete
+steer,price,ExtraTrees,weather_pruned,180,7,complete
+steer,price,HistGradientBoosting,controls,0,7,complete
+steer,price,HistGradientBoosting,nzdi,0,7,complete
+steer,price,HistGradientBoosting,weather_pruned,30,7,complete
+steer,price,HistGradientBoosting,weather_pruned,60,7,complete
+steer,price,HistGradientBoosting,weather_pruned,120,7,complete
+steer,price,HistGradientBoosting,weather_pruned,180,7,complete
+steer,price,LightGBM,controls,0,7,complete
+steer,price,LightGBM,nzdi,0,7,complete
+steer,price,LightGBM,weather_pruned,30,7,complete
+steer,price,LightGBM,weather_pruned,60,7,complete
+steer,price,LightGBM,weather_pruned,120,7,complete
+steer,price,LightGBM,weather_pruned,180,7,complete
+steer,price,Dummy,dummy,0,8,complete
+steer,price,ElasticNet,controls,0,8,complete
+steer,price,ElasticNet,nzdi,0,8,complete
+steer,price,ElasticNet,weather_pruned,30,8,complete
+steer,price,ElasticNet,weather_pruned,60,8,complete
+steer,price,ElasticNet,weather_pruned,120,8,complete
+steer,price,ElasticNet,weather_pruned,180,8,complete
+steer,price,RandomForest,controls,0,8,complete
+steer,price,RandomForest,nzdi,0,8,complete
+steer,price,RandomForest,weather_pruned,30,8,complete
+steer,price,RandomForest,weather_pruned,60,8,complete
+steer,price,RandomForest,weather_pruned,120,8,complete
+steer,price,RandomForest,weather_pruned,180,8,complete
+steer,price,ExtraTrees,controls,0,8,complete
+steer,price,ExtraTrees,nzdi,0,8,complete
+steer,price,ExtraTrees,weather_pruned,30,8,complete
+steer,price,ExtraTrees,weather_pruned,60,8,complete
+steer,price,ExtraTrees,weather_pruned,120,8,complete
+steer,price,ExtraTrees,weather_pruned,180,8,complete
+steer,price,HistGradientBoosting,controls,0,8,complete
+steer,price,HistGradientBoosting,nzdi,0,8,complete
+steer,price,HistGradientBoosting,weather_pruned,30,8,complete
+steer,price,HistGradientBoosting,weather_pruned,60,8,complete
+steer,price,HistGradientBoosting,weather_pruned,120,8,complete
+steer,price,HistGradientBoosting,weather_pruned,180,8,complete
+steer,price,LightGBM,controls,0,8,complete
+steer,price,LightGBM,nzdi,0,8,complete
+steer,price,LightGBM,weather_pruned,30,8,complete
+steer,price,LightGBM,weather_pruned,60,8,complete
+steer,price,LightGBM,weather_pruned,120,8,complete
+steer,price,LightGBM,weather_pruned,180,8,complete
+steer,price,Dummy,dummy,0,9,complete
+steer,price,ElasticNet,controls,0,9,complete
+steer,price,ElasticNet,nzdi,0,9,complete
+steer,price,ElasticNet,weather_pruned,30,9,complete
+steer,price,ElasticNet,weather_pruned,60,9,complete
+steer,price,ElasticNet,weather_pruned,120,9,complete
+steer,price,ElasticNet,weather_pruned,180,9,complete
+steer,price,RandomForest,controls,0,9,complete
+steer,price,RandomForest,nzdi,0,9,complete
+steer,price,RandomForest,weather_pruned,30,9,complete
+steer,price,RandomForest,weather_pruned,60,9,complete
+steer,price,RandomForest,weather_pruned,120,9,complete
+steer,price,RandomForest,weather_pruned,180,9,complete
+steer,price,ExtraTrees,controls,0,9,complete
+steer,price,ExtraTrees,nzdi,0,9,complete
+steer,price,ExtraTrees,weather_pruned,30,9,complete
+steer,price,ExtraTrees,weather_pruned,60,9,complete
+steer,price,ExtraTrees,weather_pruned,120,9,complete
+steer,price,ExtraTrees,weather_pruned,180,9,complete
+steer,price,HistGradientBoosting,controls,0,9,complete
+steer,price,HistGradientBoosting,nzdi,0,9,complete
+steer,price,HistGradientBoosting,weather_pruned,30,9,complete
+steer,price,HistGradientBoosting,weather_pruned,60,9,complete
+steer,price,HistGradientBoosting,weather_pruned,120,9,complete
+steer,price,HistGradientBoosting,weather_pruned,180,9,complete
+steer,price,LightGBM,controls,0,9,complete
+steer,price,LightGBM,nzdi,0,9,complete
+steer,price,LightGBM,weather_pruned,30,9,complete
+steer,price,LightGBM,weather_pruned,60,9,complete
+steer,price,LightGBM,weather_pruned,120,9,complete
+steer,price,LightGBM,weather_pruned,180,9,complete
+steer,price,Dummy,dummy,0,10,complete
+steer,price,ElasticNet,controls,0,10,complete
+steer,price,ElasticNet,nzdi,0,10,complete
+steer,price,ElasticNet,weather_pruned,30,10,complete
+steer,price,ElasticNet,weather_pruned,60,10,complete
+steer,price,ElasticNet,weather_pruned,120,10,complete
+steer,price,ElasticNet,weather_pruned,180,10,complete
+steer,price,RandomForest,controls,0,10,complete
+steer,price,RandomForest,nzdi,0,10,complete
+steer,price,RandomForest,weather_pruned,30,10,complete
+steer,price,RandomForest,weather_pruned,60,10,complete
+steer,price,RandomForest,weather_pruned,120,10,complete
+steer,price,RandomForest,weather_pruned,180,10,complete
+steer,price,ExtraTrees,controls,0,10,complete
+steer,price,ExtraTrees,nzdi,0,10,complete
+steer,price,ExtraTrees,weather_pruned,30,10,complete
+steer,price,ExtraTrees,weather_pruned,60,10,complete
+steer,price,ExtraTrees,weather_pruned,120,10,complete
+steer,price,ExtraTrees,weather_pruned,180,10,complete
+steer,price,HistGradientBoosting,controls,0,10,complete
+steer,price,HistGradientBoosting,nzdi,0,10,complete
+steer,price,HistGradientBoosting,weather_pruned,30,10,complete
+steer,price,HistGradientBoosting,weather_pruned,60,10,complete
+steer,price,HistGradientBoosting,weather_pruned,120,10,complete
+steer,price,HistGradientBoosting,weather_pruned,180,10,complete
+steer,price,LightGBM,controls,0,10,complete
+steer,price,LightGBM,nzdi,0,10,complete
+steer,price,LightGBM,weather_pruned,30,10,complete
+steer,price,LightGBM,weather_pruned,60,10,complete
+steer,price,LightGBM,weather_pruned,120,10,complete
+steer,price,LightGBM,weather_pruned,180,10,complete

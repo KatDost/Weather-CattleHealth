@@ -1,0 +1,7 @@
+animal_type,target,evaluated_groups_all,evaluated_dates_all,contributing_folds_all,contributing_groups_all,contributing_dates_all,evaluated_groups_significant,contributing_folds_significant,contributing_groups_significant,contributing_dates_significant
+heifer,live weight,28,16,4,13,8,5,0,0,0
+heifer,carcass weight,28,16,4,14,7,8,0,0,0
+heifer,price,28,16,4,14,7,8,0,0,0
+steer,live weight,58,31,10,58,31,23,4,16,11
+steer,carcass weight,58,31,10,58,31,22,6,18,13
+steer,price,58,31,10,58,31,23,5,18,13
